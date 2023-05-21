@@ -1,3 +1,4 @@
+![[model-table.png]]
 - 4 fundamental forces
 	- Bosons
 - Elementary particles
@@ -12,7 +13,6 @@
 	- Leptons
 		- No colour
 		- Electroweak interactions
-
 - Bosons
 	-  Scalar
 		- Spin 0
@@ -21,3 +21,6 @@
 		- Spin 1
 		- Force carriers
 		- y, W, Z, g
+
+![[boson-interactions-feynman.png]]
+![[boson-interactions.png]]

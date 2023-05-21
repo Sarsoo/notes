@@ -1,5 +1,4 @@
 - Massic energy
 - Gravimetric energy density
 - Energy density
-
-- Can mean energy per unit volume
+	- Can mean energy per unit volume
