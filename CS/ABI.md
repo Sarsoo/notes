@@ -1,8 +1,8 @@
-- How data structures & computational routines are accessed in machine code
+- How data structures & computational routines are accessed in machine code ([[Code Types]])
 	- Machine code therefore hardware-dependent
 - API defines this structure in source code
 - Adherence usually responsibility of
-	- Compiler
+	- [[Compilers]]
 	- OS
 	- Library author
 
@@ -13,7 +13,7 @@
 	- Stack organisation
 	- Memory access types
 - Size, layouts and alignments of basic data types
-- ___Calling convention___
+- [[Calling Conventions]]
 	- How function arguments are passed
 		- Stack or register
 		- Which registers for which function param

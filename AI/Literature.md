@@ -1,3 +1,4 @@
+#lit
 [https://web.stanford.edu/~jurafsky/slp3/A.pdf](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
 [Towards Data Science: 3 Things You Need To Know Before You Train-Test Split](https://towardsdatascience.com/3-things-you-need-to-know-before-you-train-test-split-869dfabb7e50)
 [https://machinelearningmastery.com/train-final-machine-learning-model/](https://machinelearningmastery.com/train-final-machine-learning-model/)

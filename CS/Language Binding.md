@@ -4,22 +4,25 @@
 ## Runtime Environments
 
 ### Object Models
--   COM
-	-   Component Object Model
-	-   MS only cross-language model
--   CLI
-	-   .NET Common Language Infrastructure
--   Freedesktop.org D-Bus
-	-   Open cross-platform-language model
+- COM 
+	- [[C++]]
+	- Component Object Model
+	- MS only cross-language model
+- CLI 
+	- [[dotNet]]
+	- .NET Common Language Infrastructure
+- Freedesktop.org D-Bus
+	- Open cross-platform-language model
 
 ### Virtual Machines
--   CLR
-	-   .NET Common Language Runtime
--   Mono
-	-   CLI languages
-	-   Cross-platform
--   Adobe Flash Player
-	-   Tamarin
--   JVM
--   LLVM
--   Silverlight
+- CLR 
+	- [[dotNet]]
+	- .NET Common Language Runtime
+- Mono
+	- CLI languages
+	- Cross-platform
+- Adobe Flash Player
+	- Tamarin
+- JVM
+- LLVM
+- Silverlight

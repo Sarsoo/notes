@@ -12,7 +12,8 @@ Just-in-Time
 -   Dynamic compilation
 -   Adaptive optimization
 	-   Dynamic recompilation
-	-   Microarchitecture-specific speedups
+	-   Microarchitecture-specific speedups 
+		- [[ISA]]
 
 ## AOT
 Ahead-of-Time

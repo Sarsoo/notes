@@ -10,6 +10,7 @@
 -   JIT managed code into machine instructions
 -   Execution engine
 	-   VM
+	- [[Language Binding#Virtual Machines]]
 -   Services
 	-   Memory management
 	-   Type safety
@@ -28,3 +29,5 @@
 -   Compiled CLI code
 -   Portable executable (PE)
 	-   DLL, EXE
+
+![[cli-infrastructure.png]]

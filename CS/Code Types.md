@@ -27,9 +27,9 @@ Portable Code
 -   Compact numeric codes, constants and references
 	-   Encode compiler output following analysis and validation
 -   Can be further compiled
-	-   JIT
+	-   [[Compilers#JIT]]
 -   Typically passed to VM
-	-   Java, Python
+	-   Java, [[Python]]
 
 ## Object Code
 -   Product of compiler
