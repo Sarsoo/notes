@@ -4,4 +4,4 @@ $$=w^T(n)x(n)$$
 ![[slp-hyperplane.png]]
 Perceptron learning is performed for a finite number of iteration and then stops
 
-LMS is continuous learning that doesn't stop
+[[Least Mean Square|LMS]] is continuous learning that doesn't stop
