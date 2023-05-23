@@ -104,3 +104,4 @@ $$\Delta w_{ji}(n)=\eta\cdot\delta_j(n)\cdot y_i(n)$$
 		-   Can shoot past local minima if descending quickly
 
 ![[mlp-global-minimum.png]]
+
