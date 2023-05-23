@@ -36,13 +36,13 @@ Explanation-based learning uses both
 ## Level of Explanation
 -   Classical has emphasis on building symbolic representations
 	-   Models cognition as sequential processing of symbolic representations
--   Neural nets emphasis on parallel distributed processing models
+-   [[Properties+Capabilities|Neural nets]] emphasis on parallel distributed processing models
 	-   Models assume information processing takes place through interactions of large numbers of neurons
 
 ## Processing style
 -   Classical processing is sequential
 	-   Von Neumann Machine
--   Neural nets use parallelism everywhere
+-   [[Properties+Capabilities|Neural nets]] use parallelism everywhere
 	-   Source of flexibility
 	-   Robust
 
@@ -50,7 +50,7 @@ Explanation-based learning uses both
 -   Classical emphasises language of thought
 	-   Symbolic representation has quasi-linguistic structure
 	-   New symbols created from compositionality
--   Neural nets have problem describing nature and structure of representation
+-   [[Properties+Capabilities|Neural nets]] have problem describing nature and structure of representation
 
 Symbolic AI is the formal manipulation of a language of algorithms and data representations in a top-down fashion
 

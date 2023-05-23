@@ -1,6 +1,6 @@
 $$-\frac{\hbar^2}{2m}\nabla^2\psi+V\psi=E\psi$$
 - Time Independent
-- $\psi$ is the wave function
+- $\psi$ is the [[Wave Function]]
 
 Quantum counterpart of Newton's second law in classical mechanics
 

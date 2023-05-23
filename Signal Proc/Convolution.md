@@ -6,13 +6,13 @@ $$x(t)=x_1(t)\circledast x_2(t)=\int_{-\infty}^\infty x_1(t-\tau)\cdot x_2(\tau)
 
 # Properties
 1. $x_1(t)\circledast x_2(t)=x_2(t)\circledast x_1(t)$
-	1. Commutativity
+	- Commutativity
 2. $(x_1(t)\circledast x_2(t))\circledast x_3(t)=x_1(t)\circledast (x_2(t)\circledast x_3(t))$
-	1. Associativity
+	- Associativity
 3.  $x_1(t)\circledast [x_2(t)+x_3(t)]=x_1(t)\circledast x_2(t)+ x_1(t)\circledast x_3(t)$
-	1. Distributivity
+	- Distributivity
 4. $Ax_1(t)\circledast Bx_2(t)=AB[x_1(t)\circledast x_2(t)]$
-	1. Associativity with Scalar
+	- Associativity with Scalar
 5. Symmetrical graph about origin
 
 # Applications
@@ -24,3 +24,7 @@ $$x(t)=x_1(t)\circledast x_2(t)=\int_{-\infty}^\infty x_1(t-\tau)\cdot x_2(\tau)
 
 # Polynomial Multiplication
 -   Convolving coefficients of two poly gives coefficients of product
+
+# Discrete
+$$G[i,j]=H[u,v]\circledast F[i,j]$$
+$$G[i,j]=\sum^k_{u=-k}\sum^k_{v=-k} H[u,v]F[i-u,j-v]$$

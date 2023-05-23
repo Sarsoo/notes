@@ -1,14 +1,6 @@
-$$\psi(r,\theta,\phi)=R(r)\cdot Y_{ml}(\theta, \phi)$$
-Wave functions are products of
-Radial Function
-- $R_{n,l}(r)$
-Spherical Harmonic
-- $Y_{ml}(\theta, \phi)$
+[[Wave Function]]
 
-Absolute value of wave function squared gives probability density of finding electron inside differential volume $dV$ centred on $r, \theta, \phi$
-
-$$|\psi(r,\theta,\phi)|^2$$
-# Quantum Numbers
+## Quantum Numbers
 $$n$$
 Principal quantum number
 - 1, 2, 3...
@@ -24,3 +16,30 @@ $$m$$
 Z-component / Magentic of $l$
 - $-l$ to $+l$
 - ***Orientation*** of orbital
+
+![[wave-function-polar-segment.png]]
+
+## Filling
+
+1.  Aufbau
+	-  Start lowest in energy
+2.  Pauli's Exclusion
+	-  Max two electrons per orbital
+	-  No two electrons can have same n, l, m, s tuple
+3.  Hund's Rule of Maximum Multiplicity
+	-  Orbitals with same energy filled one at a time
+	-  Degenerate
+
+![[orbitals-radius.png]]
+![[wave-function-nodes.png]]
+
+## Radial
+![[radial-equations.png]]
+
+- Z = Atomic number
+- Bohr radius
+	- $a_0=\frac \hbar {\alpha mc}$
+- Normalisation
+	- $\int_0^\infty r^2R_{nl}^*R_{nl}dr=1$
+
+![[radius-electron-density-wf.png]]
