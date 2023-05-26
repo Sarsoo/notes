@@ -1,14 +1,14 @@
-Deep Convolutional GAN
+Deep Convolutional [[GAN]]
 ![[dc-gan.png]]
 
 - Generator
-	- FCN
+	- [[FCN]]
 	- Decoder
 	- Generate image from code
 		- Low-dimensional
 			- ~100-D
 	- Reshape to tensor
-		- Upconv to image
+		- [[Upconv]] to image
 	- Train using Gaussian random noise for code
 - Discriminator
 	- Contractive
@@ -57,12 +57,12 @@ $$J^{(G)}=-J^{(D)}$$
 
 # What is Learnt?
 - Encoding texture/patch detail from training set
-	- Similar to FCN
+	- Similar to [[FCN]]
 	- Reproducing texture at high level
 	- Cues triggered by code vector
 		- Input random noise
 - Iteratively improves visual feasibility
-	- Different to FCN
+	- Different to [[FCN]]
 - Discriminator is a task specific classifier
 - Difficult to train over diverse footage
 	- Mixing concepts doesn't work

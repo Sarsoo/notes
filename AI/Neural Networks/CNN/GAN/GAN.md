@@ -1,12 +1,12 @@
 # Fully Convolutional
-- Remove max-pooling
-	- Use strided upconv
+- Remove [[Max Pooling]]
+	- Use strided [[upconv]]
 - Remove FC layers
 	- Hurts convergence in non-classification
 - Normalisation tricks
 	- Batch normalisation
 		- Batches of 0 mean and variance 1
-	- Leaky ReLu
+	- Leaky [[Activation Functions#ReLu|ReLu]]
 
 # Stages
 ## Generator, G

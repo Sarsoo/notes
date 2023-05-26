@@ -1,7 +1,7 @@
-Conditional GAN
+Conditional [[GAN]]
 
-- Hard to control with AM
-	- Unconditional GAN
+- Hard to control with [[Interpretation#Activation Maximisation|AM]]
+	- Unconditional [[GAN]]
 - Condition synthesis on a class label
 - Concatenate unconditional code with conditioning vector
 	- Label

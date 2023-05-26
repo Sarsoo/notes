@@ -1,4 +1,4 @@
-Cycle Consistent GAN
+Cycle Consistent [[GAN]]
 
 - G
 	- $x \rightarrow y$
