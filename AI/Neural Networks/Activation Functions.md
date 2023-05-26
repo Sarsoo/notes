@@ -52,5 +52,17 @@ $$\frac{dy}{dx}=
 Rectilinear
 - For deep networks
 - $y=max(0,x)$
+- CNNs
+	- Breaks associativity of successive convolutions
+		- Critical for learning complex functions
+	- Sometimes small scalar for negative
+		- Leaky ReLu
 
 ![[relu.png]]
+
+# SoftMax
+- Output is per-class vector of likelihoods
+	- Should be normalised into probability vector
+
+## AlexNet
+$$f(x_i)=\frac{\text{exp}(x_i)}{\sum_{j=1}^{1000}\text{exp}(x_j)}$$

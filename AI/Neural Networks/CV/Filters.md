@@ -1,0 +1,2 @@
+# Gabor
+![[gabor.png]]
