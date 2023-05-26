@@ -1,7 +1,24 @@
-## Sigmoid
+- Limits output values
+- Squashing function
+
+# Threshold
+- For binary functions
+- Not differentiable
+	- Sharp rise
+- *Heaviside function*
+- Unipolar
+	- 0 <-> +1
+- Bipolar
+	- -1 <-> +1
+
+![[threshold-activation.png]]
+
+# Sigmoid
 -   Logistic function
 -   Normalises
 -   Introduces non-linearity
+-   Alternative is $tanh$
+	- -1 <-> +1
 -   Easy to take derivative
 $$\frac d {dx} \sigma(x)=
 \frac d {dx} \left[ 
@@ -30,3 +47,10 @@ $$\frac{dy}{dx}=\frac d {dx}\left(\frac u v\right)$$
 
 $$\frac{dy}{dx}=
 \frac {v \frac d {dx}(u) - u\frac d {dx}(v)} {v^2}$$
+
+# ReLu
+Rectilinear
+- For deep networks
+- $y=max(0,x)$
+
+![[relu.png]]

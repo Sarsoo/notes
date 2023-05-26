@@ -1,0 +1,52 @@
+- Meant to mimic cognitive attention
+	- Picks out relevant bits of information
+	- Use gradient descent
+- Used in 90s
+	- Multiplicative modules
+	- Sigma pi units
+	- Hyper-networks
+- Draw from relevant state at any preceding point along sequence
+	- Addresses [[RNN]]s vanishing gradient issues
+	- [[LSTM]] tends to poorly preserve far back knowledge
+- Attention layer access all previous states and weighs according to learned measure of relevance
+	- Allows referring arbitrarily far back to relevant tokens
+- Can be addd to [[RNN]]s
+- In 2016, a new type of highly parallelisable _decomposable attention_ was successfully combined with a feedforward network
+	- Attention useful in of itself, not just with [[RNN]]s
+- [[Transformers]] use attention without recurrent connections
+	- Process all tokens simultaneously
+	- Calculate attention weights in successive layers
+
+# Scaled Dot-Product
+- Calculate attention weights between all tokens at once
+- Learn 3 weight matrices
+	- Query
+		- $W_Q$
+	- Key
+		- $W_K$
+	- Value
+		- $W_V$
+- Word vectors
+	- For each token, $i$, input word embedding, $x_i$
+		- Multiply with each of above to produce vector
+	- Query Vector
+		- $q_i=x_iW_Q$
+	- Key Vector
+		- $k_i=x_iW_K$
+	- Value Vector
+		- $v_i=x_iW_V$
+- Attention vector
+	- Query and key vectors between token $i$ and $j$
+	- $a_{ij}=q_i\cdot k_j$
+	- Divided by root of dimensionality of key vectors
+		- $\sqrt{d_k}$
+	- Pass through softmax to normalise
+- $W_Q$ and $W_K$ are different matrices
+	- Attention can be non-symmetric
+	- Token $i$ attends to $j$ ($q_i\cdot k_j$ is large)
+		- Doesn't imply that $j$ attends to $i$ ($q_j\cdot k_i$ can be small)
+- Output for token $i$ is weighted sum of value vectors of all tokens weighted by $a_{ij}$
+	- Attention from token $i$ to each other token
+- $Q, K, V$ are matrices where $i$th row are vectors $q_i, k_i, v_i$ respectively 
+$$\text{Attention}(Q,K,V)=\text{softmax}\left( \frac{QK^T}{\sqrt{d_k}} \right)V$$
+- softmax taken over horizontal axis

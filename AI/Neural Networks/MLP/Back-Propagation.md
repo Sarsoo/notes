@@ -45,7 +45,7 @@ $$\Delta w_{ji}(n)=
 $$\Delta w_{ji}(n)=
 \eta\delta_j(n)y_i(n)$$
 ## Gradients
-#### Output
+#### Output Local
 $$\delta_j(n)=-\frac{\partial\mathfrak E (n)}{\partial v_j(n)}$$
 $$=-
 \frac{\partial\mathfrak E(n)}{\partial e_j(n)}
@@ -56,7 +56,7 @@ e_j(n)\cdot
 \varphi_j'(v_j(n))
 $$
 
-#### Local
+#### Hidden Local
 $$\delta_j(n)=-
 \frac{\partial\mathfrak E (n)}{\partial y_j(n)}
 \frac{\partial y_j(n)}{\partial v_j(n)}$$
@@ -77,7 +77,7 @@ $$\Delta w_{ji}(n)=\eta\cdot\delta_j(n)\cdot y_i(n)$$
 -   4 partial derivatives
 	1.  Sum of squared errors WRT error in one output node
 	2.  Error WRT output $y$
-	3.  Output Y WRT Pre-activation function sum
+	3.  Output $y$ WRT Pre-activation function sum
 	4.  Pre-activation function sum WRT weight
 		-   Other weights constant, goes to zero
 		-   Leaves just $y_i$
@@ -105,3 +105,11 @@ $$\Delta w_{ji}(n)=\eta\cdot\delta_j(n)\cdot y_i(n)$$
 
 ![[mlp-global-minimum.png]]
 
+![[back-prop1.png]]
+![[back-prop2.png]]
+
+![[back-prop-equations.png]]
+
+$w^+_5=w_5-\eta\cdot\frac{\partial E_{total}}{\partial w_5}$
+
+![[back-prop-weight-changes.png]]
