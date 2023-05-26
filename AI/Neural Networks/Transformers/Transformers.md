@@ -35,5 +35,5 @@
 	- Uses incorporated textual information to produce output
 	- Has attention to draw information from output of previous decoders before drawing from encoders
 - Both use [[attention]]
-- Both use dense layers for additional processing of outputs
+- Both use [[MLP|dense]] layers for additional processing of outputs
 	- Contain residual connections & layer norm steps

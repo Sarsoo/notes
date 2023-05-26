@@ -14,14 +14,14 @@
 	- Double digit % gain on ImageNet accuracy
 
 # Full Connected
-Dense
+[[MLP|Dense]]
 - Move from convolutional operations towards vector output
 - Stochastic drop-out
-	- Sub-sample channels and only connect some to dense layers
+	- Sub-sample channels and only connect some to [[MLP|dense]] layers
 
 # As a Descriptor
 - Most powerful as a deeply learned feature extractor
-- Dense classifier at the end isn't fantastic
+- [[MLP|Dense]] classifier at the end isn't fantastic
 	- Use SVM to classify prior to penultimate layer
 
 ![[cnn-descriptor.png]]
@@ -42,13 +42,13 @@ Dense
 
 ![[fine-tuning-freezing.png]]
 # Training
-- Validation & training loss
+- Validation & training [[Deep Learning#Loss Function|loss]]
 - Early
 	- Under-fitting
 	- Training not representative
 - Later
 	- Overfitting
-- V.loss can help adjust learning rate
+- V.[[Deep Learning#Loss Function|loss]] can help adjust learning rate
 	- Or indicate when to stop training
 
 ![[under-over-fitting.png]]

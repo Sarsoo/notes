@@ -1,7 +1,7 @@
 # Fully Convolutional
 - Remove [[Max Pooling]]
 	- Use strided [[upconv]]
-- Remove FC layers
+- Remove [[MLP|FC]] layers
 	- Hurts convergence in non-classification
 - Normalisation tricks
 	- Batch normalisation

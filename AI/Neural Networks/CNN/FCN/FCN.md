@@ -20,13 +20,13 @@ Contractive → [[UpConv]]
 - Rarely from scratch
 - Pre-trained weights
 - Replace final layers
-	- FC layers
+	- [[MLP|FC]] layers
 	- White-noise initialised
 - Add [[upconv]] layer(s)
 	- Fine-tune train
 	- Freeze others
 	- Annotated GT images
-- Can use summed per-pixel log loss
+- Can use summed per-pixel log [[Deep Learning#Loss Function|loss]]
 
 # Evaluation
 ![[fcn-eval.png]]

@@ -11,7 +11,7 @@
 - Attention layer access all previous states and weighs according to learned measure of relevance
 	- Allows referring arbitrarily far back to relevant tokens
 - Can be addd to [[RNN]]s
-- In 2016, a new type of highly parallelisable _decomposable attention_ was successfully combined with a feedforward network
+- In 2016, a new type of highly parallelisable _decomposable attention_ was successfully combined with a [[Architectures|feedforward]] network
 	- Attention useful in of itself, not just with [[RNN]]s
 - [[Transformers]] use attention without recurrent connections
 	- Process all tokens simultaneously

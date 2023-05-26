@@ -1,4 +1,4 @@
--   Feed-forward
+-   [[Architectures|Feedforward]]
 -   Single hidden layer can learn any function
 	-   Universal approximation theorem
 -   Each hidden layer can operate as a different feature extraction layer
@@ -8,7 +8,7 @@
 ![[mlp-arch.png]]
 
 # Universal Approximation Theory
-A finite feed-forward MLP with 1 hidden layer can in theory approximate any mathematical function
+A finite [[Architectures|feedforward]] MLP with 1 hidden layer can in theory approximate any mathematical function
 -   In practice not trainable with [[Back-Propagation|BP]]
 
 ![[activation-function.png]]

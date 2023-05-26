@@ -12,11 +12,11 @@ Deep Convolutional [[GAN]]
 	- Train using Gaussian random noise for code
 - Discriminator
 	- Contractive
-	- Cross-entropy loss
+	- Cross-entropy [[Deep Learning#Loss Function|loss]]
 	- Conv and leaky [[Activation Functions#ReLu|ReLu]] layers only
-	- Normalised output via sigmoid
+	- Normalised output via [[Activation Functions#Sigmoid|sigmoid]]
 
-## Loss
+## [[Deep Learning#Loss Function|Loss]]
 $$D(S,L)=-\sum_iL_ilog(S_i)$$
 - $S$
 	- $(0.1, 0.9)^T$

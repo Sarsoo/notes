@@ -29,13 +29,13 @@
 2015
 
 - [[Inception Layer]]s
-- Multiple Loss Functions
+- Multiple [[Deep Learning#Loss Function|Loss]] Functions
 
 ![[googlenet.png]]
 
 ## [[Inception Layer]]
 ![[googlenet-inception.png]]
-## Auxiliary Loss Functions
+## Auxiliary [[Deep Learning#Loss Function|Loss]] Functions
 - Two other SoftMax blocks
 - Help train really deep network
 	- Vanishing gradient problem

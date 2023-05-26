@@ -6,8 +6,8 @@
 ![[am.png]]
 - **Use trained network**
 	- Don't update weights
-- Feedforward noise
-	- [[Back-Propagation|Back-propagate]] loss
+- [[Architectures|Feedforward]] noise
+	- [[Back-Propagation|Back-propagate]] [[Deep Learning#Loss Function|loss]]
 		- Don't update weights
 		- Update image
 
@@ -17,4 +17,4 @@
 - Prone to high frequency noise
 	- Minimise
 - Total variation
-	- $x^*$ is the best solution to minimise loss
+	- $x^*$ is the best solution to minimise [[Deep Learning#Loss Function|loss]]

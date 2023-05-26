@@ -8,7 +8,7 @@ Objective Function
 ![[deep-loss-function.png]]
 
 - Test accuracy worse than train accuracy = overfitting
-- Dense = fully connected
+- [[MLP|Dense]] = [[MLP|fully connected]]
 - Automates feature engineering
 
 ![[ml-dl.png]]
