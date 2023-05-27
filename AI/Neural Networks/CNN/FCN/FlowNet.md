@@ -3,7 +3,7 @@ Optical Flow
 - 2-Channel optical flow
 	- $dx,dy$
 - Two consecutive frames
-	- 6-channel tensor
+	- 6-channel [[tensor]]
 
 ![[flownet.png]]
 

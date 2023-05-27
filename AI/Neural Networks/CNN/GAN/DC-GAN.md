@@ -7,7 +7,7 @@ Deep Convolutional [[GAN]]
 	- Generate image from code
 		- Low-dimensional
 			- ~100-D
-	- Reshape to tensor
+	- Reshape to [[tensor]]
 		- [[Upconv]] to image
 	- Train using Gaussian random noise for code
 - Discriminator

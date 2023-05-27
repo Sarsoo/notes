@@ -2,7 +2,7 @@
 -   Single hidden layer can learn any function
 	-   Universal approximation theorem
 -   Each hidden layer can operate as a different feature extraction layer
--   Lots of weights to learn
+-   Lots of [[Weight Init|weights]] to learn
 -   [[Back-Propagation]] is supervised
 
 ![[mlp-arch.png]]

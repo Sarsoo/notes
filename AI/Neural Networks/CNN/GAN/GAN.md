@@ -27,5 +27,5 @@
 
 # Code Vector Math for Control
 ![[cvmfc.png]]
-- Do AM to derive code for an image
+- Do [[Interpretation#Activation Maximisation|AM]] to derive code for an image
 ![[code-vector-math-for-control-results.png]]

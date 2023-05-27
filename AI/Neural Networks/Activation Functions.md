@@ -38,7 +38,7 @@ y_j(n)(1-y_j(n))$$
 - Nice derivative
 - Max value of $\varphi_j'(v_j(n))$ occurs when $y_j(n)=0.5$
 - Min value of 0 when $y_j=0$ or $1$
-- Initial weights chosen so not saturated at 0 or 1
+- Initial [[Weight Init|weights]] chosen so not saturated at 0 or 1
 
 If $y=\frac u v$
 Where $u$ and $v$ are differential functions

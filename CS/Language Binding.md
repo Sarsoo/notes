@@ -24,5 +24,5 @@
 - Adobe Flash Player
 	- Tamarin
 - JVM
-- LLVM
+- [[Compilers#LLVM|LLVM]]
 - Silverlight

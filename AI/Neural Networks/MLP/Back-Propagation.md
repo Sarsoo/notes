@@ -79,7 +79,7 @@ $$\Delta w_{ji}(n)=\eta\cdot\delta_j(n)\cdot y_i(n)$$
 	2.  Error WRT output $y$
 	3.  Output $y$ WRT Pre-activation function sum
 	4.  Pre-activation function sum WRT weight
-		-   Other weights constant, goes to zero
+		-   Other [[Weight Init|weights]] constant, goes to zero
 		-   Leaves just $y_i$
 	-   Collect 3 boxed terms as delta $j$
 		-   Local gradient

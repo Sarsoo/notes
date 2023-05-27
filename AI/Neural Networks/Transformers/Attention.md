@@ -19,7 +19,7 @@
 
 # Scaled Dot-Product
 - Calculate attention weights between all tokens at once
-- Learn 3 weight matrices
+- Learn 3 [[Weight Init|weight]] matrices
 	- Query
 		- $W_Q$
 	- Key

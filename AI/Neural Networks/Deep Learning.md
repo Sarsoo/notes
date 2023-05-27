@@ -32,16 +32,16 @@ Predict
 Evaluate
 
 # Data Structure
-- Tensor flow = channels last
+- [[Tensor]] flow = channels last
 	- (samples, height, width, channels)
 - Vector data
-	- 2D tensors of shape (samples, features)   
+	- 2D [[tensor]]s of shape (samples, features)   
 - Time series data or sequence data
-	- 3D tensors of shape (samples, timesteps, features)   
+	- 3D [[tensor]]s of shape (samples, timesteps, features)   
 - Images
-	- 4D tensors of shape (samples, height, width, channels) or (samples, channels, height, Width)
+	- 4D [[tensor]]s of shape (samples, height, width, channels) or (samples, channels, height, Width)
 - Video
-	- 5D tensors of shape (samples, frames, height, width, channels) or (samples, frames, channels , height, width)
+	- 5D [[tensor]]s of shape (samples, frames, height, width, channels) or (samples, frames, channels , height, width)
 
 ![[photo-tensor.png]]
 ![[matrix-dot-product.png]]

@@ -31,5 +31,5 @@
 # Embedded ABI
 - File format, data types, register usage, stack frame organisation, function parameter passing conventions
 	- For embedded OS
-- Compilers create object code compatible with code from other compilers
-	- Link libraries from different compilers
+- [[Compilers]] create object code compatible with code from other [[compilers]]
+	- Link libraries from different [[compilers]]
