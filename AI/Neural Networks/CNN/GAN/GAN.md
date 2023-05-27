@@ -1,4 +1,4 @@
-# Fully Convolutional
+# Fully [[Convolution]]al
 - Remove [[Max Pooling]]
 	- Use strided [[upconv]]
 - Remove [[MLP|FC]] layers

@@ -1,6 +1,6 @@
 Fully [[Convolution]]al Network
 
-Convolutional and up-convolutional layers with [[Activation Functions#ReLu|ReLu]] but no others (pooling)
+[[Convolutional Layer|Convolutional]] and [[UpConv|up-convolutional layers]] with [[Activation Functions#ReLu|ReLu]] but no others (pooling)
 - All some sort of Encoder-Decoder
 
 Contractive → [[UpConv]]

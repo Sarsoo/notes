@@ -1,4 +1,4 @@
-Deep Convolutional [[GAN]]
+Deep [[Convolution]]al [[GAN]]
 ![[dc-gan.png]]
 
 - Generator
@@ -13,7 +13,7 @@ Deep Convolutional [[GAN]]
 - Discriminator
 	- Contractive
 	- Cross-entropy [[Deep Learning#Loss Function|loss]]
-	- Conv and leaky [[Activation Functions#ReLu|ReLu]] layers only
+	- [[Convolutional Layer|Conv]] and leaky [[Activation Functions#ReLu|ReLu]] layers only
 	- Normalised output via [[Activation Functions#Sigmoid|sigmoid]]
 
 ## [[Deep Learning#Loss Function|Loss]]

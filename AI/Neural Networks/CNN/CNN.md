@@ -15,7 +15,7 @@
 
 # Full Connected
 [[MLP|Dense]]
-- Move from convolutional operations towards vector output
+- Move from [[Convolutional Layer|convolutional]] operations towards vector output
 - Stochastic drop-out
 	- Sub-sample channels and only connect some to [[MLP|dense]] layers
 
@@ -28,14 +28,14 @@
 
 # Finetuning
 - Observations
-	- Most CNNs have similar weights in conv1
-	- Most useful CNNs have several conv layers
+	- Most CNNs have similar weights in [[Convolutional Layer|conv1]]
+	- Most useful CNNs have several [[Convolutional Layer|conv layers]]
 		- Many weights
 		- Lots of training data
 	- Training data is hard to get
 		- Labelling
 - Reuse weights from other network
-- Freeze weights in first 3-5 conv layers
+- Freeze weights in first 3-5 [[Convolutional Layer|conv layers]]
 	- Learning rate = 0
 	- Randomly initialise remaining layers
 	- Continue with existing weights

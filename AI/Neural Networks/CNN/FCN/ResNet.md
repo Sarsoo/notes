@@ -12,14 +12,18 @@
 
 # Design
 
-- Skips across pairs of conv layers
+- Skips across pairs of [[Convolutional Layer|conv layers]]
 	- Elementwise addition
 - All layer 3x3 kernel
 - Spatial size halves each layer
 - Filters doubles each layer
-- Fully convolutional
+- [[FCN|Fully convolutional]]
 	- No fc layer
-	- No pooling
+	- No [[Max Pooling|pooling]]
 		- Except at end
 	- No dropout
 
+![[imagenet-error.png]]
+
+![[resnet-arch.png]]
+![[resnet-arch2.png]]

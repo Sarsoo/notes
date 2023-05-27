@@ -7,7 +7,7 @@ Optical Flow
 
 ![[flownet.png]]
 
-# Skip Connections
+# [[Skip Connections]]
 - Further through the network information is condensed
 	- Less high frequency information
 - Link encoder layers to [[upconv]] layers

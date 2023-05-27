@@ -53,7 +53,7 @@ Rectilinear
 - For deep networks
 - $y=max(0,x)$
 - CNNs
-	- Breaks associativity of successive convolutions
+	- Breaks associativity of successive [[convolution]]s
 		- Critical for learning complex functions
 	- Sometimes small scalar for negative
 		- Leaky ReLu
