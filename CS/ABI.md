@@ -2,7 +2,7 @@
 	- Machine code therefore hardware-dependent
 - API defines this structure in source code
 - Adherence usually responsibility of
-	- [[Compilers]]
+	- [Compilers](Compilers.md)
 	- OS
 	- Library author
 
@@ -13,7 +13,7 @@
 	- Stack organisation
 	- Memory access types
 - Size, layouts and alignments of basic data types
-- [[Calling Conventions]]
+- [Calling Conventions](Calling%20Conventions.md)
 	- How function arguments are passed
 		- Stack or register
 		- Which registers for which function param
@@ -31,5 +31,5 @@
 # Embedded ABI
 - File format, data types, register usage, stack frame organisation, function parameter passing conventions
 	- For embedded OS
-- [[Compilers]] create object code compatible with code from other [[compilers]]
-	- Link libraries from different [[compilers]]
+- [Compilers](Compilers.md) create object code compatible with code from other [compilers](Compilers.md)
+	- Link libraries from different [compilers](Compilers.md)
