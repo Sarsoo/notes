@@ -1,4 +1,4 @@
-- How data structures & computational routines are accessed in machine code ([[Code Types]])
+- How data structures & computational routines are accessed in machine code ([[STEM/CS/Code Types|Code Types]])
 	- Machine code therefore hardware-dependent
 - API defines this structure in source code
 - Adherence usually responsibility of
