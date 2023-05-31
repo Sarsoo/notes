@@ -5,13 +5,13 @@
 - Niche
 	- No-one cared/knew about CNNs
 ## After
-- ImageNet
+- [[Datasets#ImageNet|ImageNet]]
 	- 16m images, 1000 classes
 - GPUs
 	- General processing GPUs
 	- CUDA
 - NIPS/ECCV 2012
-	- Double digit % gain on ImageNet accuracy
+	- Double digit % gain on [[Datasets#ImageNet|ImageNet]] accuracy
 
 # Full Connected
 [[MLP|Dense]]

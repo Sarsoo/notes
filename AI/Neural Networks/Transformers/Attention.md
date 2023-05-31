@@ -7,7 +7,7 @@
 	- Hyper-networks
 - Draw from relevant state at any preceding point along sequence
 	- Addresses [[RNN]]s vanishing gradient issues
-	- [[LSTM]] tends to poorly preserve far back knowledge
+	- [[LSTM]] tends to poorly preserve far back [[Neural Networks#Knowledge|knowledge]]
 - Attention layer access all previous states and weighs according to learned measure of relevance
 	- Allows referring arbitrarily far back to relevant tokens
 - Can be addd to [[RNN]]s

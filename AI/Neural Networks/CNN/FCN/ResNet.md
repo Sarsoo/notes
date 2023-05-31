@@ -23,6 +23,7 @@
 		- Except at end
 	- No dropout
 
+[[Datasets#ImageNet|ImageNet]] Error:
 ![[imagenet-error.png]]
 
 ![[resnet-arch.png]]

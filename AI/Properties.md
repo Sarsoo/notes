@@ -1,7 +1,7 @@
 # Three Key Components
 
 1.  Representation
-	-   Declarative & Procedural knowledge
+	-   Declarative & Procedural [[Neural Networks#Knowledge|knowledge]]
 	-   Typically human-readable symbols
 2.  Reasoning
 	-   Ability to solve problems

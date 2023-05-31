@@ -45,7 +45,7 @@
 	- Confidence value
 
 # Contextual Information
-- Knowledge represented by structure and activation weight
+- [[Neural Networks#Knowledge|Knowledge]] represented by structure and activation weight
 	- Any neuron can be affected by global activity
 - Contextual information handled naturally
 

@@ -5,7 +5,7 @@ Fully [[Convolution]]al Network
 
 Contractive → [[UpConv]]
 
-# Image Sementation
+# Image Segmentation
 - For visual output
 	- Previously image $\rightarrow$ vector
 - Additional layers to up-sample representation to an image

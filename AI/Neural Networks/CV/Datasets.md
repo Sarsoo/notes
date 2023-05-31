@@ -21,3 +21,8 @@
 	- Truck
 - Achieved 90.7%
 	- Wan et al. 2013
+
+# ImageNet
+- 14 million images
+- In at least one million of the images, bounding boxes are also provided
+- More than 20,000 categories
