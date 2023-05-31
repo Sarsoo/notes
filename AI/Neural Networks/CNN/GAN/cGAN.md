@@ -1,7 +1,7 @@
-Conditional [[GAN]]
+Conditional [GAN](GAN.md)
 
-- Hard to control with [[Interpretation#Activation Maximisation|AM]]
-	- Unconditional [[GAN]]
+- Hard to control with [AM](../Interpretation.md#Activation Maximisation)
+	- Unconditional [GAN](GAN.md)
 - Condition synthesis on a class label
 - Concatenate unconditional code with conditioning vector
 	- Label
@@ -10,14 +10,14 @@ Conditional [[GAN]]
 		- Fake images and dataset
 	- **Requires pairing**
 
-![[cgan.png]]
-![[cgan-example.png]]
+![cgan](../../../../img/cgan.png)
+![cgan-example](../../../../img/cgan-example.png)
 
 # Image Conditioning Vector
-![[icv-pos-neg-examples.png]]
-![[icv-results.png]]
+![icv-pos-neg-examples](../../../../img/icv-pos-neg-examples.png)
+![icv-results](../../../../img/icv-results.png)
 
 # Text Encoding
 - word2vec
 
-![[word2vec.png]]
+![word2vec](../../../../img/word2vec.png)

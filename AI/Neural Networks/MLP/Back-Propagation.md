@@ -1,6 +1,6 @@
 Error signal graph
 
-![[mlp-arch-graph.png]]
+![mlp-arch-graph](../../../img/mlp-arch-graph.png)
 
 1. Error Signal
 	- $e_j(n)=d_j(n)-y_j(n)$
@@ -87,7 +87,7 @@ $$\Delta w_{ji}(n)=\eta\cdot\delta_j(n)\cdot y_i(n)$$
 	-   Gets stuck
 	-   Add momentum
 
-![[mlp-local-hidden-grad.png]]
+![mlp-local-hidden-grad](../../../img/mlp-local-hidden-grad.png)
 
 -   Nodes further back
 	-   More complicated
@@ -103,13 +103,13 @@ $$\Delta w_{ji}(n)=\eta\cdot\delta_j(n)\cdot y_i(n)$$
 	-   Proportional to the change in weights last iteration
 		-   Can shoot past local minima if descending quickly
 
-![[mlp-global-minimum.png]]
+![mlp-global-minimum](../../../img/mlp-global-minimum.png)
 
-![[back-prop1.png]]
-![[back-prop2.png]]
+![back-prop1](../../../img/back-prop1.png)
+![back-prop2](../../../img/back-prop2.png)
 
-![[back-prop-equations.png]]
+![back-prop-equations](../../../img/back-prop-equations.png)
 
 $w^+_5=w_5-\eta\cdot\frac{\partial E_{total}}{\partial w_5}$
 
-![[back-prop-weight-changes.png]]
+![back-prop-weight-changes](../../../img/back-prop-weight-changes.png)

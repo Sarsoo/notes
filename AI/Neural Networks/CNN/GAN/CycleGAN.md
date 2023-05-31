@@ -1,4 +1,4 @@
-Cycle Consistent [[GAN]]
+Cycle Consistent [GAN](GAN.md)
 
 - G
 	- $x \rightarrow y$
@@ -18,5 +18,5 @@ Cycle Consistent [[GAN]]
 	- Not directly paired
 		- Unlike edge map $\rightarrow$ bag
 
-![[cyclegan.png]]
-![[cyclegan-results.png]]
+![cyclegan](../../../../img/cyclegan.png)
+![cyclegan-results](../../../../img/cyclegan-results.png)

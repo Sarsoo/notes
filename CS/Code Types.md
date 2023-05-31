@@ -1,16 +1,16 @@
 ## Machine Code
 -   Machine language instructions
--   Directly control [[Processors|CPU]]
+-   Directly control [CPU](Processors.md)
 -   Strictly numerical
 -   Lowest-level representation of a compiled or assembled program
 	-   Lowest-level visible to programmer
 	-   Internally microcode might used
 -   Hardware dependent
 -   Higher-level languages translated to machine code
-	-   [[Compilers]], assemblers and linkers
+	-   [Compilers](Compilers.md), assemblers and linkers
 	-   Not for interpreted code
 		-   Interpreter runs machine code
--   [[Assembly]] is effectively human readable machine code
+-   [Assembly](Languages/Assembly.md) is effectively human readable machine code
 	-   Has mnemonics for opcodes etc
 
 ## Microcode
@@ -27,9 +27,9 @@ Portable Code
 -   Compact numeric codes, constants and references
 	-   Encode compiler output following analysis and validation
 -   Can be further compiled
-	-   [[Compilers#JIT]]
+	-   [Compilers](Compilers.md#JIT)
 -   Typically passed to VM
-	-   Java, [[Python]]
+	-   Java, [Python](Languages/Python.md)
 
 ## Object Code
 -   Product of compiler

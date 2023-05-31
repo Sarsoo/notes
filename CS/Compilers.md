@@ -13,7 +13,7 @@ Just-in-Time
 -   Adaptive optimization
 	-   Dynamic recompilation
 	-   Microarchitecture-specific speedups 
-		- [[ISA]]
+		- [ISA](ISA.md)
 
 ## AOT
 Ahead-of-Time

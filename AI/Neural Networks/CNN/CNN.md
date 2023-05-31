@@ -14,41 +14,41 @@
 	- Double digit % gain on [ImageNet](../CV/Datasets.md#ImageNet) accuracy
 
 # Full Connected
-[[MLP|Dense]]
-- Move from [[Convolutional Layer|convolutional]] operations towards vector output
+[Dense](../MLP/MLP.md)
+- Move from [convolutional](Convolutional%20Layer.md) operations towards vector output
 - Stochastic drop-out
-	- Sub-sample channels and only connect some to [[MLP|dense]] layers
+	- Sub-sample channels and only connect some to [dense](../MLP/MLP.md) layers
 
 # As a Descriptor
 - Most powerful as a deeply learned feature extractor
-- [[MLP|Dense]] classifier at the end isn't fantastic
+- [Dense](../MLP/MLP.md) classifier at the end isn't fantastic
 	- Use SVM to classify prior to penultimate layer
 
-![[cnn-descriptor.png]]
+![cnn-descriptor](../../../img/cnn-descriptor.png)
 
 # Finetuning
 - Observations
-	- Most CNNs have similar weights in [[Convolutional Layer|conv1]]
-	- Most useful CNNs have several [[Convolutional Layer|conv layers]]
+	- Most CNNs have similar weights in [conv1](Convolutional%20Layer.md)
+	- Most useful CNNs have several [conv layers](Convolutional%20Layer.md)
 		- Many weights
 		- Lots of training data
 	- Training data is hard to get
 		- Labelling
 - Reuse weights from other network
-- Freeze weights in first 3-5 [[Convolutional Layer|conv layers]]
+- Freeze weights in first 3-5 [conv layers](Convolutional%20Layer.md)
 	- Learning rate = 0
 	- Randomly initialise remaining layers
 	- Continue with existing weights
 
-![[fine-tuning-freezing.png]]
+![fine-tuning-freezing](../../../img/fine-tuning-freezing.png)
 # Training
-- Validation & training [[Deep Learning#Loss Function|loss]]
+- Validation & training [loss](../Deep%20Learning.md#Loss Function)
 - Early
 	- Under-fitting
 	- Training not representative
 - Later
 	- Overfitting
-- V.[[Deep Learning#Loss Function|loss]] can help adjust learning rate
+- V.[loss](../Deep%20Learning.md#Loss Function) can help adjust learning rate
 	- Or indicate when to stop training
 
-![[under-over-fitting.png]]
+![under-over-fitting](../../../img/under-over-fitting.png)
