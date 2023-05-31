@@ -11,7 +11,7 @@
 - Bipolar
 	- -1 <-> +1
 
-![[threshold-activation.png]]
+![threshold-activation](../../img/threshold-activation.png)
 
 # Sigmoid
 -   Logistic function
@@ -26,7 +26,8 @@ $$\frac d {dx} \sigma(x)=
 \right]
 =\sigma(x)\cdot(1-\sigma(x))$$
 
-![[sigmoid.png]]
+![sigmoid](../../img/sigmoid.png)
+
 ### Derivative
 
 $$y_j(n)=\varphi_j(v_j(n))=
@@ -58,7 +59,7 @@ Rectilinear
 	- Sometimes small scalar for negative
 		- Leaky ReLu
 
-![[relu.png]]
+![relu](../../img/relu.png)
 
 # SoftMax
 - Output is per-class vector of likelihoods

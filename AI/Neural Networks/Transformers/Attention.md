@@ -10,16 +10,16 @@
 	- [LSTM](../RNN/LSTM.md) tends to poorly preserve far back [knowledge](../Neural%20Networks.md#Knowledge)
 - Attention layer access all previous states and weighs according to learned measure of relevance
 	- Allows referring arbitrarily far back to relevant tokens
-- Can be addd to [[RNN]]s
-- In 2016, a new type of highly parallelisable _decomposable attention_ was successfully combined with a [[Architectures|feedforward]] network
-	- Attention useful in of itself, not just with [[RNN]]s
-- [[Transformers]] use attention without recurrent connections
+- Can be addd to [RNNs](../RNN/RNN.md)
+- In 2016, a new type of highly parallelisable _decomposable attention_ was successfully combined with a [feedforward](../Architectures.md) network
+	- Attention useful in of itself, not just with [RNNs](../RNN/RNN.md)
+- [Transformers](Transformers.md) use attention without recurrent connections
 	- Process all tokens simultaneously
 	- Calculate attention weights in successive layers
 
 # Scaled Dot-Product
 - Calculate attention weights between all tokens at once
-- Learn 3 [[Weight Init|weight]] matrices
+- Learn 3 [weight](../Weight%20Init.md) matrices
 	- Query
 		- $W_Q$
 	- Key

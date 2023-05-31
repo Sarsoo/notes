@@ -5,15 +5,15 @@
 	- Also known as: callee-saved registers or non-volatile registers
 - How the task of preparing the stack for, and restoring after, a function call is divided between the caller and the callee
 
-Subtle differences between [[compilers]], can be difficult to interface codes from different [[compilers]]
+Subtle differences between [Compilers](Compilers.md), can be difficult to interface codes from different [compilers](Compilers.md)
 
-Calling conventions, type representations, and name mangling are all part of what is known as an [application binary interface](https://en.wikipedia.org/wiki/Application_binary_interface) ([[ABI]])
+Calling conventions, type representations, and name mangling are all part of what is known as an [application binary interface](https://en.wikipedia.org/wiki/Application_binary_interface) ([ABI](ABI.md))
 
 # cdecl
 C declaration
 
-- Originally from Microsoft's C [[compilers|compiler]]
-	- Used by many C [[compilers]] for x86
+- Originally from Microsoft's C [compiler](Compilers.md)
+	- Used by many C [compilers](Compilers.md) for x86
 - Subroutine arguments passed on the stack
 - Function arguments pushed right-to-left
 	- Last pushed first
