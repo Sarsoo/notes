@@ -30,4 +30,4 @@
 -   Portable executable (PE)
 	-   DLL, EXE
 
-![[cli-infrastructure.png]]
+![cli-infrastructure](../../img/cli-infrastructure.png)

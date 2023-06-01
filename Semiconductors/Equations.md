@@ -11,7 +11,7 @@ $$J=\sigma E$$
 
 $$V_{bi} = \frac{kT}{q}ln(\frac{N_D N_A}{n_i^2})$$
 - $V_{bi}$ = Built-in Potential
-[[Doping]]
+[Doping](Doping.md)
 $$J=nev$$
 - $n$ = Charge Density
 - $e$ = Charge

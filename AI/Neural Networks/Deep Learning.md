@@ -1,17 +1,17 @@
-![[deep-digit-classification.png]]
+![deep-digit-classification](../../img/deep-digit-classification.png)
 
 # Loss Function
 Objective Function
 
-- [[Back-Propagation]]
+- [Back-Propagation](MLP/Back-Propagation.md)
 - Difference between predicted and target outputs
-![[deep-loss-function.png]]
+![deep-loss-function](../../img/deep-loss-function.png)
 
 - Test accuracy worse than train accuracy = overfitting
 - [[MLP|Dense]] = [[MLP|fully connected]]
 - Automates feature engineering
 
-![[ml-dl.png]]
+![ml-dl](../../img/ml-dl.png)
 
 These are the two essential characteristics of how deep learning learns from data: the incremental, layer-by-layer way in which increasingly complex representations are developed, and the fact that these intermediate incremental representations are learned jointly, each layer being updated to follow both the representational needs of the layer above and the needs of the layer below. Together, these two properties have made deep learning vastly more successful than previous approaches to machine learning.
 
@@ -32,16 +32,16 @@ Predict
 Evaluate
 
 # Data Structure
-- [[Tensor]] flow = channels last
+- [Tensor](../../Maths/Tensor.md) flow = channels last
 	- (samples, height, width, channels)
 - Vector data
-	- 2D [[tensor]]s of shape (samples, features)   
+	- 2D [tensors](../../Maths/Tensor.md) of shape (samples, features)   
 - Time series data or sequence data
-	- 3D [[tensor]]s of shape (samples, timesteps, features)   
+	- 3D [tensors](../../Maths/Tensor.md) of shape (samples, timesteps, features)   
 - Images
-	- 4D [[tensor]]s of shape (samples, height, width, channels) or (samples, channels, height, Width)
+	- 4D [tensors](../../Maths/Tensor.md) of shape (samples, height, width, channels) or (samples, channels, height, Width)
 - Video
-	- 5D [[tensor]]s of shape (samples, frames, height, width, channels) or (samples, frames, channels , height, width)
+	- 5D [tensors](../../Maths/Tensor.md) of shape (samples, frames, height, width, channels) or (samples, frames, channels , height, width)
 
-![[photo-tensor.png]]
-![[matrix-dot-product.png]]
+![photo-tensor](../../img/photo-tensor.png)
+![matrix-dot-product](../../img/matrix-dot-product.png)

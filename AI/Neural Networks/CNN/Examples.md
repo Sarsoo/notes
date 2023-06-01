@@ -1,8 +1,8 @@
 # LeNet
 - 1990's
-![[lenet-1989.png]]
+![lenet-1989](../../../img/lenet-1989.png)
 - 1989
-![[lenet-1998.png]]
+![lenet-1998](../../../img/lenet-1998.png)
 - 1998
 
 # AlexNet
@@ -11,7 +11,7 @@
 - [[Activation Functions#ReLu|ReLu]]
 - Normalisation
 
-![[alexnet.png]]
+![alexnet](../../../img/alexnet.png)
 
 # VGG
 2015
@@ -22,8 +22,8 @@
 - Similar kernel size throughout
 - Gradual filter increase
 
-![[vgg-spec.png]]
-![[vgg-arch.png]]
+![vgg-spec](../../../img/vgg-spec.png)
+![vgg-arch](../../../img/vgg-arch.png)
 
 # GoogLeNet
 2015
@@ -31,13 +31,13 @@
 - [[Inception Layer]]s
 - Multiple [[Deep Learning#Loss Function|Loss]] Functions
 
-![[googlenet.png]]
+![googlenet](../../../img/googlenet.png)
 
 ## [[Inception Layer]]
-![[googlenet-inception.png]]
+![googlenet-inception](../../../img/googlenet-inception.png)
 ## Auxiliary [[Deep Learning#Loss Function|Loss]] Functions
 - Two other SoftMax blocks
 - Help train really deep network
 	- Vanishing gradient problem
 
-![[googlenet-auxilliary-loss.png]]
+![googlenet-auxilliary-loss](../../../img/googlenet-auxilliary-loss.png)
