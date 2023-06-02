@@ -3,7 +3,7 @@ Fully [[Convolution]]al Network
 [[Convolutional Layer|Convolutional]] and [[UpConv|up-convolutional layers]] with [[Activation Functions#ReLu|ReLu]] but no others (pooling)
 - All some sort of Encoder-Decoder
 
-Contractive → [[UpConv]]
+Contractive → [UpConv](../UpConv.md)
 
 # Image Segmentation
 - For visual output
@@ -29,7 +29,7 @@ Contractive → [[UpConv]]
 - Can use summed per-pixel log [[Deep Learning#Loss Function|loss]]
 
 # Evaluation
-![[fcn-eval.png]]
+![fcn-eval](../../../../img/fcn-eval.png)
 - SDS
 	- Classical method
 	- 52% mAP

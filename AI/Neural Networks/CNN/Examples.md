@@ -33,7 +33,7 @@
 
 ![googlenet](../../../img/googlenet.png)
 
-## [[Inception Layer]]
+## [Inception Layer](Inception%20Layer.md)
 ![googlenet-inception](../../../img/googlenet-inception.png)
 ## Auxiliary [[Deep Learning#Loss Function|Loss]] Functions
 - Two other SoftMax blocks

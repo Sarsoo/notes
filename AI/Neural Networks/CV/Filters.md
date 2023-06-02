@@ -1,2 +1,2 @@
 # Gabor
-![[gabor.png]]
+![gabor](../../../img/gabor.png)
