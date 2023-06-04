@@ -42,13 +42,13 @@
 
 ![fine-tuning-freezing](../../../img/fine-tuning-freezing.png)
 # Training
-- Validation & training [loss](../Deep%20Learning.md#Loss Function)
+- Validation & training [loss](../Deep%20Learning.md#Loss%20Function)
 - Early
 	- Under-fitting
 	- Training not representative
 - Later
 	- Overfitting
-- V.[loss](../Deep%20Learning.md#Loss Function) can help adjust learning rate
+- V.[loss](../Deep%20Learning.md#Loss%20Function) can help adjust learning rate
 	- Or indicate when to stop training
 
 ![under-over-fitting](../../../img/under-over-fitting.png)

@@ -1,6 +1,6 @@
 Conditional [GAN](GAN.md)
 
-- Hard to control with [AM](../Interpretation.md#Activation Maximisation)
+- Hard to control with [AM](../Interpretation.md#Activation%20Maximisation)
 	- Unconditional [GAN](GAN.md)
 - Condition synthesis on a class label
 - Concatenate unconditional code with conditioning vector

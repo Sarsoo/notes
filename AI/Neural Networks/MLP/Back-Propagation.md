@@ -22,16 +22,14 @@ $$\frac{\partial\mathfrak E(n)}{\partial w_{ji}(n)}=
 $$
 
 #### From 4
-$$\frac{\partial\mathfrak E(n)}{\partial e_j(n)}=
-e_j(n)$$
+$$\frac{\partial\mathfrak E(n)}{\partial e_j(n)}=e_j(n)$$
+
 #### From 1
 $$\frac{\partial e_j(n)}{\partial y_j(n)}=-1$$
 #### From 3 (note prime)
-$$\frac{\partial y_j(n)}{\partial v_j(n)}=
-\varphi_j'(v_j(n))$$
+$$\frac{\partial y_j(n)}{\partial v_j(n)}=\varphi_j'(v_j(n))$$
 #### From 2
-$$\frac{\partial v_j(n)}{\partial w_{ji}(n)}=
-y_i(n)$$
+$$\frac{\partial v_j(n)}{\partial w_{ji}(n)}=y_i(n)$$
 
 ## Composite
 $$\frac{\partial\mathfrak E(n)}{\partial w_{ji}(n)}=
@@ -40,10 +38,9 @@ $$\frac{\partial\mathfrak E(n)}{\partial w_{ji}(n)}=
 y_i(n)
 $$
 
-$$\Delta w_{ji}(n)=
--\eta\frac{\partial\mathfrak E(n)}{\partial w_{ji}(n)}$$
-$$\Delta w_{ji}(n)=
-\eta\delta_j(n)y_i(n)$$
+$$\Delta w_{ji}(n)=-\eta\frac{\partial\mathfrak E(n)}{\partial w_{ji}(n)}$$
+$$\Delta w_{ji}(n)=\eta\delta_j(n)y_i(n)$$
+
 ## Gradients
 #### Output Local
 $$\delta_j(n)=-\frac{\partial\mathfrak E (n)}{\partial v_j(n)}$$
