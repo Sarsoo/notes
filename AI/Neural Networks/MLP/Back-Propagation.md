@@ -44,13 +44,27 @@ $$\Delta w_{ji}(n)=\eta\delta_j(n)y_i(n)$$
 ## Gradients
 #### Output Local
 $$\delta_j(n)=-\frac{\partial\mathfrak E (n)}{\partial v_j(n)}$$
-$$=-\frac{\partial\mathfrak E(n)}{\partial e_j(n)}\frac{\partial e_j(n)}{\partial y_j(n)}\frac{\partial y_j(n){\partial v_j(n)}$$
-$$=e_j(n)\cdot\varphi_j'(v_j(n))$$
+$$=-
+\frac{\partial\mathfrak E(n)}{\partial e_j(n)}
+\frac{\partial e_j(n)}{\partial y_j(n)}
+\frac{\partial y_j(n)}{\partial v_j(n)}$$
+$$=
+e_j(n)\cdot
+\varphi_j'(v_j(n))
+$$
 
 #### Hidden Local
-$$\delta_j(n)=-\frac{\partial\mathfrak E (n)}{\partial y_j(n)}\frac{\partial y_j(n)}{\partial v_j(n)}$$
-$$=-\frac{\partial\mathfrak E (n)}{\partial y_j(n)}\cdot\varphi_j'(v_j(n))$$
-$$\delta_j(n)=\varphi_j'(v_j(n))\cdot\sum_k \delta_k(n)\cdot w_{kj}(n)$$
+$$\delta_j(n)=-
+\frac{\partial\mathfrak E (n)}{\partial y_j(n)}
+\frac{\partial y_j(n)}{\partial v_j(n)}$$
+$$=-
+\frac{\partial\mathfrak E (n)}{\partial y_j(n)}
+\cdot
+\varphi_j'(v_j(n))$$
+$$\delta_j(n)=
+\varphi_j'(v_j(n))
+\cdot
+\sum_k \delta_k(n)\cdot w_{kj}(n)$$
 
 ## Weight Correction
 $$\text{weight correction = learning rate $\cdot$ local gradient $\cdot$ input signal of neuron $j$}$$
