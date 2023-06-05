@@ -12,8 +12,8 @@ Deep [Convolutional](../../../../Signal%20Proc/Convolution.md) [GAN](GAN.md)
 	- Train using Gaussian random noise for code
 - Discriminator
 	- Contractive
-	- Cross-entropy [[Deep Learning#Loss Function|loss]]
-	- [[Convolutional Layer|Conv]] and leaky [[Activation Functions#ReLu|ReLu]] layers only
+	- Cross-entropy [loss](../../Deep%20Learning.md#Loss%20Function)
+	- [Conv](../Convolutional%20Layer.md) and leaky [[Activation Functions#ReLu|ReLu]] layers only
 	- Normalised output via [[Activation Functions#Sigmoid|sigmoid]]
 
 ## [[Deep Learning#Loss Function|Loss]]

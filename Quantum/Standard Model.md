@@ -1,4 +1,4 @@
-![[model-table.png]]
+![model-table](../img/model-table.png)
 - 4 fundamental forces
 	- Bosons
 - Elementary particles
@@ -22,5 +22,5 @@
 		- Force carriers
 		- y, W, Z, g
 
-![[boson-interactions-feynman.png]]
-![[boson-interactions.png]]
+![boson-interactions-feynman](../img/boson-interactions-feynman.png)
+![boson-interactions](../img/boson-interactions.png)

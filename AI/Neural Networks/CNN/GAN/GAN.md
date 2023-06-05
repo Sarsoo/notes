@@ -1,6 +1,6 @@
-# Fully [[Convolution]]al
-- Remove [[Max Pooling]]
-	- Use strided [[upconv]]
+# Fully [Convolution](../../../../Signal%20Proc/Convolution.md)al
+- Remove [Max Pooling](../Max%20Pooling.md)
+	- Use strided [UpConv](../UpConv.md)
 - Remove [[MLP|FC]] layers
 	- Hurts convergence in non-classification
 - Normalisation tricks
@@ -16,16 +16,16 @@
 - Discriminator is a classifier
 	- Is image fake or real
 
-![[gan-arch.png]]
-![[gan-arch2.png]]
+![gan-arch](../../../../img/gan-arch.png)
+![gan-arch2](../../../../img/gan-arch2.png)
 
-![[gan-results.png]]
+![gan-results](../../../../img/gan-results.png)]
 
 # Training
-![[gan-training-discriminator.png]]
-![[gan-training-generator.png]]
+![gan-training-discriminator](../../../../img/gan-training-discriminator.png)
+![gan-training-generator](../../../../img/gan-training-generator.png)
 
 # Code Vector Math for Control
-![[cvmfc.png]]
+![cvmfc](../../../../img/cvmfc.png)
 - Do [[Interpretation#Activation Maximisation|AM]] to derive code for an image
-![[code-vector-math-for-control-results.png]]
+![code-vector-math-for-control-results](../../../../img/code-vector-math-for-control-results.png)

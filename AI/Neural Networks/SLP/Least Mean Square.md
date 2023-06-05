@@ -59,16 +59,16 @@ $$\hat{w}(n+1)=\hat{w}(n)+\eta \cdot x(n) \cdot e(n)$$
 -   Sensitivity to variation in eigenstructure of input
 -   Typically requires iterations of 10 x dimensionality of the input space
 	-   Worse with high-d input spaces
-![[slp-mse.png]]
+![slp-mse](../../../img/slp-mse.png)
 -   Use steepest descent
 -   Partial derivatives
-![[slp-steepest-descent.png]]
+![slp-steepest-descent](../../../img/slp-steepest-descent.png)
 -   Can be solved by matrix inversion
 -   Stochastic
 	-   Random progress
 	-   Will overall improve
 
-![[lms-algorithm.png]]
+![lms-algorithm](../../../img/lms-algorithm.png)
 
 $$\hat{w}(n+1)=\hat{w}(n)+\eta\cdot x(n)\cdot[d(n)-x^T(n)\cdot\hat w(n)]$$
 $$=[I-\eta\cdot x(n)x^T(n)]\cdot\hat{w}(n)+\eta\cdot x(n)\cdot d(n)$$
@@ -76,6 +76,6 @@ $$=[I-\eta\cdot x(n)x^T(n)]\cdot\hat{w}(n)+\eta\cdot x(n)\cdot d(n)$$
 Where
 $$\hat w(n)=z^{-1}[\hat w(n+1)]$$
 ## Independence Theory
-![[slp-lms-independence.png]]
+![slp-lms-independence](../../../img/slp-lms-independence.png)
 
-![[sl-lms-summary.png]]
+![sl-lms-summary](../../../img/sl-lms-summary.png)

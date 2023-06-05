@@ -13,5 +13,5 @@ Recurrent Neural Network
 		- In practice suffers from vanishing gradient
 			- Can't extract precise information about previous tokens
 
-![[rnn-input.png]]
-![[rnn-recurrence.png]]
+![rnn-input](../../../img/rnn-input.png)
+![rnn-recurrence](../../../img/rnn-recurrence.png)

@@ -7,7 +7,7 @@
 - Interneuron connection strengths store acquired knowledge
 	- Synaptic weights
 
-![[slp-arch.png]]
+![slp-arch](../../img/slp-arch.png)
 
 A neural network is a directed graph consisting of nodes with interconnecting synaptic and activation links, and is characterised by four properties
 

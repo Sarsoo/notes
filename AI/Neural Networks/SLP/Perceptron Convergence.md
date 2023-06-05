@@ -39,4 +39,4 @@ $$
 	2.  Fast adaptation with respect to real changes in the underlying distribution of process responsible for $x$
 		-   Large eta
 
-![[slp-separable.png]]
+![slp-separable](../../../img/slp-separable.png)

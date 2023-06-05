@@ -1,6 +1,6 @@
 - Feed output from synthesis into up-res network
 - Generate standard low-res image
-	- Feed into [[cGAN]]
+	- Feed into [cGAN](cGAN.md)
 
-![[stackgan.png]]
-![[stackgan-results.png]]
+![stackgan](../../../../img/stackgan.png)
+![stackgan-results](../../../../img/stackgan-results.png)

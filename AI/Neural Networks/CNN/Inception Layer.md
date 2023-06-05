@@ -3,8 +3,8 @@
 	- Couple of different scales
 	- Concatenate results
 
-![[inception-layer-effect.png]]
-![[inception-layer-arch.png]]
+![inception-layer-effect](../../../img/inception-layer-effect.png)
+![inception-layer-arch](../../../img/inception-layer-arch.png)
 
 - 1 x 1
 	- Averages over channels

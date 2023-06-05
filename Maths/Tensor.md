@@ -11,7 +11,7 @@
 	-   Cube matrix
 
 Matrices are not inherently rank-2 tensors. Matrices are just the formatting structure. The tensor described by the matrix must follow the transformation rules to be a tensor
-![[tensor.png]]
+![tensor](../img/tensor.png)
 # Transformation Rules
 
 1. Transforms like a tensor

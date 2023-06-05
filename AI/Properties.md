@@ -16,7 +16,7 @@ An AI system must be able to
 2.  Apply knowledge to solve problems
 3.  Acquire new knowledge through experience
 
-![[ai-nested-subjects.png]]
+![ai-nested-subjects](../img/ai-nested-subjects.png)
 
 # Expert Systems
 -   Usually easier to obtain compiled experience from experts than duplicate experience that made them experts for network
@@ -56,4 +56,4 @@ Symbolic AI is the formal manipulation of a language of algorithms and data repr
 
 Neural nets bottom-up
 
-![[ai-io.png]]
+![ai-io](../img/ai-io.png)

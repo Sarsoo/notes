@@ -7,16 +7,16 @@ Optical Flow
 
 ![flownet](../../../../img/flownet.png)
 
-# [[Skip Connections]]
+# [Skip Connections](Skip%20Connections.md)
 - Further through the network information is condensed
 	- Less high frequency information
-- Link encoder layers to [[upconv]] layers
+- Link encoder layers to [UpConv](../UpConv.md) layers
 	- Append activation maps from encoder to decoder
 
 # Encode
 ![flownet-encode](../../../../img/flownet-encode.png)
 
-# [[Upconv]]
+# [UpConv](../UpConv.md)
 ![flownet-upconv](../../../../img/flownet-upconv.png)
 
 # Training

@@ -28,7 +28,7 @@
 # GoogLeNet
 2015
 
-- [[Inception Layer]]s
+- [Inception Layer](Inception%20Layer.md)s
 - Multiple [[Deep Learning#Loss Function|Loss]] Functions
 
 ![googlenet](../../../img/googlenet.png)

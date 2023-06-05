@@ -24,7 +24,7 @@
 	- No dropout
 
 [[Datasets#ImageNet|ImageNet]] Error:
-![[imagenet-error.png]]
+![imagenet-error](../../../../img/imagenet-error.png)
 
-![[resnet-arch.png]]
-![[resnet-arch2.png]]
+![resnet-arch](../../../../img/resnet-arch.png)
+![resnet-arch2](../../../../img/resnet-arch2.png)

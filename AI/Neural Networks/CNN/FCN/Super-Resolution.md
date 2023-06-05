@@ -7,6 +7,6 @@
 	- Unsupervised?
 - Decoder stage
 	- Identical architecture to encoder
-![[super-res.png]]
+![super-res](../../../../img/super-res.png)
 - Is actually contractive/up sampling
-![[superres-results.png]]
+![superres-results](../../../../img/superres-results.png)

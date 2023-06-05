@@ -1,4 +1,4 @@
-Fully [[Convolution]]al Network
+Fully [Convolution](../../../../Signal%20Proc/Convolution.md)al Network
 
 [[Convolutional Layer|Convolutional]] and [[UpConv|up-convolutional layers]] with [[Activation Functions#ReLu|ReLu]] but no others (pooling)
 - All some sort of Encoder-Decoder
@@ -9,12 +9,11 @@ Contractive → [UpConv](../UpConv.md)
 - For visual output
 	- Previously image $\rightarrow$ vector
 - Additional layers to up-sample representation to an image
-	- Up-[[convolution]]al
-	- De-[[convolution]]al
+	- Up-[convolution](../../../../Signal%20Proc/Convolution.md)al
+	- De-[convolution](../../../../Signal%20Proc/Convolution.md)al
 
-![[fcn-uses.png]]
-
-![[fcn-arch.png]]
+![fcn-uses](../../../../img/fcn-uses.png)
+![fcn-arch](../../../../img/fcn-arch.png)
 
 # Training
 - Rarely from scratch
@@ -22,7 +21,7 @@ Contractive → [UpConv](../UpConv.md)
 - Replace final layers
 	- [[MLP|FC]] layers
 	- White-noise initialised
-- Add [[upconv]] layer(s)
+- Add [UpConv](../UpConv.md) layer(s)
 	- Fine-tune train
 	- Freeze others
 	- Annotated GT images

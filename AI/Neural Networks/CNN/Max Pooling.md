@@ -5,7 +5,7 @@
 	- Max value is the good bit
 - No parameters
 
-![[max-pooling.png]]
+![max-pooling](../../../img/max-pooling.png)
 
 ## Design Parameters
 - Size of input image

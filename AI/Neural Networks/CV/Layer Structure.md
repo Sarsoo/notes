@@ -1,1 +1,1 @@
-![[cnn-cv-layer-arch.png]]
+![cnn-cv-layer-arch](../../../img/cnn-cv-layer-arch.png)

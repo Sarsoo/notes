@@ -8,9 +8,9 @@
 ## Hallucination
 
 # Architectures
-Mostly [[Transformers]]
+Mostly [Transformers](Transformers.md)
 
 ## GPT
-Generative Pre-trained [[Transformers]]
+Generative Pre-trained [Transformers](Transformers.md)
 
-![[llm-family-tree.png]]
+![llm-family-tree](../../../img/llm-family-tree.png)

@@ -3,7 +3,7 @@
 	- Maximise 1-hot output
 	- Maximise [[Activation Functions#SoftMax|SoftMax]]
 
-![[am.png]]
+![am](../../../img/am.png)
 - **Use trained network**
 	- Don't update weights
 - [[Architectures|Feedforward]] noise
@@ -11,7 +11,7 @@
 		- Don't update weights
 		- Update image
 
-![[am-process.png]]
+![am-process](../../../img/am-process.png)
 ## Regulariser
 - Fit to natural image statistics
 - Prone to high frequency noise
@@ -24,7 +24,7 @@ $$x^*=\text{argmin}_{x\in \mathbb R^{H\times W\times C}}\mathcal l(\phi(x),\phi_
 $$x^*=\text{argmin}_{x\in \mathbb R^{H\times W\times C}}\mathcal l(\phi(x),\phi_0)+\lambda\mathcal R(x)$$
 - Need a regulariser like above
 
-![[am-regulariser.png]]
+![am-regulariser](../../../img/am-regulariser.png)
 
 $$\mathcal R_{V^\beta}(f)=\int_\Omega\left(\left(\frac{\partial f}{\partial u}(u,v)\right)^2+\left(\frac{\partial f}{\partial v}(u,v)\right)^2\right)^{\frac \beta 2}du\space dv$$
 

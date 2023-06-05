@@ -9,9 +9,9 @@ $$E=hf$$
 2. There is a minimum frequency n0below which there is no emission
 3. No time delay (less than 1 ns) before the onset of emission –but the rate of electrons depends on the intensity.
 
-![[photo-electric.png]]
-![[fermi-vacuum-level.png]]
+![photo-electric](img/photo-electric.png)
+![fermi-vacuum-level](img/fermi-vacuum-level.png)
 
-![[em-spectrum.png]]
+![em-spectrum](img/em-spectrum.png)
 -   Radio spectrum
 	-   30Hz – 300 GHz

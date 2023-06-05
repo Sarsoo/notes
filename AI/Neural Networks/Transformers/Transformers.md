@@ -1,15 +1,15 @@
 - [[Attention|Self-attention]]
 	- Weighting significance of parts of the input
 		- Including recursive output
-- Similar to [[RNN]]s
+- Similar to [RNN](../RNN/RNN.md)s
 	- Process sequential data
 	- Translation & text summarisation
 	- Differences
 		- Process input all at once
-	- Largely replaced [[LSTM]] and gated recurrent units (GRU) which had attention mechanics
+	- Largely replaced [LSTM](../RNN/LSTM.md) and gated recurrent units (GRU) which had attention mechanics
 - No recurrent structure
 
-![[transformer-arch.png]]
+![transformer-arch](../../../img/transformer-arch.png)
 
 ## Examples
 - BERT
@@ -34,6 +34,6 @@
 	- Takes encodings and does opposite
 	- Uses incorporated textual information to produce output
 	- Has attention to draw information from output of previous decoders before drawing from encoders
-- Both use [[attention]]
+- Both use [Attention](Attention.md)
 - Both use [[MLP|dense]] layers for additional processing of outputs
 	- Contain residual connections & layer norm steps

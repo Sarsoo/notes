@@ -2,4 +2,4 @@
 - Apply kernel to same location of all channels
 	- Pixels in window divided by sum of pixel within volume across channels
 
-![[cnn-normalisation.png]]
+![cnn-normalisation](../../../img/cnn-normalisation.png)

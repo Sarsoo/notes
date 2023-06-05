@@ -5,18 +5,18 @@
 
 ### Object Models
 - COM 
-	- [[C++]]
+	- [C++](Languages/C++.md)
 	- Component Object Model
 	- MS only cross-language model
 - CLI 
-	- [[dotNet]]
+	- [dotNet](Languages/dotNet.md)
 	- .NET Common Language Infrastructure
 - Freedesktop.org D-Bus
 	- Open cross-platform-language model
 
 ### Virtual Machines
 - CLR 
-	- [[dotNet]]
+	- [dotNet](Languages/dotNet.md)
 	- .NET Common Language Runtime
 - Mono
 	- CLI languages
