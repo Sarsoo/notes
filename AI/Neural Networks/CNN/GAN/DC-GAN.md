@@ -13,10 +13,10 @@ Deep [Convolutional](../../../../Signal%20Proc/Convolution.md) [GAN](GAN.md)
 - Discriminator
 	- Contractive
 	- Cross-entropy [loss](../../Deep%20Learning.md#Loss%20Function)
-	- [Conv](../Convolutional%20Layer.md) and leaky [[Activation Functions#ReLu|ReLu]] layers only
-	- Normalised output via [[Activation Functions#Sigmoid|sigmoid]]
+	- [Conv](../Convolutional%20Layer.md) and leaky [ReLu](../../Activation%20Functions.md#ReLu) layers only
+	- Normalised output via [sigmoid](../../Activation%20Functions.md#Sigmoid)
 
-## [[Deep Learning#Loss Function|Loss]]
+## [Loss](../../Deep%20Learning.md#Loss%20Function)
 $$D(S,L)=-\sum_iL_ilog(S_i)$$
 - $S$
 	- $(0.1, 0.9)^T$

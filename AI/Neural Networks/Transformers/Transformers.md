@@ -1,4 +1,4 @@
-- [[Attention|Self-attention]]
+- [Self-attention](Attention.md)
 	- Weighting significance of parts of the input
 		- Including recursive output
 - Similar to [RNN](../RNN/RNN.md)s
@@ -35,5 +35,5 @@
 	- Uses incorporated textual information to produce output
 	- Has attention to draw information from output of previous decoders before drawing from encoders
 - Both use [Attention](Attention.md)
-- Both use [[MLP|dense]] layers for additional processing of outputs
+- Both use [dense](../MLP/MLP.md) layers for additional processing of outputs
 	- Contain residual connections & layer norm steps

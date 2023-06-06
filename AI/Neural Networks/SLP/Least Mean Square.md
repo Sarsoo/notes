@@ -20,7 +20,7 @@ $$\frac{\partial \mathfrak{E}(w)}{\partial w(n)}=-x(n)\cdot e(n)$$
 $$\hat{g}(n)=-x(n)\cdot e(n)$$
 $$\hat{w}(n+1)=\hat{w}(n)+\eta \cdot x(n) \cdot e(n)$$
 
--   Above is a [[Architectures|feedforward]] loop around weight vector, $\hat{w}$
+-   Above is a [feedforward](../Architectures.md) loop around weight vector, $\hat{w}$
 	-   Behaves like low-pass filter
 		-   Pass low frequency components of error signal
 	-   Average time constant of filtering action inversely proportional to learning-rate

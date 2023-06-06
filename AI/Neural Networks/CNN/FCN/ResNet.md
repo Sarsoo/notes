@@ -12,18 +12,18 @@
 
 # Design
 
-- Skips across pairs of [[Convolutional Layer|conv layers]]
+- Skips across pairs of [conv layers](../Convolutional%20Layer.md)
 	- Elementwise addition
 - All layer 3x3 kernel
 - Spatial size halves each layer
 - Filters doubles each layer
-- [[FCN|Fully convolutional]]
+- [Fully convolutional](FCN.md)
 	- No fc layer
-	- No [[Max Pooling|pooling]]
+	- No [pooling](../Max%20Pooling.md)
 		- Except at end
 	- No dropout
 
-[[Datasets#ImageNet|ImageNet]] Error:
+[ImageNet](../../CV/Datasets.md#ImageNet) Error:
 ![imagenet-error](../../../../img/imagenet-error.png)
 
 ![resnet-arch](../../../../img/resnet-arch.png)

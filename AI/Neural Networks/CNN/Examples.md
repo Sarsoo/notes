@@ -8,7 +8,7 @@
 # AlexNet
 2012
 
-- [[Activation Functions#ReLu|ReLu]]
+- [ReLu](../Activation%20Functions.md#ReLu)
 - Normalisation
 
 ![alexnet](../../../img/alexnet.png)
@@ -29,13 +29,13 @@
 2015
 
 - [Inception Layer](Inception%20Layer.md)s
-- Multiple [[Deep Learning#Loss Function|Loss]] Functions
+- Multiple [Loss](../Deep%20Learning.md#Loss%20Function) Functions
 
 ![googlenet](../../../img/googlenet.png)
 
 ## [Inception Layer](Inception%20Layer.md)
 ![googlenet-inception](../../../img/googlenet-inception.png)
-## Auxiliary [[Deep Learning#Loss Function|Loss]] Functions
+## Auxiliary [Loss](../Deep%20Learning.md#Loss%20Function) Functions
 - Two other SoftMax blocks
 - Help train really deep network
 	- Vanishing gradient problem

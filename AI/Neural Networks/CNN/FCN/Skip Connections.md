@@ -1,4 +1,4 @@
-- Output of [[Convolutional Layer|conv]], c, layers are added to inputs of [UpConv](../UpConv.md), d, layers
+- Output of [conv](../Convolutional%20Layer.md), c, layers are added to inputs of [UpConv](../UpConv.md), d, layers
 - Element-wise, not channel appending
 - Propagate high frequency information to later layers
 - Two types

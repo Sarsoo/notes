@@ -10,7 +10,7 @@
 -   JIT managed code into machine instructions
 -   Execution engine
 	-   VM
-	- [[Language Binding#Virtual Machines]]
+	- [Language Binding](../Language%20Binding.md#Virtual%20Machines)
 -   Services
 	-   Memory management
 	-   Type safety

@@ -1,13 +1,13 @@
 # Activation Maximisation
 - Synthesise an ideal image for a class
 	- Maximise 1-hot output
-	- Maximise [[Activation Functions#SoftMax|SoftMax]]
+	- Maximise [SoftMax](../Activation%20Functions.md#SoftMax)
 
 ![am](../../../img/am.png)
 - **Use trained network**
 	- Don't update weights
-- [[Architectures|Feedforward]] noise
-	- [[Back-Propagation|Back-propagate]] [[Deep Learning#Loss Function|loss]]
+- [Feedforward](../Architectures.md) noise
+	- [Back-propagate](../MLP/Back-Propagation.md) [loss](../Deep%20Learning.md#Loss%20Function)
 		- Don't update weights
 		- Update image
 
@@ -17,7 +17,7 @@
 - Prone to high frequency noise
 	- Minimise
 - Total variation
-	- $x^*$ is the best solution to minimise [[Deep Learning#Loss Function|loss]]
+	- $x^*$ is the best solution to minimise [loss](../Deep%20Learning.md#Loss%20Function)
 
 $$x^*=\text{argmin}_{x\in \mathbb R^{H\times W\times C}}\mathcal l(\phi(x),\phi_0)$$
 - Won't work

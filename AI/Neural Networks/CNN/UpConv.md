@@ -9,7 +9,7 @@
 - Could specify kernel
 	- Or learn
 - Can have multiple upconv layers
-	- Separated by [[Activation Functions#ReLu|ReLu]]
+	- Separated by [ReLu](../Activation%20Functions.md#ReLu)
 	- For non-linear up-sampling conv
 	- Interpolation is linear
 

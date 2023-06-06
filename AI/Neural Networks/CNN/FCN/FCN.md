@@ -1,6 +1,6 @@
 Fully [Convolution](../../../../Signal%20Proc/Convolution.md)al Network
 
-[[Convolutional Layer|Convolutional]] and [[UpConv|up-convolutional layers]] with [[Activation Functions#ReLu|ReLu]] but no others (pooling)
+[Convolutional](../Convolutional%20Layer.md) and [up-convolutional layers](../UpConv.md) with [ReLu](../../Activation%20Functions.md#ReLu) but no others (pooling)
 - All some sort of Encoder-Decoder
 
 Contractive → [UpConv](../UpConv.md)
@@ -19,13 +19,13 @@ Contractive → [UpConv](../UpConv.md)
 - Rarely from scratch
 - Pre-trained weights
 - Replace final layers
-	- [[MLP|FC]] layers
+	- [FC](../../MLP/MLP.md) layers
 	- White-noise initialised
 - Add [UpConv](../UpConv.md) layer(s)
 	- Fine-tune train
 	- Freeze others
 	- Annotated GT images
-- Can use summed per-pixel log [[Deep Learning#Loss Function|loss]]
+- Can use summed per-pixel log [loss](../../Deep%20Learning.md#Loss%20Function)
 
 # Evaluation
 ![fcn-eval](../../../../img/fcn-eval.png)

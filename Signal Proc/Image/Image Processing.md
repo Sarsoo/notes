@@ -1,1 +1,1 @@
-[[Convolution#Discrete]]
+[Convolution](../Convolution.md#Discrete)
