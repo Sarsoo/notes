@@ -1,0 +1,26 @@
+- Types
+	- Distinct words
+	- |V|
+- Tokens
+	- All words
+	- N
+	- Related quantities
+		- Have equations that estimate
+- Disfluencies
+	- Fragments
+		- Broken/half spoken words
+	- Fillers
+		- Oo
+		- Uh
+		- May strip
+		- May be helpful
+			- Speaker may start clause again
+- Clitic
+	- Part of a word that can’t stand on its own
+	- What’re
+	- Contractions
+
+# Edit Distance
+- Distance between words
+- Number of insertions deletions
+- Similarity

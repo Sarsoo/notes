@@ -1,0 +1,29 @@
+
+# Text Normalisation
+- Tokenisation
+	- Labelling parts of sentence
+	- Usually words
+	- Can be multiple
+		- Proper nouns
+		- New York
+		- Emoticons
+		- Hashtags
+	- May need some named entity recognition
+	- Penn Treebank standard
+	- Byte-pair encoding
+		- Standard can’t understand unseen words
+		- Encode as subwords
+			- -est, -er
+- Lemmatisation
+	- Determining roots of words
+	- Verb infinitives
+	- Find lemma
+		- Derived forms are inflections or inflected
+			- Word-forms
+	- Critical for morphological complex languages
+		- Arabic
+- Stemming
+	- Simpler than lemmatisation
+	- Just removing suffixes
+- Normalising word formats
+- Segmenting sentences

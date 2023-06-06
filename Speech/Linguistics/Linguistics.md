@@ -1,0 +1,32 @@
+- Phonetics
+	- Sound of language
+	- Acoustic result of speech articulation
+- Phonology
+	- How languages or dialects organise sounds
+	- Within and across languages
+	- Function of sound units in language
+		- How phonemes are used
+- Morphology
+	- Word structure
+- Syntax
+	- Sentence structure
+- Semantics
+	- Meaning of words or sentences
+- Pragmatics
+	- How context contributes to meaning
+	- Speech act theory
+- Discourse analysis
+	- How sentences form text
+
+# Phonetics vs Phonology
+- [Phoneme](Terms.md#Phoneme)
+	- Unit of sound structure
+		- With linguistic content
+	- Abstraction of set of sounds
+		- Allophones
+	- Phonology
+- Phone
+	- Segment of speech recording
+	- Single sound
+		- Single phoneme
+	- Phonetics

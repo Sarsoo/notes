@@ -1,0 +1,25 @@
+- Speech telecommunications & Encoding
+	- Preserving perceptibility and quality over the wire
+	- Minimising bandwidth
+- Speech enhancement
+	- Restoration of degraded speech
+		- Additive noise
+		- Reverberation
+		- Echoes
+		- Background sounds
+	- Blind source separation
+	- Adaptive filtering
+	- Spectral subtraction
+- Speech & Speaker recognition
+	- Auto conversion of speech to written
+	- Identifying speaker based on speech
+	- Dictation, speaker recognition for security
+- Speaker diarisation
+	- "Who speaks when"
+	- Speaker segmentation
+		- Speaker change point in stream
+	- Speaker clustering
+		- Grouping segments based on speaker identity
+- Speech synthesis
+- Speech analysis
+	- Waveform & spectrum
