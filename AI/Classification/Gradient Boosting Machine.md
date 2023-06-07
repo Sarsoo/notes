@@ -1,0 +1,7 @@
+- Higher level take
+- Iteratively train more models addressing weak points
+- Well paired with decision trees
+	- Strictly outperform random forest most of the time
+	- Similar properties
+- One of the best algorithm for dealing with non perceptual data
+- XGBoost

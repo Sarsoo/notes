@@ -9,7 +9,7 @@
 Argument that gives the maximum value from a target function
 
 # Gaussian Classifier
-[Training](Supervised.md)
+[Training](Supervised/Supervised.md)
 - Each class $i$ has it's own Gaussian $N_i=N(m_i,v_i)$
 
 $$\hat i=\text{argmax}_i\left(p(o_t|N_i)\cdot P(N_i)\right)$$
