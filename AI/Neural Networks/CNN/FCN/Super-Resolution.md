@@ -4,7 +4,7 @@
 	- Bi-cubic
 	- Encode-decode to deep sharpen
 - No ground truth
-	- Unsupervised?
+	- [Unsupervised](../../../Learning.md#Un-Supervised)?
 - Decoder stage
 	- Identical architecture to encoder
 ![super-res](../../../../img/super-res.png)

@@ -1,5 +1,7 @@
 ![deep-digit-classification](../../img/deep-digit-classification.png)
 
+OCR [Classification](../Classification/Classification.md)
+
 # Loss Function
 Objective Function
 

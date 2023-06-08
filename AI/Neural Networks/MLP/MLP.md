@@ -3,7 +3,7 @@
 	-   Universal approximation theorem
 -   Each hidden layer can operate as a different feature extraction layer
 -   Lots of [weights](../Weight%20Init.md) to learn
--   [Back-Propagation](Back-Propagation.md) is supervised
+-   [Back-Propagation](Back-Propagation.md) is [supervised](../../Learning.md#Supervised)
 
 ![mlp-arch](../../../img/mlp-arch.png)
 

@@ -5,7 +5,7 @@ Conditional [GAN](GAN.md)
 - Condition synthesis on a class label
 - Concatenate unconditional code with conditioning vector
 	- Label
-- No longer unsupervised
+- No longer [unsupervised](../../../Learning.md#Un-Supervised)
 	- Everything labelled
 		- Fake images and dataset
 	- **Requires pairing**

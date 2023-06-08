@@ -1,4 +1,4 @@
-# Unsupervised
+# [Un-Supervised](../../Learning.md#Un-Supervised)
 
 - Auto-encoder FCN
 - Learns bottleneck (latent) representation
@@ -6,7 +6,7 @@
 	- $f(.)$ is CNN encoding function
 ![](../../../img/unsup-representation-learning.png)
 
-# Supervised
+# [Supervised](../../Learning.md#Supervised)
 - Triplet loss
 	- Providing positive and negative requires supervision
 - Two losses

@@ -2,7 +2,7 @@
 - Remove [Max Pooling](../Max%20Pooling.md)
 	- Use strided [UpConv](../UpConv.md)
 - Remove [FC](../../MLP/MLP.md) layers
-	- Hurts convergence in non-classification
+	- Hurts convergence in non-[classification](../../../Classification/Classification.md)
 - Normalisation tricks
 	- Batch normalisation
 		- Batches of 0 mean and variance 1

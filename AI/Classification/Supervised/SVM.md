@@ -5,11 +5,11 @@
 	- Optimal hyperplane for a space
 	- Margin maximising hyperplane
 - Can be used for
-	- Classification
+	- [Classification](../Classification.md)
 		- SVC
 	- Regression
 		- SVR
-- Alternative to Eigenmodels for supervised classification
+- Alternative to Eigenmodels for [supervised](../../Learning.md#Supervised) classification
 - For smaller datasets
 	- Hard to scale on larger sets
 

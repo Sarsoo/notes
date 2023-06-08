@@ -6,7 +6,7 @@
 
 # Input-Output Mapping
 - Map input signal to desired response
-	- Supervised learning
+	- [Supervised](../Learning.md#Supervised) learning
 - Similar to non-parametric statistical inference
 	- Non-parametric as in no prior assumptions
 	- No probabilistic model

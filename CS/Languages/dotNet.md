@@ -31,3 +31,7 @@
 	-   DLL, EXE
 
 ![cli-infrastructure](../../img/cli-infrastructure.png)
+
+## Resources
+[Make microservices fun again with Dapr](https://www.daveabrock.com/2021/04/29/meet-dapr/)
+[Dapr for .NET](https://docs.microsoft.com/en-gb/dotnet/architecture/dapr-for-net-developers/)

@@ -1,0 +1,71 @@
+- Large number of heterogeneous devices
+- Spread physically
+- Ability to join and leave
+- Process data in-network or send directly
+
+# Challenges
+- Fault tolerance
+	- Nodes can
+		- Get damaged
+		- Run out of power
+		- Lose comms
+	- Redundant deployment
+- Lifetime
+	- Limited energy supply
+	- Replacing sometimes not practical
+		- Underwater
+		- Large/remote field deployments
+	- Energy efficient a necessity
+- Scalability
+	- WSM can have lots of nodes
+	- Architectures and protocols need to scale
+- Densities
+	- Density of network can vary
+		- Granularity
+		- Coverage
+	- Different applications warrant different numbers
+		- Range of nodes
+		- Space and time requirement
+	- Not necessarily homogenous density throughout
+		- Need to handle this
+- Programmability
+	- Flexible nodes with changing tasks
+	- Changeable programs during operation
+- Maintainability
+	- WSN and environment can change
+	- Adaptable system
+	- Changing operational parameters
+		- To increase energy efficiency for example
+
+# Node Types
+- Sensor
+	- Low power
+	- Sensing, memory, processor, radio
+	- Resource-constrained
+- Sink
+	- Another sensor node
+		- Or different wireless node
+	- Normally more powerful/better resources
+- Gateway
+	- Bridge IoT and internet networks
+	- More powerful
+	- Can have
+		- Service representation
+		- Cache/storage
+		- Discovery
+
+# Application Types
+- Event detection
+	- Reporting event occurrences
+	- Reporting abnormalities
+	- May need collaboration with other nodes
+	- Defining events and classification difficult
+- Periodic measurements
+	- Sense something and report
+	- Period is application-dependent
+- Approximation and pattern detection
+	- Sense messages in space and time
+	- E.g. combine wind, light, heat to detect forest fires
+- Tracking
+	- Source of event is mobile
+	- Event updates with location information
