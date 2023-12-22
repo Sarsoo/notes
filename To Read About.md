@@ -1,0 +1,34 @@
+- [ ] Nix #linux
+- [ ] [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
+- [ ] launchctl
+- [ ] launchd
+- [ ] Diffusion Models #ai 
+- [ ] WireGuard #net
+- [ ] RabbitMQ
+- [ ] OSINT
+- [ ] K8s
+- [ ] LLVM
+- [ ] TPM
+- [ ] QuickEMU
+- [ ] OpenTelemetry
+- [ ] DAPR
+- [ ] GraphQL
+- [ ] ZFS
+- [ ] Nebula
+- [ ] aircrack-ng
+- [ ] Powertop
+- [ ] Timeshift
+- [ ] NFS/Samba
+- [ ] [CRM](https://pca.st/episode/dd53d5d8-a332-4e56-81cd-20b86fabf33d)
+- [ ] Jitsi
+- [ ] Bicep on ARM
+- [ ] Quantum Computing #quantum 
+- [ ] PBX
+- [ ] SIP
+- [ ] dotnet-trace
+	- [ ] [Speedscope](speedscope.app)
+- [ ] Fail2Ban
+- [ ] SecurityHeaders
+- [ ] Open Graph
+- [ ] Privacy.com
+- [ ] Zabbix
