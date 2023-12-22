@@ -12,7 +12,7 @@
 		- Update image
 
 ![am-process](../../../img/am-process.png)
-## R3egulariser
+## Regulariser
 - Fit to natural image statistics
 - Prone to high frequency noise
 	- Minimise
