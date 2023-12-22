@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 Long Short Term Memory
 
 - More general form of [RNN](RNN.md)

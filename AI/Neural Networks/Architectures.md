@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 # Single-Layer Feedforward
 - *Acyclic*
 - Count output layer, no computation at input

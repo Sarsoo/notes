@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 # Fully [Convolution](../../../../Signal%20Proc/Convolution.md)al
 - Remove [Max Pooling](../Max%20Pooling.md)
 	- Use strided [UpConv](../UpConv.md)

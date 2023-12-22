@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 Conditional [GAN](GAN.md)
 
 - Hard to control with [AM](../Interpretation.md#Activation%20Maximisation)

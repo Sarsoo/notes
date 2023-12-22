@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 # Best First
 
 - Uniform cost uses an evaluation function

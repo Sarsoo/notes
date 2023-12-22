@@ -1,3 +1,7 @@
+---
+tags:
+  - low-level
+---
 [Uni of Virginia - x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 ## x86 32-bit

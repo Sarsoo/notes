@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - Assigning credit/blame for outcomes to each internal decision
 - Loading Problem
 	- Loading a training set into the free parameters

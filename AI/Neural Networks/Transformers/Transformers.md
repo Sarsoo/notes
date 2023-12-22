@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - [Self-attention](Attention.md)
 	- Weighting significance of parts of the input
 		- Including recursive output

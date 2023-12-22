@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 # LeNet
 - 1990's
 ![lenet-1989](../../../img/lenet-1989.png)

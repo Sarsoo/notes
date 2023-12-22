@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 # MNIST
 - 70,000 hand-drawn characters from US mail
 - 28x28 images

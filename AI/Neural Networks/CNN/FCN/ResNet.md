@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - Residual networks
 - 152 layers
 - Skips every two layers

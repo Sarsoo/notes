@@ -1,3 +1,7 @@
+---
+tags:
+  - quantum
+---
 $$E=hf$$
 ## Photoelectric Effect
 

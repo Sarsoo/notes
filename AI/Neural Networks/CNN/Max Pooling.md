@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - Maximum within window and writes result to output
 	- Downsamples image
 	- More non-linearity

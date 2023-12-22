@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 Recurrent Neural Network
 
 - Hard to train on long sequences

@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 # Properties
 ## Pre-training Datasets
 

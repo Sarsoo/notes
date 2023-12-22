@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 -   [Feedforward](../Architectures.md)
 -   Single hidden layer can learn any function
 	-   Universal approximation theorem

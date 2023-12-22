@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - Massively parallel, distributed processor
 - Natural propensity for storing experiential knowledge
 

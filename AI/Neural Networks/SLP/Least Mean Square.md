@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 -   To handle overlapping classes
 -   Linearity condition remains
 	-   Linear boundary

@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - Measure
 - Predict
 - Update

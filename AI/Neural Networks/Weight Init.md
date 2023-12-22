@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - Randomly
 	- Gaussian noise with mean = 0
 	- Small network

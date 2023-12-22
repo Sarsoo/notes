@@ -1,4 +1,7 @@
-
+---
+tags:
+  - ai
+---
 # Text Normalisation
 - Tokenisation
 	- Labelling parts of sentence

@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - Only single output neuron fires
 
 1. Set of homogeneous neurons with some randomly distributed synaptic weights

@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 - Overfitted to image
 	- Learn weights necessary to reconstruct from white noise
 - Trained from scratch on single image

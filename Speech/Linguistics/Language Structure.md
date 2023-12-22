@@ -1,3 +1,7 @@
+---
+tags:
+  - linguistics
+---
 - Sentence
 	- **Syntax**
 - Words

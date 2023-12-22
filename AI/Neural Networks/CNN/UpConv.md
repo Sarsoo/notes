@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - Fractionally strided convolution
 - Transposed [Convolution](../../../Signal%20Proc/Convolution.md)
 	- Like a deep interpolation

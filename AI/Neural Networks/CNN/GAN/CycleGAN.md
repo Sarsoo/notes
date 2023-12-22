@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 Cycle Consistent [GAN](GAN.md)
 
 - G

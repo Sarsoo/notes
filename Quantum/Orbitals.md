@@ -1,3 +1,7 @@
+---
+tags:
+  - quantum
+---
 [Wave Function](Wave%20Function.md)
 
 ## Quantum Numbers

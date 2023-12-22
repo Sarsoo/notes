@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 Structured sequence of observations
 
 - [Dynamic Time Warping](Dynamic%20Time%20Warping.md)

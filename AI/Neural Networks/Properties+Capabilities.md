@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 # Linearity
 - Neurons can be linear or non-linear
 - Network of non-linear neurons is non-linear

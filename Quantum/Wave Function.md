@@ -1,3 +1,7 @@
+---
+tags:
+  - quantum
+---
 $$\psi(r,\theta,\phi)=R(r)\cdot Y_{ml}(\theta, \phi)$$
 Wave functions are products of
 Radial Function

@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 # Pattern Association
 - Associative memory
 	- Learns by association

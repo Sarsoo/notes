@@ -1,3 +1,7 @@
+---
+tags:
+  - low-level
+---
 - The order in which atomic (scalar) parameters, or individual parts of a complex parameter, are allocated
 - How parameters are passed
 	- Pushed on the stack, placed in registers, or a mix of both

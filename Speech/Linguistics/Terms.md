@@ -1,3 +1,7 @@
+---
+tags:
+  - linguistics
+---
 # Phoneme
 - Smallest unit of speech
 	- Distinguish words

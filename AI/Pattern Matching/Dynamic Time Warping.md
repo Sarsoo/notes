@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 ***Deterministic
 Pattern Recogniser***
 Allows timescale variations in sequences for same class

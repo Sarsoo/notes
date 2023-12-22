@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 ![slp-arch](../../../img/slp-arch.png)
 $$v(n)=\sum_{i=0}^{m}w_i(n)x_i(n)$$
 $$=w^T(n)x(n)$$

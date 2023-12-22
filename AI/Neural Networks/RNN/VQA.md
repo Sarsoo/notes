@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 Visual Question Answering
 
 - Combine visual with text sequence

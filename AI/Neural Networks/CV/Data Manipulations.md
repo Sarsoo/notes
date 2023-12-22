@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 # Augmentation
 - Mimic larger datasets
 - Help with over-fitting

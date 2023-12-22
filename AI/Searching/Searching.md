@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 # [Uninformed](Uninformed.md)
 - Breadth First
 - Uniform Cost

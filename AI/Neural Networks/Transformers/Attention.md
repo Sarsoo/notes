@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - Meant to mimic cognitive attention
 	- Picks out relevant bits of information
 	- Use gradient descent

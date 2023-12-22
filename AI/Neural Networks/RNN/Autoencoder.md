@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 - Sequence of strokes for sketching
 	- LSTM backbone
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 Deep [Convolutional](../../../../Signal%20Proc/Convolution.md) [GAN](GAN.md)
 ![dc-gan](../../../../img/dc-gan.png)
 

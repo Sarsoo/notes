@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - Stochastic
 - Recurrent structure
 - Binary operation (+/- 1)

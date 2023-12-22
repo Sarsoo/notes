@@ -1,4 +1,7 @@
-#net
+---
+tags:
+  - net
+---
 ![](../../img/iot-network-types.png)
 
 # Gateway

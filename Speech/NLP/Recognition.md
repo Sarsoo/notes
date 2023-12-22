@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 1. Automatic Speech Recognition
 	- Spoken words to machine-readable form
 2. Natural language understanding

@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 # Fair
 - Democracy
 	- Board-level

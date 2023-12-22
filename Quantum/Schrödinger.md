@@ -1,3 +1,7 @@
+---
+tags:
+  - quantum
+---
 $$-\frac{\hbar^2}{2m}\nabla^2\psi+V\psi=E\psi$$
 - Time Independent
 - $\psi$ is the [Wave Function](Wave%20Function.md)

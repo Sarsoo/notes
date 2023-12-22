@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 - Shallow would be BOVW
 - Use metric space over feature space
 	- Get ranked list

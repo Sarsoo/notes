@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 ## Before 2010s
 - Data hungry
 	- Need lots of training data

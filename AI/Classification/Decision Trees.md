@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - Flowchart like design
 - Iterative decision making
 

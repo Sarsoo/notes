@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 - Feed output from synthesis into up-res network
 - Generate standard low-res image
 	- Feed into [cGAN](cGAN.md)

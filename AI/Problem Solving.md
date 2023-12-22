@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 # Problem Types
 - Toy/game problems
 	- Illustrative

@@ -1,4 +1,7 @@
-#lit 
+---
+tags:
+  - lit
+---
 Daniel Jurafsky
 James H. Martin
 

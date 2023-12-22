@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 # Modes
 ## Sequential
 - Apply changes after each train pattern

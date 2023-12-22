@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 “hello world”
 Related to naïve bayes
 

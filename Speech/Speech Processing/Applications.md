@@ -1,3 +1,7 @@
+---
+tags:
+  - media
+---
 - Speech telecommunications & Encoding
 	- Preserving perceptibility and quality over the wire
 	- Minimising bandwidth

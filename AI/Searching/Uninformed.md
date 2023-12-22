@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 # Breadth First
 - Uniform cost with cost function proportional to depth
 - All of each layer

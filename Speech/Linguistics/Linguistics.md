@@ -1,3 +1,7 @@
+---
+tags:
+  - linguistics
+---
 - Phonetics
 	- Sound of language
 	- Acoustic result of speech articulation

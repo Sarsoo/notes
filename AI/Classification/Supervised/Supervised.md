@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 
 # Gaussian Classifier
 - With $T$ labelled data

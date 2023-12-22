@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - Similar to band-pass pyramid
 - Changes fixed scale window sizes
 	- Couple of different scales

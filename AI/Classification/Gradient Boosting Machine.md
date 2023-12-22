@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - Higher level take
 - Iteratively train more models addressing weak points
 - Well paired with decision trees

@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 - Auto-encoders
 	- Get same image back
 - Up-sample blurry small image classically

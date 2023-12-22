@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 # [Un-Supervised](../../Learning.md#Un-Supervised)
 
 - Auto-encoder FCN

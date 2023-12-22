@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 
 ## Design Parameters
 - Size of input image

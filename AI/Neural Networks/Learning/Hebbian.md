@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 *Time-dependent, highly local, strongly interactive*
 
 - Oldest learning algorithm

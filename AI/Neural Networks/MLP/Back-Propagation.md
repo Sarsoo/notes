@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 Error signal graph
 
 ![mlp-arch-graph](../../../img/mlp-arch-graph.png)

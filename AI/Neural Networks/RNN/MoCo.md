@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - Similar to SimCLR
 - Rich set of negatives
 	- Sampled from previous epochs in queue

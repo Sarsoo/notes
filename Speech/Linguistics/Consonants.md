@@ -1,3 +1,7 @@
+---
+tags:
+  - linguistics
+---
 - Complete or partial closure of vocal tract
 - Voiced/Unvoiced
 

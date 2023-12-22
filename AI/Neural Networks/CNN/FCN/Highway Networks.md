@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 - [Skip Connections](Skip%20Connections.md) across individual layers
 	- Conditionally
 - Soft gates

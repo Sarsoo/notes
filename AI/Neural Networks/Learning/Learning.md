@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 *Learning is a process by which the free parameters of a neural network are adapted through a process of stimulation by the environment in which the network is embedded. The type of learning is determined by the manner in which the parameter changes take place*
 
 1. The neural network is **stimulated** by an environment

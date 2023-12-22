@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 # Three Key Components
 
 1.  Representation

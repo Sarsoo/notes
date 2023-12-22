@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 Fully [Convolution](../../../../Signal%20Proc/Convolution.md)al Network
 
 [Convolutional](../Convolutional%20Layer.md) and [up-convolutional layers](../UpConv.md) with [ReLu](../../Activation%20Functions.md#ReLu) but no others (pooling)

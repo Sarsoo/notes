@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 Optical Flow
 
 - 2-Channel optical flow

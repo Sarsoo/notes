@@ -4,7 +4,7 @@ From <[https://www.activestate.com/resources/quick-reads/how-to-update-all-pytho
 
 [poetry cheat sheet](https://gist.github.com/CarlosDomingues/b88df15749af23a463148bd2c2b9b3fb)
 
-## Twisted
+## Twisted #net
 Network engine
 
 numpy scipy jupyterlab matplotlib pandas scikit-learn
@@ -15,7 +15,7 @@ Compiler
 ## Plotly
 Publication-quality Graphs
 
-[NLTK](https://www.nltk.org)
+[NLTK](https://www.nltk.org) #ai 
 [NLP](../../Speech/NLP/NLP.md)
 
 If you are not getting good results, you should first check that you are using the right [classification](../../AI/Classification/Classification.md) algorithm (is your data well fit to be classified by a linear SVM?) and that you have enough training data. Practically, that means you might consider visualizing your dataset through PCA or t-SNE to see how "clustered" your classes are, and checking how your classification metrics evolve with the amount of data your classifier is given.

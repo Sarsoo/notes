@@ -1,3 +1,8 @@
+---
+tags:
+  - ai
+  - media
+---
 # Activation Maximisation
 - Synthesise an ideal image for a class
 	- Maximise 1-hot output

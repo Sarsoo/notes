@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 Error-Correcting Perceptron Learning
 
 -   Uses a McCulloch-Pitt neuron

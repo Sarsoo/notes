@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 # Supervised
 - Dataset with inputs manually annotated for desired output
 	- Desired output = supervisory signal
