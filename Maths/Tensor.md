@@ -1,3 +1,7 @@
+---
+tags:
+  - maths
+---
 ## Rank
 -   Number of indices
 -   Basis vectors per dimension/component

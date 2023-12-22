@@ -1,6 +1,7 @@
 ---
 tags:
   - ai
+  - maths
 ---
 -   To handle overlapping classes
 -   Linearity condition remains

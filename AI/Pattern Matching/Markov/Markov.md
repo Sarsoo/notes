@@ -1,6 +1,7 @@
 ---
 tags:
   - ai
+  - maths
 ---
 [Hidden Markov Models - JWMI Github](https://jwmi.github.io/ASM/5-HMMs.pdf)
 [Rabiner - A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition](https://www.cs.cmu.edu/~cga/behavior/rabiner1.pdf)

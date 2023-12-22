@@ -1,6 +1,7 @@
 ---
 tags:
   - ai
+  - maths
 ---
 Error signal graph
 

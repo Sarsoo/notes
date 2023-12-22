@@ -1,5 +1,6 @@
 ---
 tags:
+  - maths
 ---
 - Limits output values
 - Squashing function
