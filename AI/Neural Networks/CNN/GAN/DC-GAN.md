@@ -68,7 +68,7 @@ $$J^{(G)}=-J^{(D)}$$
 		- Input random noise
 - Iteratively improves visual feasibility
 	- Different to [FCN](../FCN/FCN.md)
-- Discriminator is a task specific classifier
+- Discriminator is a task specific classifier #classification 
 - Difficult to train over diverse footage
 	- Mixing concepts doesn't work
 	- Single category/class

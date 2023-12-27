@@ -1,6 +1,7 @@
 ---
 tags:
   - ai
+  - classification
 ---
 - Flowchart like design
 - Iterative decision making

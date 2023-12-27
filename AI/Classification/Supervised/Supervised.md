@@ -1,6 +1,7 @@
 ---
 tags:
   - ai
+  - classification
 ---
 
 # Gaussian Classifier

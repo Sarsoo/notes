@@ -18,7 +18,7 @@ tags:
 - Synthesise 'fake' images
 - From noise
 ## Discriminator, D
-- Discriminator is a classifier
+- Discriminator is a classifier #classification 
 	- Is image fake or real
 
 ![gan-arch](../../../../img/gan-arch.png)

@@ -1,6 +1,7 @@
 ---
 tags:
   - ai
+  - classification
 ---
 “hello world”
 Related to naïve bayes
