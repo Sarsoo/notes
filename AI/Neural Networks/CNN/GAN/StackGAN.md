@@ -2,6 +2,7 @@
 tags:
   - ai
   - media
+  - art
 ---
 - Feed output from synthesis into up-res network
 - Generate standard low-res image

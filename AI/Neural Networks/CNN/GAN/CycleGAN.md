@@ -2,6 +2,7 @@
 tags:
   - ai
   - media
+  - art
 ---
 Cycle Consistent [GAN](GAN.md)
 

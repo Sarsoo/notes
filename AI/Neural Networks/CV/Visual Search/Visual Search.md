@@ -2,6 +2,7 @@
 tags:
   - ai
   - media
+  - art
 ---
 - Shallow would be BOVW
 - Use metric space over feature space

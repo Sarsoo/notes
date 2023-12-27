@@ -2,6 +2,7 @@
 tags:
   - ai
   - media
+  - art
 ---
 Conditional [GAN](GAN.md)
 

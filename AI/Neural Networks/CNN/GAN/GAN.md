@@ -2,6 +2,7 @@
 tags:
   - ai
   - media
+  - art
 ---
 # Fully [Convolution](../../../../Signal%20Proc/Convolution.md)al
 - Remove [Max Pooling](../Max%20Pooling.md)
