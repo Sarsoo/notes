@@ -1,6 +1,7 @@
 ---
 tags:
   - ai
+  - speech
 ---
 1. Automatic Speech Recognition
 	- Spoken words to machine-readable form

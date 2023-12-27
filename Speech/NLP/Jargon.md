@@ -1,3 +1,7 @@
+---
+tags:
+  - speech
+---
 - Types
 	- Distinct words
 	- |V|

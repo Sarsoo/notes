@@ -1,3 +1,7 @@
+---
+tags:
+  - signals
+---
 - Poles
 	- **X**
 	- Let $X(z) = inf$

@@ -1,6 +1,7 @@
 ---
 tags:
   - lit
+  - speech
 ---
 Daniel Jurafsky
 James H. Martin

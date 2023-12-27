@@ -1,3 +1,7 @@
+---
+tags:
+  - signals
+---
 # Dynamic vs Algebraic
 - Dynamic system has "memory", output depends on present and past
 	- Includes diff and/or integral operators with initial conditions

@@ -1,3 +1,7 @@
+---
+tags:
+  - speech
+---
 - Input and output signals are real
 	- Filter coefficients are real for rational $H(z)$
 	- Poles/zeros either real or complex conjugate pairs

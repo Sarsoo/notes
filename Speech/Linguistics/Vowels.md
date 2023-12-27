@@ -1,6 +1,7 @@
 ---
 tags:
   - linguistics
+  - speech
 ---
 ALL VOICED
 [Wikipedia - Vowel Sounds](https://en.wikipedia.org/wiki/Vowel#Audio_samples)

@@ -1,6 +1,7 @@
 ---
 tags:
   - media
+  - speech
 ---
 - Speech telecommunications & Encoding
 	- Preserving perceptibility and quality over the wire

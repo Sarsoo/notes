@@ -1,6 +1,7 @@
 ---
 tags:
   - linguistics
+  - speech
 ---
 - Phonetics
 	- Sound of language

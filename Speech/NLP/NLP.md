@@ -1,6 +1,7 @@
 ---
 tags:
   - ai
+  - speech
 ---
 # Text Normalisation
 - Tokenisation

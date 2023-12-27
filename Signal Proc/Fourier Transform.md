@@ -1,3 +1,8 @@
+---
+tags:
+  - signals
+  - maths
+---
 $$X(\omega)=\int_{-\infty}^{\infty}x(t)e^{-j\omega t}dt$$
 $$x(t)=\frac{1}{2\pi}\int_{2\pi}X(\omega)e^{j\omega t}d\omega$$
 ## Discrete-Time

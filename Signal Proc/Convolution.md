@@ -1,3 +1,8 @@
+---
+tags:
+  - signals
+  - maths
+---
 Integral operator
 -   Satisfies mathematical properties of integral operator
 -   Product of two after one has been reversed and shifted

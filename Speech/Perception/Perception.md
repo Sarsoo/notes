@@ -1,3 +1,7 @@
+---
+tags:
+  - speech
+---
 # Physiological
 - Physical/mechanical processing of sound
 - Ear stuff

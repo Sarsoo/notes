@@ -1,6 +1,7 @@
 ---
 tags:
   - linguistics
+  - speech
 ---
 # Phoneme
 - Smallest unit of speech
