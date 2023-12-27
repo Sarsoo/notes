@@ -13,14 +13,14 @@ tags:
 	- Component Object Model
 	- MS only cross-language model
 - CLI 
-	- [dotNet](Languages/dotNet.md)
+	- [#dotnet](Languages/dotNet.md)
 	- .NET Common Language Infrastructure
 - Freedesktop.org D-Bus
 	- Open cross-platform-language model
 
 ### Virtual Machines
 - CLR 
-	- [dotNet](Languages/dotNet.md)
+	- [#dotnet](Languages/dotNet.md)
 	- .NET Common Language Runtime
 - Mono
 	- CLI languages

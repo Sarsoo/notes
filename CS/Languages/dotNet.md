@@ -1,6 +1,7 @@
 ---
 tags:
   - dev
+  - dotnet
 ---
 # Common Language Infrastructure
 ## CLI
