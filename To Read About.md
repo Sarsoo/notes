@@ -4,31 +4,32 @@
 - [ ] launchd
 - [ ] Diffusion Models #ai 
 - [ ] WireGuard #net
-- [ ] RabbitMQ
+- [ ] RabbitMQ #comms
 - [ ] OSINT
-- [ ] K8s
-- [ ] LLVM
-- [ ] TPM
+- [ ] K8s #cloud
+- [ ] LLVM #low-level 
+- [ ] TPM #low-level
 - [ ] QuickEMU
 - [ ] OpenTelemetry
-- [ ] DAPR
-- [ ] GraphQL
+- [ ] DAPR #net #cloud
+- [ ] GraphQL #net #comms
 - [ ] ZFS
-- [ ] Nebula
-- [ ] aircrack-ng
+- [ ] Nebula #net
+- [ ] aircrack-ng #net
 - [ ] Powertop
 - [ ] Timeshift
-- [ ] NFS/Samba
+- [ ] NFS/Samba #net
 - [ ] [CRM](https://pca.st/episode/dd53d5d8-a332-4e56-81cd-20b86fabf33d)
-- [ ] Jitsi
-- [ ] Bicep on ARM
+- [ ] Jitsi #comms
+- [ ] Bicep on ARM #cloud
 - [ ] Quantum Computing #quantum 
-- [ ] PBX
-- [ ] SIP
-- [ ] dotnet-trace
-	- [ ] [Speedscope](speedscope.app)
-- [ ] Fail2Ban
+- [ ] PBX #comms
+- [ ] SIP #comms
+- [ ] dotnet-trace #dotnet
+	- [ ] [Speedscope](https://speedscope.app) #dotnet
+- [ ] Fail2Ban #net
 - [ ] SecurityHeaders
 - [ ] Open Graph
 - [ ] Privacy.com
 - [ ] Zabbix
+- [ ] Source Generators #dotnet 
