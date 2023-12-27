@@ -1,3 +1,7 @@
+---
+tags:
+  - dev
+---
 ## JIT
 Just-in-Time
 -   Compilation during execution

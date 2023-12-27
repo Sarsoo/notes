@@ -1,3 +1,7 @@
+---
+tags:
+  - dev
+---
 `pip freeze | %{$_.split('==')[0]} | %{pip install --upgrade $_}`
 
 From <[https://www.activestate.com/resources/quick-reads/how-to-update-all-python-packages/](https://www.activestate.com/resources/quick-reads/how-to-update-all-python-packages/)>

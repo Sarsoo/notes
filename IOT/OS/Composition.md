@@ -1,3 +1,7 @@
+---
+tags:
+  - dev
+---
 # Threading
 *Smallest sequence of programmed instructions that can be managed independently by a [scheduler](https://en.wikipedia.org/wiki/Scheduling_(computing))*
 From <[https://en.wikipedia.org/wiki/Thread_(computing)](https://en.wikipedia.org/wiki/Thread_(computing))>

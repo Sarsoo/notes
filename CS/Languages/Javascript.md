@@ -1,6 +1,7 @@
 ---
 tags:
   - web
+  - dev
 ---
 [https://www.learnui.design/blog/spice-up-designs.html](https://www.learnui.design/blog/spice-up-designs.html)
 

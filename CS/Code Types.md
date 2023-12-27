@@ -1,3 +1,7 @@
+---
+tags:
+  - dev
+---
 ## Machine Code
 -   Machine language instructions
 -   Directly control [CPU](Processors.md)
