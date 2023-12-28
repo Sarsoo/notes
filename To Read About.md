@@ -1,4 +1,4 @@
-- [ ] Nix #linux
+- [ ] [Nix](../Lab/Linux/Nix.md) #linux
 - [ ] [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
 - [ ] launchctl
 - [ ] launchd
