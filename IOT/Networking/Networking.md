@@ -1,6 +1,7 @@
 ---
 tags:
   - net
+  - iot
 ---
 ![](../../img/iot-network-types.png)
 

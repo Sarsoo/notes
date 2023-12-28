@@ -1,3 +1,7 @@
+---
+tags:
+  - iot
+---
 - Large number of heterogeneous devices
 - Spread physically
 - Ability to join and leave

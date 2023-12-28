@@ -1,3 +1,7 @@
+---
+tags:
+  - iot
+---
 - Highly pervasive
 - High automated
 - More decentralised

@@ -1,3 +1,7 @@
+---
+tags:
+  - iot
+---
 - Thin software layer
 - Basic programming abstractions
 - Interact with hardware

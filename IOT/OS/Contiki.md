@@ -1,6 +1,11 @@
+---
+tags:
+  - linux
+  - iot
+---
 - Linux-based
 - Small memory (~20 kB)
-- Wide network stacks
+- Wide network stacks #net 
 	- TCP/IP
 		- IPv6
 	- 6LoWPAN

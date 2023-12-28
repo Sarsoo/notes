@@ -1,6 +1,7 @@
 ---
 tags:
   - dev
+  - iot
 ---
 # Threading
 *Smallest sequence of programmed instructions that can be managed independently by a [scheduler](https://en.wikipedia.org/wiki/Scheduling_(computing))*
