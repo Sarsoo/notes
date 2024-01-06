@@ -1,7 +1,7 @@
 - [ ] [Nix](../Lab/Linux/Nix.md) #linux
 - [ ] [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
-- [ ] launchctl
-- [ ] launchd
+- [ ] launchctl #mac
+- [ ] launchd #mac
 - [ ] Diffusion Models #ai 
 - [ ] WireGuard #net
 - [ ] RabbitMQ #comms
