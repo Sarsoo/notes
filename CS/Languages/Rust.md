@@ -17,3 +17,7 @@ tags:
 ## Rayon
 [https://crates.io/crates/rayon](https://crates.io/crates/rayon)
 -   Data parallelism
+
+# FFI
+[How to implement long-lived variables/state in a library?](https://stackoverflow.com/questions/59028838/how-to-implement-long-lived-variables-state-in-a-library)
+[Foreign Function Interface - Rustonomicon](https://doc.rust-lang.org/nomicon/ffi.html#foreign-function-interface)
