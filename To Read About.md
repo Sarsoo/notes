@@ -1,12 +1,14 @@
 - [ ] [Nix](../Lab/Linux/Nix.md) #linux
 - [ ] [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
+- [ ] [Tart](https://tart.run) #infra 
 - [ ] launchctl #mac
 - [ ] launchd #mac
 - [ ] Diffusion Models #ai 
 - [ ] WireGuard #net
 - [ ] RabbitMQ #comms
 - [ ] OSINT
-- [ ] K8s #cloud
+- [ ] [K8s](https://kubernetes.io/) #cloud
+- [ ] [Helm](https://helm.sh/) #cloud 
 - [ ] LLVM #low-level 
 - [ ] TPM #low-level
 - [ ] QuickEMU
