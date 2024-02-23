@@ -35,3 +35,4 @@
 - [ ] Privacy.com
 - [ ] Zabbix
 - [ ] Source Generators #dotnet 
+- [ ] [.NET Aspire](https://blog.jetbrains.com/dotnet/2024/02/19/jetbrains-rider-and-the-net-aspire-plugin/) #dotnet #dev #infra #net 
