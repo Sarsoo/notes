@@ -1,6 +1,6 @@
 - [ ] [Nix](../Lab/Linux/Nix.md) #linux
 - [ ] [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
-- [ ] [Tart](https://tart.run) #infra 
+- [ ] [Tart](https://tart.run) #infra
 - [ ] launchctl #mac
 - [ ] launchd #mac
 - [ ] Diffusion Models #ai 
