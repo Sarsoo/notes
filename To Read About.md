@@ -21,7 +21,6 @@
 - [ ] Powertop
 - [ ] Timeshift
 - [ ] NFS/Samba #net
-- [ ] [CRM](https://pca.st/episode/dd53d5d8-a332-4e56-81cd-20b86fabf33d)
 - [ ] Jitsi #comms
 - [ ] Bicep on ARM #cloud
 - [ ] Quantum Computing #quantum 
@@ -33,6 +32,6 @@
 - [ ] SecurityHeaders
 - [ ] Open Graph
 - [ ] Privacy.com
-- [ ] Zabbix
+- [x] Zabbix ✅ 2024-03-12
 - [ ] Source Generators #dotnet 
 - [ ] [.NET Aspire](https://blog.jetbrains.com/dotnet/2024/02/19/jetbrains-rider-and-the-net-aspire-plugin/) #dotnet #dev #infra #net 
