@@ -1,0 +1,41 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "vimMode": false,
+  "userIgnoreFilters": [
+    "**/README.md"
+  ],
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "/",
+  "mobileToolbarCommands": [
+    "editor:toggle-keyboard",
+    "editor:insert-tag",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:toggle-checklist-status",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar",
+    "table-editor-obsidian:next-cell",
+    "table-editor-obsidian:next-row"
+  ],
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 62
+  }
+}

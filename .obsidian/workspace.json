@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "ddf1f06a92af9aaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ed2de7bf70a9159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eed2c6dea537c3cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d9a6fb0d05bba07",
+    "type": "split",
+    "children": [
+      {
+        "id": "b797a1b7ce2e3a31",
+        "type": "tabs",
+        "dimension": 69.2713833157339,
+        "children": [
+          {
+            "id": "0cab7e789d3b99dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1820cab82c2300bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tbr",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0496e2b93a297a8c",
+        "type": "tabs",
+        "dimension": 30.728616684266107,
+        "children": [
+          {
+            "id": "922053f512cf376e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6ae14c24eaacd61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "right": {
+    "id": "2fa2030b70226bf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "392803457dee29da",
+        "type": "tabs",
+        "dimension": 34.53009503695882,
+        "children": [
+          {
+            "id": "8f5048fd754b7797",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "33a015e7793f5782",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "1509aaff5e706a3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2f030bd19b0f6b6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "24ed86397c9fa63c",
+        "type": "tabs",
+        "dimension": 65.46990496304119,
+        "children": [
+          {
+            "id": "6f7c46912eed6119",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9de79c51ab0fd7da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "afa2c9a431e5f00d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "eed2c6dea537c3cc",
+  "lastOpenFiles": [
+    "Do 2.md",
+    "Media/Read/Reading.canvas",
+    "Media/Read/TBR & Progress.md",
+    "Media/Read/Star Wars.md",
+    "Media/Read/Maas.md",
+    "Media/Read/Lists.md",
+    "Media/Read/🪓🔍.md",
+    "Media/Read/🤖🚀.md",
+    "Media/Read/🔮 🔮.md",
+    "Media/Read/📚📚.md",
+    "Media/Read/💨🌪️ Cosmere.md",
+    "Media/Read/🐢🐘 Discworld.md",
+    "Projects/Dev Options.md",
+    "Projects/DNSTP.md",
+    "Projects/Mixonomer.md",
+    "Projects/NoteCrawler.md",
+    "Projects/Projects.md",
+    "Projects/Selector.md",
+    "Projects/To Do App.md",
+    "Money/Me/Monthly/24-05.md",
+    "Lab/Net/VPN Servers.md",
+    "Tasks + Learning.md",
+    "Lab/Tasks + Learning.md",
+    "Money/Me/Income.md",
+    "Lab/WAX610 RMA.md",
+    "Untitled.md",
+    "Money/Me/Monthly/24-04.md",
+    "Media/Read",
+    "Work/Freelancing/Board.canvas",
+    "Family",
+    "Lab/Net",
+    "Lab/Media",
+    "STEM/img/alexnet.png",
+    "STEM/img/ai-io.png",
+    "Languages/Arabic",
+    "Food/Plans & Recipes.canvas",
+    "Work/Freelancing",
+    "Pet",
+    "Car",
+    "Housing/Untitled",
+    "Housing",
+    "Untitled.canvas",
+    "odds-def2.png",
+    "Pasted image 20231227184350.png",
+    "odds-def.png",
+    "STEM/img/bayes-truth-def2.png",
+    "STEM/img/bayes-truth-xor.png",
+    "STEM/img/bayes-truth-def.png",
+    "STEM/img/bayes-truth-calc.png",
+    "STEM/img/bayes-truth-table.png"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:STEM/AI",
+      "color": {
+        "a": 1,
+        "rgb": 25343
+      }
+    },
+    {
+      "query": "path:STEM/Maths",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "path:STEM",
+      "color": {
+        "a": 1,
+        "rgb": 15073280
+      }
+    },
+    {
+      "query": "path:Projects",
+      "color": {
+        "a": 1,
+        "rgb": 10525183
+      }
+    },
+    {
+      "query": "path:Lab",
+      "color": {
+        "a": 1,
+        "rgb": 7602370
+      }
+    },
+    {
+      "query": "path:Money",
+      "color": {
+        "a": 1,
+        "rgb": 13410304
+      }
+    },
+    {
+      "query": "path:Politcs",
+      "color": {
+        "a": 1,
+        "rgb": 65518
+      }
+    },
+    {
+      "query": "path:Health",
+      "color": {
+        "a": 1,
+        "rgb": 16747146
+      }
+    },
+    {
+      "query": "path:STEM/CS  ",
+      "color": {
+        "a": 1,
+        "rgb": 34063
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.75237223307292,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.495442708333333,
+  "repelStrength": 15.0691731770833,
+  "linkStrength": 0.4989013671875,
+  "linkDistance": 30,
+  "scale": 0.201421366053215,
+  "close": true
+}
