@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2ed2de7bf70a9159",
+        "id": "e69947985cbead55",
         "type": "tabs",
         "children": [
           {
-            "id": "eed2c6dea537c3cc",
+            "id": "a006181d0b6dba96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "CS/K8s.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (K8s)"
             }
           }
         ]
@@ -36,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -51,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -69,7 +78,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -77,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -101,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
             }
           },
           {
@@ -113,7 +128,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -129,7 +146,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -140,7 +159,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           }
         ]
@@ -155,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -163,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -171,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -192,8 +219,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eed2c6dea537c3cc",
+  "active": "a006181d0b6dba96",
   "lastOpenFiles": [
+    "CS/Networking/BGP.md",
+    "CS/Networking",
+    "To Read About.md",
+    "CS/K8s.md",
+    "Specific Energy.md",
     "Do 2.md",
     "Media/Read/Reading.canvas",
     "Media/Read/TBR & Progress.md",
@@ -217,10 +249,6 @@
     "Lab/Net/VPN Servers.md",
     "Tasks + Learning.md",
     "Lab/Tasks + Learning.md",
-    "Money/Me/Income.md",
-    "Lab/WAX610 RMA.md",
-    "Untitled.md",
-    "Money/Me/Monthly/24-04.md",
     "Media/Read",
     "Work/Freelancing/Board.canvas",
     "Family",
@@ -234,7 +262,6 @@
     "Pet",
     "Car",
     "Housing/Untitled",
-    "Housing",
     "Untitled.canvas",
     "odds-def2.png",
     "Pasted image 20231227184350.png",

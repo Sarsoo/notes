@@ -7,8 +7,8 @@
 - [ ] WireGuard #net
 - [ ] RabbitMQ #comms
 - [ ] OSINT
-- [ ] [K8s](https://kubernetes.io/) #cloud
-- [ ] [Helm](https://helm.sh/) #cloud 
+- [x] [K8s](https://kubernetes.io/) #cloud ✅ 2024-06-13
+- [x] [Helm](https://helm.sh/) #cloud ✅ 2024-06-13
 - [ ] LLVM #low-level 
 - [ ] TPM #low-level
 - [ ] QuickEMU

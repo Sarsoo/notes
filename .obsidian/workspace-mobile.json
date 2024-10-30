@@ -4,139 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "efa078972e82e206",
+        "id": "349f8c814879fde0",
         "type": "tabs",
         "children": [
           {
-            "id": "2008f4ea2d6598b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STEM/AI/Classification/Gradient Boosting Machine.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d15b72b787598d7",
+            "id": "c7c8ae6aa7329508",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "aa0743830df6aa12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Money/Markets/Commodity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8c3169d35f48893",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2460691d395c73df",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a641896c44ff136a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Money/Inflation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3eb9264fbf677c1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "960bd7b7333b3b30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Want/Elle.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd583abb0912a21c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Media/Tasks.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac07ad91ecd4b334",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c4d79481d1c9980d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "STEM/img/multilayerfeedforward.png"
-              }
-            }
-          },
-          {
-            "id": "157f06584d9b38c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Want/Elle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Want/Elle.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -231,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Want/Elle.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -242,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Want/Elle.md"
-          }
+          "state": {}
         }
       },
       {
@@ -277,7 +152,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "157f06584d9b38c2",
+  "active": "c7c8ae6aa7329508",
   "lastOpenFiles": [
     "Want/Jewellery.md",
     "Media/Read/Reading.canvas",
