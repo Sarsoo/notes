@@ -1,6 +1,7 @@
 ---
 tags:
   - quantum
+title: Schrödinger
 ---
 $$-\frac{\hbar^2}{2m}\nabla^2\psi+V\psi=E\psi$$
 - Time Independent

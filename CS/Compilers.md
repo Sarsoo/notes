@@ -1,6 +1,7 @@
 ---
 tags:
   - dev
+title: Compilers
 ---
 ## JIT
 Just-in-Time

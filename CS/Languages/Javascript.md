@@ -2,6 +2,7 @@
 tags:
   - web
   - dev
+title: JavaScript
 ---
 [https://www.learnui.design/blog/spice-up-designs.html](https://www.learnui.design/blog/spice-up-designs.html)
 

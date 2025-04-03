@@ -2,6 +2,7 @@
 tags:
   - dev
   - dotnet
+title: .NET
 ---
 # Common Language Infrastructure
 ## CLI

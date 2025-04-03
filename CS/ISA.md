@@ -2,6 +2,7 @@
 tags:
   - low-level
   - dev
+title: ISA
 ---
 Instruction Set Architecture
 

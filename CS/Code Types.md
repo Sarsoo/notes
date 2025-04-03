@@ -1,6 +1,7 @@
 ---
 tags:
   - dev
+title: Code Types
 ---
 ## Machine Code
 -   Machine language instructions

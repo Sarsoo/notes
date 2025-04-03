@@ -2,6 +2,7 @@
 tags:
   - dev
   - py
+title: Python
 ---
 ```bash
 pip freeze | %{$_.split('==')[0]} | %{pip install --upgrade $_}

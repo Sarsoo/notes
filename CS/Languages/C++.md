@@ -1,6 +1,7 @@
 ---
 tags:
   - dev
+title: C++
 ---
 ## To Read
 - [Iterators](https://en.cppreference.com/w/cpp/iterator) -> [spans](https://en.cppreference.com/w/cpp/container/span) -> [ranges](https://en.cppreference.com/w/cpp/ranges)

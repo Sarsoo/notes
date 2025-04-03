@@ -1,6 +1,7 @@
 ---
 tags:
   - dev
+title: Language Binding
 ---
 -   Binding is an API that provides glue code
 	-   Allows language to use a foreign library or OS

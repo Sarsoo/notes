@@ -1,6 +1,7 @@
 ---
 tags:
   - quantum
+title: Orbitals
 ---
 [Wave Function](Wave%20Function.md)
 
