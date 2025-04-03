@@ -1,4 +1,5 @@
 ---
+title: 'Filters'
 tags:
   - ai
   - media

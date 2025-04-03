@@ -1,4 +1,5 @@
 ---
+title: 'Examples'
 tags:
   - ai
 ---

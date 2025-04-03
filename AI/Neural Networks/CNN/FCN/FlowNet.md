@@ -1,4 +1,5 @@
 ---
+title: 'FlowNet'
 tags:
   - ai
   - media

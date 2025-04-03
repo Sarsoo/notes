@@ -1,4 +1,5 @@
 ---
+title: 'CycleGAN'
 tags:
   - ai
   - media

@@ -1,4 +1,5 @@
 ---
+title: 'Problem Solving'
 tags:
   - ai
 ---

@@ -1,3 +1,7 @@
+---
+tags:
+  - k8s
+---
 # HTTPs
 ## [CertManager](https://cert-manager.io)
 - ACME records

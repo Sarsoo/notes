@@ -1,4 +1,5 @@
 ---
+title: 'Informed'
 tags:
   - ai
 ---

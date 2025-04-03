@@ -1,4 +1,5 @@
 ---
+title: 'cGAN'
 tags:
   - ai
   - media

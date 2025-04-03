@@ -1,4 +1,5 @@
 ---
+title: 'Neural Networks'
 tags:
   - ai
 ---

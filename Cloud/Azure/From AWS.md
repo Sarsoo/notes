@@ -1,0 +1,53 @@
+---
+tags:
+  - cloud
+  - infra
+---
+- [Redundancy](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/regions-zones)
+- [Domain boundaries](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/accounts)
+	- AWS = Accounts
+		- Root -> OUs -> Accounts (logical and billing boundaries) -> Resources
+	- Azure = Subscriptions (+Resource Groups)
+		- No account just for management
+		- Management Groups -> Subscriptions -> Resource Groups -> Resources
+	- Cross Account IAM
+		- RBAC at different scopes
+			- Management group/subscription/resource group/individual resources
+- Services
+	- Amazon Timestream = Azure Data Explorer
+	- CloudWatch (+X-Ray) = Azure Monitor
+	- AWS Organisations = Azure Management Groups
+	- IAM = Entra
+	- Cognito = Entra External ID
+	- KMS = Key Vault
+	- Certificate Manager = Key Vault Certificates, Microsoft Cloud PKI
+	- Global Accelerator = Front Door/Cross-regional Load Balancer/(Traffic Manager?)
+	- Storage
+		- S3 = Azure Blob Storage
+		- Elastic Block Store = Azure Blob Storage
+		- Elastic File System = Azure Files
+	- Containers
+		- ECR = Azure Container Registry
+		- EKS = Azure Kubernetes Service
+	- Data
+		- Amazon Kinesis = Azure Event Hubs
+		- AWS Lake Formation = ADLS
+	- Comms
+		- SES = Azure Communication Services/SendGrid
+	- Networking
+		- VPC
+			- Azure Virtual Networks
+			- Subnet's are region-specific not AZ specific
+			- AWS Security Groups (Stateful)/ACLs (Stateless)
+				- Azure Network Security Groups (Stateful)
+			- Still no transitive peering by default
+				- Can use Network Virtual Appliances or Gateways
+					- Hub Virtual Network
+		- Load Balancing
+			- Load Balancer
+				- Same Layer 4 (transport[tcp/udp]) As AWS Network Load Balancer
+			- Application Gateway
+				- AWS Application Load Balancer
+				- Rule-based routing
+		- DirectConnect = ExpressRoute
+		- Route Tables = User-Defined Routes

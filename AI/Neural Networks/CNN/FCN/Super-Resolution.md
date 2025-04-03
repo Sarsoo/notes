@@ -1,4 +1,5 @@
 ---
+title: 'Super Resolution'
 tags:
   - ai
   - media

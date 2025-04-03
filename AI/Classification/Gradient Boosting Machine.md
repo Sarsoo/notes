@@ -1,4 +1,5 @@
 ---
+title: 'Gradient Boosting Machine'
 tags:
   - ai
 ---

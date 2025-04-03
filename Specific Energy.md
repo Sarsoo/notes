@@ -1,3 +1,7 @@
+---
+title: 'Specific Energy'
+---
+
 - Massic energy
 - Gravimetric energy density
 - Energy density

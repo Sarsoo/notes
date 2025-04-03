@@ -1,4 +1,5 @@
 ---
+title: 'DC-GAN'
 tags:
   - ai
   - media

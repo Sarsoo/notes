@@ -1,4 +1,5 @@
 ---
+title: 'MLP'
 tags:
   - ai
 ---

@@ -1,4 +1,5 @@
 ---
+title: 'ResNet'
 tags:
   - ai
 ---

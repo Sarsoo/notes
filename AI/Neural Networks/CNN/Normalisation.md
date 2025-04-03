@@ -1,4 +1,5 @@
 ---
+title: 'Normalisation'
 tags:
   - ai
 ---

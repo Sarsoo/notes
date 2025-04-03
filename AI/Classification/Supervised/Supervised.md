@@ -1,4 +1,5 @@
 ---
+title: 'Supervised Learning'
 tags:
   - ai
   - classification

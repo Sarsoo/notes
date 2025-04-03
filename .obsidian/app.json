@@ -3,7 +3,8 @@
   "spellcheck": true,
   "vimMode": false,
   "userIgnoreFilters": [
-    "**/README.md"
+    "**/README.md",
+    "**/*index.md"
   ],
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,

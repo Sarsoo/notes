@@ -1,4 +1,5 @@
 ---
+title: 'Training'
 tags:
   - ai
 ---

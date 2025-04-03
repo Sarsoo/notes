@@ -1,4 +1,5 @@
 ---
+title: 'Random Forest'
 tags:
   - classification
 ---

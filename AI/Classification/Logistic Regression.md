@@ -1,4 +1,5 @@
 ---
+title: 'Logistic Regression'
 tags:
   - ai
   - classification

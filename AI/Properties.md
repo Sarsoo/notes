@@ -1,4 +1,5 @@
 ---
+title: 'Properties'
 tags:
   - ai
 ---

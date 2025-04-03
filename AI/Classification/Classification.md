@@ -1,4 +1,5 @@
 ---
+title: 'Classification'
 tags:
   - ai
   - classification

@@ -1,4 +1,5 @@
 ---
+title: 'SLP'
 tags:
   - ai
 ---

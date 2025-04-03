@@ -1,4 +1,5 @@
 ---
+title: 'Weight Init'
 tags:
   - ai
 ---

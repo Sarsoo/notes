@@ -1,4 +1,5 @@
 ---
+title: 'Interpretation'
 tags:
   - ai
   - media

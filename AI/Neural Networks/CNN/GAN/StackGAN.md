@@ -1,4 +1,5 @@
 ---
+title: 'StackGAN'
 tags:
   - ai
   - media

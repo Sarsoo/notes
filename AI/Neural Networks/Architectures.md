@@ -1,4 +1,5 @@
 ---
+title: 'Architectures'
 tags:
   - ai
 ---

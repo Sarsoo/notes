@@ -1,4 +1,5 @@
 ---
+title: 'Markov Chains'
 tags:
   - ai
   - maths

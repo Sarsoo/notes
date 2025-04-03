@@ -1,4 +1,5 @@
 ---
+title: 'RNN'
 tags:
   - ai
 ---

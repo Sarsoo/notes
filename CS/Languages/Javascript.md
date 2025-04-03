@@ -9,8 +9,10 @@ tags:
 - For splitting files
 
 ## import
-`import defaultExport from "module-name";`
-`import { export1, export2 } from "module-name";`
+```javascript
+import defaultExport from "module-name";
+import { export1, export2 } from "module-name";
+```
 
 - Read-only live bindings
 	- Exported from another module
@@ -19,16 +21,22 @@ tags:
 ### Dynamic Import
 - Conditionally or on demand
 
-`import('/modules/module.js')`
-	`.then((module) => {`
-		`// Do something`
-	`});`
+```javascript
+import('/modules/module.js')
+	.then((module) => {
+		// Do something
+	});
+```
 
-`let module = await import('/modules/module.js');`
+```javascript
+let module = await import('/modules/module.js');
+```
 
 ## Export
 - Stick in front of statements
 
-`export const name = 'square';`
-`export function …`
-`export { name, draw, reportArea, reportPerimeter };`
+```javascript
+export const name = 'square';
+export function …
+export { name, draw, reportArea, reportPerimeter };
+```

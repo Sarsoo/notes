@@ -1,4 +1,5 @@
 ---
+title: 'GAN'
 tags:
   - ai
   - media

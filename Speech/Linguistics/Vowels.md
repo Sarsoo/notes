@@ -16,7 +16,7 @@ ALL VOICED
 - Glides from one quality to another
 - Gliding
 - Two targets
-	- Tongue and/or other parts  of speech apparatus
+	- Tongue and/or other parts of speech apparatus
 		- Moves between
 - No highway cowboy
 - Often when separate vowels glide naturally in natural speech

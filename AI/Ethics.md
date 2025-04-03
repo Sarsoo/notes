@@ -1,4 +1,5 @@
 ---
+title: 'Ethics'
 tags:
   - ai
 ---

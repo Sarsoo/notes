@@ -1,4 +1,5 @@
 ---
+title: 'Inception Layer'
 tags:
   - ai
 ---

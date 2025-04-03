@@ -1,4 +1,7 @@
-- [ ] [Nix](../Lab/Linux/Nix.md) #linux
+---
+---
+
+- [ ] Nix #linux
 - [ ] [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
 - [ ] [Tart](https://tart.run) #infra
 - [ ] launchctl #mac

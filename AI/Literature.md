@@ -1,4 +1,5 @@
 ---
+title: 'Literature'
 tags:
   - lit
   - ai

@@ -1,4 +1,5 @@
 ---
+title: 'Skip Connections'
 tags:
   - ai
 ---

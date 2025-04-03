@@ -1,4 +1,5 @@
 ---
+title: 'Uninformed'
 tags:
   - ai
 ---

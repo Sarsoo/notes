@@ -1,4 +1,5 @@
 ---
+title: 'Max Pooling'
 tags:
   - ai
 ---

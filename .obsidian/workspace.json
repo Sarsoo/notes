@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e69947985cbead55",
+        "id": "5913900bdca9b9fe",
         "type": "tabs",
         "children": [
           {
-            "id": "a006181d0b6dba96",
+            "id": "6c5d858d7ddecc90",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "CS/K8s.md",
-                "staged": false
+                "file": "AI/Classification/Supervised/SVM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (K8s)"
+              "icon": "lucide-file",
+              "title": "SVM"
             }
           }
         ]
@@ -40,7 +42,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tbr",
+                "query": "nix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,9 +117,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "AI/Classification/Supervised/SVM.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for SVM"
             }
           },
           {
@@ -177,8 +182,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -219,36 +224,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a006181d0b6dba96",
+  "active": "6c5d858d7ddecc90",
   "lastOpenFiles": [
-    "CS/Networking/BGP.md",
-    "CS/Networking",
+    "AI/Classification/Supervised/Supervised.md",
     "To Read About.md",
-    "CS/K8s.md",
-    "Specific Energy.md",
-    "Do 2.md",
+    "CS/Languages/Rust.md",
+    "CS/Languages/Python.md",
+    "CS/Languages/Javascript.md",
+    "CS/Languages/dotNet.md",
+    "CS/Languages/C++.md",
+    "CS/Languages/Assembly.md",
+    "CS/Languages/_index.md",
+    "_index.md",
+    "Semiconductors/_index.md",
+    "Speech/_index.md",
+    "Speech/Speech Processing/Applications.md",
+    "Signal Proc/_index.md",
+    "Quantum/_index.md",
+    "Maths/_index.md",
+    "IOT/_index.md",
+    "CS/Windows/_index.md",
+    "CS/Networking/_index.md",
+    "CS/_index.md",
+    "Cloud/Azure/_index.md",
+    "Cloud/_index.md",
+    "AI/_index.md",
+    "AI/Neural Networks/CV/Visual Search/_index.md",
+    "AI/Neural Networks/CV/_index.md",
+    "AI/Classification/Supervised/_index.md",
+    "CS/Windows",
+    "Cloud/Azure",
+    "Cloud",
+    "CS/Networking",
     "Media/Read/Reading.canvas",
-    "Media/Read/TBR & Progress.md",
-    "Media/Read/Star Wars.md",
-    "Media/Read/Maas.md",
-    "Media/Read/Lists.md",
-    "Media/Read/🪓🔍.md",
-    "Media/Read/🤖🚀.md",
-    "Media/Read/🔮 🔮.md",
-    "Media/Read/📚📚.md",
-    "Media/Read/💨🌪️ Cosmere.md",
-    "Media/Read/🐢🐘 Discworld.md",
-    "Projects/Dev Options.md",
-    "Projects/DNSTP.md",
-    "Projects/Mixonomer.md",
-    "Projects/NoteCrawler.md",
-    "Projects/Projects.md",
-    "Projects/Selector.md",
-    "Projects/To Do App.md",
-    "Money/Me/Monthly/24-05.md",
-    "Lab/Net/VPN Servers.md",
-    "Tasks + Learning.md",
-    "Lab/Tasks + Learning.md",
     "Media/Read",
     "Work/Freelancing/Board.canvas",
     "Family",
@@ -259,9 +267,6 @@
     "Languages/Arabic",
     "Food/Plans & Recipes.canvas",
     "Work/Freelancing",
-    "Pet",
-    "Car",
-    "Housing/Untitled",
     "Untitled.canvas",
     "odds-def2.png",
     "Pasted image 20231227184350.png",

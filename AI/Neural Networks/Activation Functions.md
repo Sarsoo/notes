@@ -1,4 +1,5 @@
 ---
+title: 'Activation Functions'
 tags:
   - maths
 ---
