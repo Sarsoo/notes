@@ -1,3 +1,6 @@
+---
+title: Data Lake
+---
 - Store large volumes of data in raw form
 - Data processed and used as basis for analytics
 - Store all types of data

@@ -3,6 +3,7 @@ tags:
   - cloud
   - k8s
   - infra
+title: K8s
 ---
 - [Azure AD Workload Identity](https://azure.github.io/azure-workload-identity/docs/)
 - EKS Service Accounts -> Roles

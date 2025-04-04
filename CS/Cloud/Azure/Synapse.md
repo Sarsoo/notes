@@ -1,1 +1,4 @@
+---
+title: Synapse
+---
 - Enterprise analytics service across data warehouses and big data systems

@@ -2,6 +2,7 @@
 tags:
   - cloud
   - infra
+title: From AWS
 ---
 - [Redundancy](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/regions-zones)
 - [Domain boundaries](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/accounts)
