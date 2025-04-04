@@ -22,7 +22,7 @@ Z-component / Magentic of $l$
 - $-l$ to $+l$
 - ***Orientation*** of orbital
 
-![wave-function-polar-segment](../img/wave-function-polar-segment.png)
+![wave-function-polar-segment](../../img/wave-function-polar-segment.png)
 
 ## Filling
 
@@ -35,11 +35,11 @@ Z-component / Magentic of $l$
 	-  Orbitals with same energy filled one at a time
 	-  Degenerate
 
-![orbitals-radius](../img/orbitals-radius.png)
-![wave-function-nodes](../img/wave-function-nodes.png)
+![orbitals-radius](../../img/orbitals-radius.png)
+![wave-function-nodes](../../img/wave-function-nodes.png)
 
 ## Radial
-![radial-equations](../img/radial-equations.png)
+![radial-equations](../../img/radial-equations.png)
 
 - Z = Atomic number
 - Bohr radius
@@ -47,4 +47,4 @@ Z-component / Magentic of $l$
 - Normalisation
 	- $\int_0^\infty r^2R_{nl}^*R_{nl}dr=1$
 
-![radius-electron-density-wf](../img/radius-electron-density-wf.png)
+![radius-electron-density-wf](../../img/radius-electron-density-wf.png)

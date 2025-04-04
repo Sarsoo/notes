@@ -30,7 +30,7 @@ tags:
 		- ECR = Azure Container Registry
 		- EKS = Azure Kubernetes Service
 	- Data
-		- Amazon Kinesis = Azure Event Hubs
+		- Amazon Kinesis = Azure [Event Hub](Event%20Hub.md)
 		- AWS Lake Formation = ADLS
 	- Comms
 		- SES = Azure Communication Services/SendGrid

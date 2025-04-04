@@ -2,7 +2,7 @@
 tags:
   - quantum
 ---
-![model-table](../img/model-table.png)
+![model-table](../../img/model-table.png)
 - 4 fundamental forces
 	- Bosons
 - Elementary particles
@@ -26,5 +26,5 @@ tags:
 		- Force carriers
 		- y, W, Z, g
 
-![boson-interactions-feynman](../img/boson-interactions-feynman.png)
-![boson-interactions](../img/boson-interactions.png)
+![boson-interactions-feynman](../../img/boson-interactions-feynman.png)
+![boson-interactions](../../img/boson-interactions.png)
