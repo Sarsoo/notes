@@ -1,0 +1,22 @@
+---
+tags:
+  - econ
+---
+-   People's interactions with value
+-   Goods and services
+	-   Production
+	-   Distribution
+	-   Consumption
+-   Microeconomics
+	-   Basic elements
+	-   Individual agents and [markets](Markets/Markets.md)
+		-   Households
+		-   Firms
+		-   Buyers
+		-   Sellers
+-   Macroeconomics
+	-   Economy as a system
+-   Positive economics
+	-   What is
+-   Normative economics
+	-   What ought to be

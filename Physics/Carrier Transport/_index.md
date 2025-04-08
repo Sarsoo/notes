@@ -1,0 +1,55 @@
+---
+title: Carrier Transport
+---
+# Drude
+- Based on kinetic theory of gas molecules
+	- Parallels to electron movement
+- Move in straight line until collision
+- No forces acting during travel
+- Time between collisions
+	- Relaxation time
+	- Mean free time
+	- Scattering time
+- Collisions randomise velocity
+
+# Assumptions
+- Metal is formed of positive ions
+	- Number of delocalised free electrons
+- Without EM field electrons move in straight line
+	- Only interaction is via collisions
+- Electron-ion interactions usually ignored
+	- **Free electron approximation**
+	- Not particularly accurate
+	- **Nearly free electron approximation** is better
+		- Weak interactions
+		- Perturbations
+- Electron-electron interactions ignored
+	- **Single particle picture**
+	- **Independent electron approximation**
+	- Hard to model because
+		- Don’t know wavefunctions of every electron
+		- Potential from interactions is not periodic
+		- Need to consider dynamics of all electrons at once
+	- Often weaker than electron-ion
+		- Parallel spins avoid each other
+			- Pauli exclusion
+		- Opposite spins avoid each other
+			- Reduce energy
+			- Coulomb repulsion
+		- Electrons distribute around ions
+			- Screen ions from other electrons
+- Mean free time between collisions is Tau
+	- Probability of collision per unit time
+		- 1 over Tau
+		- Relaxation rate
+	- Typically 0.1 ps
+	- $10^{13}$ - $10^{14}$ times per second
+	- Achieve thermal equilibrium via collisions with lattice
+		- Emerge with random direction
+			- Speed based on temperature of collision area
+				- Two temperatures
+					- Temperature of atoms
+						- What you measure
+					- Effective temperature of electrons
+						- Via Boltzmann's
+						- Transfer small amount of energy to lattice

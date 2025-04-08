@@ -1,0 +1,43 @@
+---
+tags:
+  - econ
+  - securities
+---
+-   Fungible
+-   Negotiable
+-   Tradable
+-   [Financial Instruments](Financial%20Instruments.md)
+-   Represents
+	-   Ownership position in public company
+		-   Via [Stocks](Stocks.md)
+	-   Creditor relationship with government or company
+		-   Via bond
+	-   Right to ownership
+		-   Via [Options](Options.md)
+-   3 types
+	-   [Equity](../Equity.md)
+		-   Ownership rights
+			-   Company, partnership or trust
+			-   Capital stock
+		-   Typically not entitled to regular payments
+			-   Although often pay dividends
+			-   Capital gains
+		-   Some control of company via voting
+			-   Pro rata
+			-   Proportional
+	-   Debt
+		-   Repayable loans
+		-   Includes
+			-   Government and corporate bonds
+			-   Certificates of deposit
+				-   CDs
+			-   Collateralised securities
+				-   CDOs
+				-   CMOs
+		-   Typically entitled to regular interest payments
+			-   And repayment of principal
+			-   Any other contractual rights
+		-   Secured or unsecured
+			-   By collateral
+	-   Hybrids
+		-   Combination of the above

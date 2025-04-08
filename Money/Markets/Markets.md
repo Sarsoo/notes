@@ -1,0 +1,40 @@
+---
+tags:
+  - econ
+---
+-   Systems, institutions, procedures, social relations or infrastructure
+	-   Exchange
+-   Markets are the processes by which prices of goods and services are established
+-   Facilitates trade
+	-   Enables distribution and resource allocation
+-   Differences
+	-   Products or factors sold
+		-   Products
+			-   Goods
+			-   Services
+		-   Factors
+			-   Labour
+			-   Capital
+	-   Product differentiation
+	-   Locations of exchange
+	-   Buyers
+	-   Duration
+	-   Selling process
+	-   Government regulation
+	-   Taxes
+	-   Subsidies
+	-   Minimum wages
+	-   Price ceilings
+	-   Legality of exchange
+	-   Liquidity
+	-   Intensity of speculation
+	-   Size
+	-   Concentration
+	-   Exchange asymmetry
+	-   Relative prices
+	-   Volatility
+	-   Geographic extension
+
+Forwards and futures are similar [Derivative](../Assets/Derivative.md)
+-   Forwards customisable and trade over-the-counter
+-   Futures standardised and traded on exchanges

@@ -1,0 +1,21 @@
+---
+tags:
+  - econ
+---
+-   Ownership of [Asset](Assets/Asset.md)s
+	-   May have debts or liabilities attached to them
+-   = value – liabilities
+	-   Car worth 9k
+	-   Owes 3k on loan
+	-   6k of equity
+-   Single item or entire business
+	-   Single asset
+		-   Purchased through a secured loan
+		-   Lender can repossess on default
+			-   Only to recover unpaid amount
+		-   Equity measures buyers partial ownership
+-   Shareholder's equity
+	-   Interest when owners of firm are shareholders
+-   Liabilities > value
+	-   Difference is deficit
+	-   Underwater/upside-down

@@ -1,0 +1,38 @@
+---
+tags:
+  - econ
+---
+-   Physical consumer markets
+	-   Food retail markets
+		-   Farmers markets
+		-   Fish markets
+		-   Wet markets
+		-   Grocery stores
+	-   Retail marketplaces
+		-   Public markets
+		-   Market squares
+		-   Main streets
+		-   High streets
+	-   Real estate markets
+-   Physical business markets
+	-   Wholesale markets
+		-   To retailers, industrial, commercial
+	-   Intermediate goods
+	-   Labour markets
+	-   Online auctions
+	-   Energy markets
+-   Non-physical markets
+	-   Media markets
+	-   Internet markets
+	-   Artificial markets
+		-   GHG credits
+-   Financial markets
+	-   [Stocks](../Assets/Stocks.md) markets
+	-   Bond markets
+	-   Currency markets
+	-   Insurance
+	-   Debt
+-   Unauthorised
+	-   Grey markets
+		-   Legal but unofficial
+	-   Black markets
