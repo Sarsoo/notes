@@ -1,6 +1,7 @@
 ---
 tags:
   - econ
+title: Asset
 ---
 - Resource with economic value
 
