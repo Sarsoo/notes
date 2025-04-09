@@ -65,7 +65,7 @@ title: Data Lake
 	- Loaded into raw zone
 	- Cleaned and transformed after extraction
 - Security & support
-	- Maksing
+	- Masking
 	- Auditing
 	- Encryption
 	- Access monitoring
