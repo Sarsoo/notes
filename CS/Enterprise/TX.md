@@ -1,5 +1,7 @@
 ---
 title: TX
+tags:
+  - enterprise
 ---
 [***Total Experience***](https://www.cds.co.uk/total-experience)
 - EX

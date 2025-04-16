@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:AI",
@@ -67,7 +67,7 @@
       "query": "path:CS  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 13996176
       }
     }
   ],
@@ -81,6 +81,6 @@
   "repelStrength": 15.0691731770833,
   "linkStrength": 0.4989013671875,
   "linkDistance": 30,
-  "scale": 0.17000859151823924,
-  "close": true
+  "scale": 0.18166920212740784,
+  "close": false
 }

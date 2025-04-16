@@ -6,7 +6,7 @@ tags:
 ---
 # Analytics
 - BigQuery Studio
-	- SQL/Python/Spark notebooks
+	- SQL/[Python](../../Languages/Python.md)/Spark notebooks #py #sql 
 
 # External Tables
 - 

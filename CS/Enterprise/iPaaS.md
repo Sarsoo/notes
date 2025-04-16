@@ -1,5 +1,7 @@
 ---
 title: iPaaS
+tags:
+  - enterprise
 ---
 **Integration Platform as a Service**
 - *"Focuses on enabling app, device and system integration"*

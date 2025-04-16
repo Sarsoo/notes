@@ -1,5 +1,7 @@
 ---
 title: DXP
+tags:
+  - enterprise
 ---
 - Digital Experience Platform (DXP)
 - *“A well-integrated and cohesive set of technologies designed to enable the composition, management, delivery, and optimisation of contextualised digital experiences across multi-experience customer journeys."*

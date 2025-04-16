@@ -4,7 +4,7 @@ tags:
   - data
   - cloud
 ---
-- Serverless SQL querying on [S3](S3.md) files
+- Serverless SQL querying on [S3](S3.md) files #sql
 	- Avro
 	- Parquet
 	- CSV

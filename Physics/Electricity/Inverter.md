@@ -1,5 +1,7 @@
 ---
 title: Inverter
+tags:
+  - electricity
 ---
 DC to AC
 [Inverter Wiki](https://en.wikipedia.org/wiki/Power_inverter)

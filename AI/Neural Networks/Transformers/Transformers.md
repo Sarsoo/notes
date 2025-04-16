@@ -11,7 +11,7 @@ tags:
 	- Translation & text summarisation
 	- Differences
 		- Process input all at once
-	- Largely replaced [LSTM](../RNN/LSTM.md) and gated recurrent units (GRU) which had attention mechanics
+	- Largely replaced [LSTM](../RNN/LSTM.md) and gated recurrent units (GRU) which had [attention](Attention.md) mechanics
 - No recurrent structure
 
 ![transformer-arch](../../../img/transformer-arch.png)
@@ -38,7 +38,7 @@ tags:
 - Decoder layers
 	- Takes encodings and does opposite
 	- Uses incorporated textual information to produce output
-	- Has attention to draw information from output of previous decoders before drawing from encoders
+	- Has [attention](Attention.md) to draw information from output of previous decoders before drawing from encoders
 - Both use [Attention](Attention.md)
 - Both use [dense](../MLP/MLP.md) layers for additional processing of outputs
 	- Contain residual connections & layer norm steps

@@ -4,7 +4,7 @@ tags:
   - media
 ---
 - Sequence of strokes for sketching
-	- LSTM backbone
+	- [LSTM](LSTM.md) backbone
 
 ![](../../../img/rnn+autoencoder.png)
 

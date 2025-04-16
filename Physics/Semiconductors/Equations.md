@@ -1,3 +1,9 @@
+---
+title: Equations
+tags:
+  - nano
+  - semiconductors
+---
 $$R=\frac{\rho L}{A}$$
 - $R$ = Resistance
 - $\rho$ = Resistivity ($\Omega cm$)

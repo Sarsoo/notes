@@ -1,5 +1,8 @@
 ---
 title: Master Data Management
+tags:
+  - data
+  - enterprise
 ---
 ***Reference Data***
 *CRD*

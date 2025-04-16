@@ -1,3 +1,9 @@
+---
+title: Doping
+tags:
+  - nano
+  - semiconductors
+---
 $$n=N_c\cdot e^{\frac{-(E_c-E_F)}{kT}}$$
 $$p=N_v\cdot e^{\frac{-(E_F-E_v)}{kT}}$$
 - $E_c$ is the position of the conduction band minimum

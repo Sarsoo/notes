@@ -34,7 +34,7 @@ Portable Code
 -   Can be further compiled
 	-   [Compilers](Compilers.md#JIT)
 -   Typically passed to VM
-	-   Java, [Python](Languages/Python.md)
+	-   Java, [Python](Languages/Python.md) #py
 
 ## Object Code
 -   Product of compiler

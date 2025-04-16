@@ -1,3 +1,5 @@
 ---
-title: 'Windows'
+title: Windows
+tags:
+  - "#windows"
 ---

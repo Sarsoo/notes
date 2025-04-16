@@ -14,7 +14,7 @@ tags:
 	- Analytics
 	- HPC
 	- Backup & Archive
-	- ML & AI
+	- ML & AI #ai
 
 ## Endpoints
 |Storage service|Endpoint|

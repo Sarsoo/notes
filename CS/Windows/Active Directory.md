@@ -1,5 +1,7 @@
 ---
 title: Active Directory
+tags:
+  - windows
 ---
 #net
 [MSDocs Overview](https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/access-control)

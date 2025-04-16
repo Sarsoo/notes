@@ -1,2 +1,7 @@
+---
+title: Change Data Capture
+tags:
+  - data
+---
 [CDC - Wikipedia](https://en.wikipedia.org/wiki/Change_data_capture)
 - In databases, change data capture (CDC) is a set of software design patterns used to determine and track the data that has changed (the "deltas") so that action can be taken using the changed data. The result is a delta-driven dataset.

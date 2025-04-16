@@ -16,7 +16,7 @@ tags:
 [Magnitude Response From Pole/Zeros](https://www.youtube.com/watch?v=8jNjVkoZQCU)
 [MIT Pole Zero](https://web.mit.edu/2.14/www/Handouts/PoleZero.pdf)
 
-Representation of rational transfer function, identifies
+Representation of rational [transfer function](Transfer%20Function.md), identifies
 - Stability
 - Causal/Anti-causal system
 - ROC

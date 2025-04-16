@@ -1,5 +1,8 @@
 ---
 title: Nano CW
+tags:
+  - nano
+  - lit
 ---
 [Applications of Graphene at Microwave Frequencies](https://www.researchgate.net/publication/283181514_Applications_of_Graphene_at_Microwave_Frequencies)
 [Engineering Graphene Conductivity for Flexible and High-Frequency Applications - David](https://pubs.acs.org/doi/pdf/10.1021/acsami.5b05140)
