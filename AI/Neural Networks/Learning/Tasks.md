@@ -12,7 +12,7 @@ tags:
 	- Input and output data spaces are same dimensionality
 - Heteroassociation
 	- Arbitrary set of input patterns paired with another arbitrary set of output patterns
-		- Supervised instead of unsupervised
+		- [Supervised](../../Classification/Supervised/Supervised.md) instead of unsupervised
 	- No required relationship between input/output dimensionality
 - Stages
 	- Storage

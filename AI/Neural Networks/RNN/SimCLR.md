@@ -9,7 +9,7 @@ tags:
 2. Within batch sample positive and negative
 	- Patches from same image are positive
 	- All other negative
-3. MLP layer to compute loss instead of bottleneck embedding
+3. [MLP](../MLP/MLP.md) layer to compute loss instead of bottleneck embedding
 	- Head network for function of bottleneck
 
 ![](../../../img/simclr.png)

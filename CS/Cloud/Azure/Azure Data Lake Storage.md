@@ -1,5 +1,9 @@
 ---
 title: Azure Data Lake Storage
+tags:
+  - data
+  - cloud
 ---
-- Layer on top of Azure Blob Storage
+[Data Lake](../../Data/Data%20Lake.md)
+- Layer on top of Azure [Blob Storage](Blob%20Storage.md)
 - 

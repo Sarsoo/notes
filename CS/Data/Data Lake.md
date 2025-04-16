@@ -1,5 +1,7 @@
 ---
 title: Data Lake
+tags:
+  - data
 ---
 - Store large volumes of data in raw form
 - Data processed and used as basis for analytics
@@ -71,3 +73,14 @@ title: Data Lake
 	- Access monitoring
 - Governance & stewardship
 	- Users educated on architecture
+
+# Components
+
+1. Storage Layer 
+	- operates the physical storage
+2. File Layer 
+	- determines in what format the data is stored in the storage layer
+3. Metadata Layer 
+	- defines structure (e.g. what files correspond to what tables and simplifies data ops operations and governance)
+4. Compute Layer 
+	- performs data processing and querying

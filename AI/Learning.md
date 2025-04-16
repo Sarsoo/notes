@@ -3,7 +3,7 @@ title: 'Learning'
 tags:
   - ai
 ---
-# Supervised
+# [Supervised](Classification/Supervised/Supervised.md)
 - Dataset with inputs manually annotated for desired output
 	- Desired output = supervisory signal
 	- Manually annotated = ground truth

@@ -1,0 +1,25 @@
+---
+title: Data
+tags:
+  - data
+  - cloud
+---
+- [Data Lake](../../Data/Data%20Lake.md), Data Warehouse, Data Lakehouse
+	- [SageMaker](SageMaker.md) Lakehouse
+	- Redshift
+	- [S3](S3.md)
+- Streaming
+	- Data Firehose
+	- Kinesis
+	- Managed Service for [Apache](../../Data/Apache.md) Flink
+	- MSK
+- Data Processing
+	- [Athena](Athena.md)
+	- [EMR](EMR.md)
+	- AWS [Glue](Glue.md)
+	- Managed Workflows for [Apache](../../Data/Apache.md) Airflow (MWAA)
+- BI
+	- Quicksight
+- Governance
+	- DataZone
+	- [SageMaker](SageMaker.md) Catalog

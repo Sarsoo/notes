@@ -24,15 +24,15 @@ title: From AWS
 	- Certificate Manager = Key Vault Certificates, Microsoft Cloud PKI
 	- Global Accelerator = Front Door/Cross-regional Load Balancer/(Traffic Manager?)
 	- Storage
-		- S3 = Azure Blob Storage
-		- Elastic Block Store = Azure Blob Storage
+		- [S3](../AWS/S3.md) = Azure [Blob Storage](Blob%20Storage.md)
+		- Elastic Block Store = Azure [Blob Storage](Blob%20Storage.md)
 		- Elastic File System = Azure Files
 	- Containers
 		- ECR = Azure Container Registry
-		- EKS = Azure Kubernetes Service
+		- EKS = [Azure Kubernetes Service](K8s.md)
 	- Data
 		- Amazon Kinesis = Azure [Event Hub](Event%20Hub.md)
-		- AWS Lake Formation = ADLS
+		- AWS [Lake Formation](../AWS/Lake%20Formation.md) = [ADLS](Azure%20Data%20Lake%20Storage.md)
 	- Comms
 		- SES = Azure Communication Services/SendGrid
 	- Networking

@@ -1,0 +1,6 @@
+- Managed workloads
+	- [Apache](../../Data/Apache.md) Spark
+	- Trino
+	- Flink
+	- Hive
+- Seems to be a way to stand up an [Apache](../../Data/Apache.md) data compute cluster

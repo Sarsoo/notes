@@ -1,5 +1,7 @@
 ---
 title: Blob Storage
+tags:
+  - cloud
 ---
 # Storage Accounts
 - Contains

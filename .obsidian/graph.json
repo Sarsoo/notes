@@ -5,41 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:STEM/AI",
+      "query": "path:AI",
       "color": {
         "a": 1,
         "rgb": 25343
       }
     },
     {
-      "query": "path:STEM/Maths",
+      "query": "path:Maths",
       "color": {
         "a": 1,
         "rgb": 16711927
       }
     },
     {
-      "query": "path:STEM",
-      "color": {
-        "a": 1,
-        "rgb": 15073280
-      }
-    },
-    {
-      "query": "path:Projects",
+      "query": "path:IOT",
       "color": {
         "a": 1,
         "rgb": 10525183
-      }
-    },
-    {
-      "query": "path:Lab",
-      "color": {
-        "a": 1,
-        "rgb": 7602370
       }
     },
     {
@@ -50,37 +36,51 @@
       }
     },
     {
-      "query": "path:Politcs",
+      "query": "path:Physics  ",
       "color": {
         "a": 1,
-        "rgb": 65518
+        "rgb": 13697024
       }
     },
     {
-      "query": "path:Health",
+      "query": "path:\"Signal Proc\"  ",
       "color": {
         "a": 1,
-        "rgb": 16747146
+        "rgb": 5395168
       }
     },
     {
-      "query": "path:STEM/CS  ",
+      "query": "path:Speech  ",
       "color": {
         "a": 1,
-        "rgb": 34063
+        "rgb": 11151
+      }
+    },
+    {
+      "query": "path:CS/Cloud  ",
+      "color": {
+        "a": 1,
+        "rgb": 12740352
+      }
+    },
+    {
+      "query": "path:CS  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 2.75237223307292,
+  "nodeSizeMultiplier": 3.55854322668482,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
   "centerStrength": 0.495442708333333,
   "repelStrength": 15.0691731770833,
   "linkStrength": 0.4989013671875,
   "linkDistance": 30,
-  "scale": 0.2019031495999546,
+  "scale": 0.17000859151823924,
   "close": true
 }

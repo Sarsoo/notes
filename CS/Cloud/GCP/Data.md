@@ -1,0 +1,30 @@
+---
+title: Data
+tags:
+  - data
+  - cloud
+---
+- [Data Lake](../../Data/Data%20Lake.md), Data Warehouse, Data Lakehouse
+	- Cloud Storage
+	- [BigQuery](BigQuery.md)
+	- DataPlex
+- Streaming
+	- DataFlow
+		- [Apache](../../Data/Apache.md) Beam
+		- Cloud Managed Kafka
+		- Pub/Sub
+- Orchestration & Integration
+	- Cloud Composer
+		- "[BigQuery](BigQuery.md) Engine for Apache Airflow"
+	- Dataform
+		- Build, Version control & orchestrate SQL workflows in [BigQuery](BigQuery.md)
+	- DataStream
+		- Serverless CDC & replication service
+- Data Processing
+	- DataProc
+		- [Apache](../../Data/Apache.md) Spark
+		- [Apache](../../Data/Apache.md) Hadoop
+		- Batch processing, querying, streaming, machine learning
+		- Can be provisioned as a cluster or serverless
+- BI
+	- Looker (Studio?)

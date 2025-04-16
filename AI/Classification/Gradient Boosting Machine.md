@@ -5,7 +5,7 @@ tags:
 ---
 - Higher level take
 - Iteratively train more models addressing weak points
-- Well paired with decision trees
+- Well paired with [decision trees](Decision%20Trees.md)
 	- Strictly outperform random forest most of the time
 	- Similar properties
 - One of the best algorithm for dealing with non perceptual data

@@ -27,7 +27,7 @@ tags:
 # As a Descriptor
 - Most powerful as a deeply learned feature extractor
 - [Dense](../MLP/MLP.md) [classifier](../../Classification/Classification.md) at the end isn't fantastic
-	- Use SVM to classify prior to penultimate layer #classification 
+	- Use [SVM](../../Classification/Supervised/SVM.md) to classify prior to penultimate layer #classification 
 
 ![cnn-descriptor](../../../img/cnn-descriptor.png)
 
