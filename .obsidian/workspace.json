@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Cloud/AWS/Athena.md",
+                "file": "CS/Cloud/_index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Athena"
+              "title": "_index"
             }
           }
         ]
@@ -118,10 +118,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CS/Cloud/AWS/Athena.md"
+                "file": "CS/Cloud/_index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Athena"
+              "title": "File properties for _index"
             }
           },
           {
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Cloud/AWS/Athena.md",
+                "file": "CS/Cloud/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Athena"
+              "title": "Backlinks for _index"
             }
           },
           {
@@ -163,16 +163,15 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Cloud/AWS/Athena.md",
+                "file": "CS/Cloud/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Athena"
+              "title": "Outgoing links from _index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "24ed86397c9fa63c",
@@ -229,8 +228,24 @@
   },
   "active": "e00d10f700ea5ece",
   "lastOpenFiles": [
-    "CS/Cloud/AWS/_index.md",
+    "CS/Cloud/GCP/BigQuery.md",
+    "CS/Cloud/GCP/Data.md",
+    "CS/Cloud/_index.md",
+    "CS/Cloud/GCP/_index.md",
+    "CS/Cloud/Azure/Synapse.md",
+    "CS/Cloud/Azure/K8s.md",
+    "CS/Cloud/Azure/From AWS.md",
+    "CS/Cloud/Azure/Event Hub.md",
+    "CS/Cloud/Azure/Blob Storage.md",
+    "CS/Cloud/Azure/Azure Data Lake Storage.md",
     "CS/Cloud/AWS/SageMaker.md",
+    "CS/Cloud/AWS/S3.md",
+    "CS/Cloud/AWS/Lake Formation.md",
+    "CS/Cloud/AWS/Glue.md",
+    "CS/Cloud/AWS/EMR.md",
+    "CS/Cloud/AWS/Data.md",
+    "CS/Cloud/AWS/Athena.md",
+    "CS/Cloud/AWS/_index.md",
     "To Read About.md",
     "_index.md",
     "Speech/Literature.md",
@@ -239,22 +254,6 @@
     "Signal Proc/Pole-Zero.md",
     "Signal Proc/Fourier Transform.md",
     "Signal Proc/Convolution.md",
-    "Signal Proc/Image/Tracking.md",
-    "Signal Proc/Image/Image Processing.md",
-    "Money/Markets/Types.md",
-    "Money/_index.md",
-    "Money/Equity.md",
-    "Money/Inflation.md",
-    "Money/Monopolies.md",
-    "Money/Quant.md",
-    "Money/To Learn.md",
-    "Maths/Vector Operators.md",
-    "Maths/Tensor.md",
-    "Maths/Algebra.md",
-    "IOT/Software Services.md",
-    "IOT/Cyber-Physical Systems.md",
-    "IOT/OS/OS.md",
-    "IOT/OS/Contiki.md",
     "CS/Cloud/GCP",
     "CS/Cloud/AWS",
     "CS/Data",

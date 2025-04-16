@@ -1,3 +1,9 @@
+---
+title: EMR
+tags:
+  - data
+  - cloud
+---
 - Managed workloads
 	- [Apache](../../Data/Apache.md) Spark
 	- Trino
