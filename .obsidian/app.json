@@ -4,7 +4,7 @@
   "vimMode": false,
   "userIgnoreFilters": [
     "**/README.md",
-    "**/*index.md"
+    "**/_index.md"
   ],
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
