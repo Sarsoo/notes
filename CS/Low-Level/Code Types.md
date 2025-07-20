@@ -15,7 +15,7 @@ title: Code Types
 	-   [Compilers](Compilers.md), assemblers and linkers
 	-   Not for interpreted code
 		-   Interpreter runs machine code
--   [Assembly](Languages/Assembly.md) is effectively human readable machine code
+-   [Assembly](../Languages/Assembly.md) is effectively human readable machine code
 	-   Has mnemonics for opcodes etc
 
 ## Microcode
@@ -34,7 +34,7 @@ Portable Code
 -   Can be further compiled
 	-   [Compilers](Compilers.md#JIT)
 -   Typically passed to VM
-	-   Java, [Python](Languages/Python.md) #py
+	-   Java, [Python](../Languages/Python.md) #py
 
 ## Object Code
 -   Product of compiler

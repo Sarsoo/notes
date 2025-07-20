@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Linux/ZFS/_index.md",
+                "file": "CS/Languages/Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Python"
             }
           }
         ]
@@ -118,10 +118,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CS/Linux/ZFS/_index.md"
+                "file": "CS/Languages/Python.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for _index"
+              "title": "File properties for Python"
             }
           },
           {
@@ -226,6 +226,11 @@
   },
   "active": "e00d10f700ea5ece",
   "lastOpenFiles": [
+    "CS/Low-Level/Code Types.md",
+    "CS/Low-Level/Calling Conventions.md",
+    "CS/Languages/Assembly.md",
+    "CS/Low-Level/ABI.md",
+    "CS/Linux/ZFS/_index.md",
     "CS/Linux/ZFS/Caching/SLOG.md",
     "CS/Linux/ZFS/Dataset.md",
     "CS/Linux/ZFS/Enterprise.md",
@@ -242,7 +247,6 @@
     "CS/Linux/ZFS/Caching/L2ARC.md",
     "CS/Linux/ZFS/Features/_index.md",
     "CS/Linux/ZFS/Features/ACLs.md",
-    "CS/Linux/ZFS/_index.md",
     "CS/Linux/ZFS/VDEV.md",
     "CS/Linux/ZFS/VM Storage.md",
     "CS/Linux/ZFS/Caching",
@@ -251,11 +255,7 @@
     "CS/Linux/ZFS/ZFS.md",
     "CS/Linux/_index.md",
     "CS/Linux/Alpine.md",
-    "CS/Linux/KDE.md",
-    "CS/Linux/Nix.md",
     "CS/Linux/ZFS",
-    "CS/Low-Level/Processors.md",
-    "CS/Quantum.md",
     "CS/Low-Level",
     "CS/Linux",
     "Money/Markets/Commodities",
