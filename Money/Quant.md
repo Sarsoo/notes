@@ -13,3 +13,14 @@ Using mathematical and statistical modelling, measurement, and research to under
 - Derivatives Pricing
 - Portfolio Optimisation
 
+# Libraries
+- [QuantLib](https://github.com/lballabio/QuantLib) C++/Python
+- [RustQuant](https://github.com/avhz/RustQuant) Rust
+- [QuantConnect](https://github.com/QuantConnect/Lean) C#
+- [TA-Lib](https://ta-lib.org/) C/Python
+- [zipline](https://github.com/quantopian/zipline) Python
+
+## Market Data
+- Yahoo Finance
+	- [yfinance](https://github.com/ranaroussi/yfinance)
+- [FRED](https://fred.stlouisfed.org)

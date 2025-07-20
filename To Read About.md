@@ -38,5 +38,7 @@
 - [x] Zabbix ✅ 2024-03-12
 - [ ] Source Generators #dotnet 
 - [ ] [.NET Aspire](https://blog.jetbrains.com/dotnet/2024/02/19/jetbrains-rider-and-the-net-aspire-plugin/) #dotnet #dev #infra #net 
-- [ ] [[Apache](CS/Data/Apache.md) Airflow](https://airflow.apache.org)
+- [ ] [Apache](CS/Data/Apache.md) [Airflow](https://airflow.apache.org)
 - [ ] [Apache Beam](https://beam.apache.org/)
+- [ ] [KEDA](https://keda.sh)
+- [ ] B-Trees

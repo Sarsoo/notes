@@ -3,12 +3,15 @@ tags:
   - econ
 ---
 - [ ] Box spreads
-- [ ] Covered call
+- [x] Covered call ✅ 2025-06-19
 - [ ] Options spreads
-- [ ] Buy Side
+- [x] Buy Side ✅ 2025-06-19
 - [ ] Trading Lifecycle
 - [ ] Bond markets
 - [ ] Quantitative Easing
 - [ ] Quantitative Tightening
 - [ ] Real net positive interest rates
 - [ ] Bond price inverse to interest rates
+- [ ] Trade surveillance
+- [ ] Inverted yield curve
+- [ ] [Central bank liquidity swap](https://en.wikipedia.org/wiki/Central_bank_liquidity_swap)

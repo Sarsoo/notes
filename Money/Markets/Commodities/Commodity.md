@@ -14,16 +14,16 @@ tags:
 		-   Within a few days
 		-   Physical markets
 		-   Cash markets
-	-   [Derivative](../Assets/Derivative.md)
+	-   [Derivative](../../Assets/Derivative.md)
 		-   Delivery in the future
 		-   Commodity futures
 		-   Forward markets
 		-   Forwards, futures and options
-			-   Use the spot market as underlying [Asset](../Assets/Asset.md)
+			-   Use the spot market as underlying [Asset](../../Assets/Asset.md)
 			-   Ownership in the future based on today's price
 -   Precious metals
 	-   Can be a good hedge against inflation
 	-   Broad commodity exposure can diversify portfolio
 -   Hard to get direct access
 	-   Easier to invest in companies that do
-		-   [Stock](../Assets/Stocks.md) prices will somewhat track the commodity prices
+		-   [Stock](../../Assets/Stocks.md) prices will somewhat track the commodity prices

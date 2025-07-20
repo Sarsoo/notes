@@ -11,7 +11,7 @@ tags:
 -   Commonly based on
 	-   [Stocks](Stocks.md)
 	-   Bonds
-	-   [Commodities](../Markets/Commodity.md)
+	-   [Commodities](../Markets/Commodities/Commodity.md)
 	-   Currencies
 	-   Interest rates
 	-   Market indices
