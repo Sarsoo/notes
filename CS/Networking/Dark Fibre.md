@@ -1,0 +1,2 @@
+- Unused optical fibre
+- Can be leased

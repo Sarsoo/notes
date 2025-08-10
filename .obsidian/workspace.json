@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Languages/Python.md",
+                "file": "CS/Windows/Active Directory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Active Directory"
             }
           }
         ]
@@ -118,10 +118,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CS/Languages/Python.md"
+                "file": "CS/Windows/Active Directory.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Python"
+              "title": "File properties for Active Directory"
             }
           },
           {
@@ -226,42 +226,43 @@
   },
   "active": "e00d10f700ea5ece",
   "lastOpenFiles": [
-    "CS/Low-Level/Code Types.md",
-    "CS/Low-Level/Calling Conventions.md",
-    "CS/Languages/Assembly.md",
-    "CS/Low-Level/ABI.md",
-    "CS/Linux/ZFS/_index.md",
-    "CS/Linux/ZFS/Caching/SLOG.md",
-    "CS/Linux/ZFS/Dataset.md",
-    "CS/Linux/ZFS/Enterprise.md",
-    "CS/Linux/ZFS/Parameters.md",
-    "CS/Linux/ZFS/ZPool.md",
+    "Money/Markets/Orders/Care Orders.md",
+    "Money/Markets/Orders/_index.md",
     "CS/Linux/ZFS/Tools.md",
-    "CS/Linux/ZFS/Monitoring.md",
-    "CS/Linux/ZFS/Features/Snapshots.md",
-    "CS/Linux/ZFS/Features/Send+Receive.md",
+    "CS/Linux/ZFS/Dataset.md",
     "CS/Linux/ZFS/Features/Encryption.md",
-    "CS/Linux/ZFS/Features/Ditto Blocks.md",
-    "CS/Linux/ZFS/Caching/_index.md",
-    "CS/Linux/ZFS/Caching/ARC.md",
-    "CS/Linux/ZFS/Caching/L2ARC.md",
-    "CS/Linux/ZFS/Features/_index.md",
-    "CS/Linux/ZFS/Features/ACLs.md",
+    "CS/Linux/ZFS/Features/Send+Receive.md",
+    "CS/Linux/ZFS/ZPool.md",
+    "CS/Linux/ZFS/Parameters.md",
+    "CS/Linux/ZFS/Monitoring.md",
     "CS/Linux/ZFS/VDEV.md",
+    "CS/Linux/ZFS/Boot Menu.md",
+    "CS/Linux/Booting.md",
+    "CS/Linux/Packages.md",
+    "CS/Networking/Dark Fibre.md",
+    "CS/Networking/G.fast.md",
+    "CS/Networking/Backbone.md",
+    "CS/Networking/UK/JANET.md",
+    "CS/Networking/Untitled",
+    "CS/Networking/UK/Nominet.md",
+    "CS/Networking/Fixed Wireless.md",
+    "CS/Networking/UK/_index.md",
+    "CS/Networking/UK",
+    "CS/Networking/Untitled.canvas",
     "CS/Linux/ZFS/VM Storage.md",
+    "Money/Markets/Orders/Crosses.md",
+    "Money/Markets/Buy & Sell Side.md",
+    "Money/Markets/Markets.md",
+    "Money/Assets/Financial Instruments.md",
+    "Money/Markets/Orders",
+    "Money/Equity.md",
+    "CS/Linux/Virtualisation",
     "CS/Linux/ZFS/Caching",
     "CS/Linux/ZFS/Features",
     "CS/Linux/ZFS/Extra Devs",
-    "CS/Linux/ZFS/ZFS.md",
-    "CS/Linux/_index.md",
-    "CS/Linux/Alpine.md",
     "CS/Linux/ZFS",
     "CS/Low-Level",
     "CS/Linux",
-    "Money/Markets/Commodities",
-    "CS/Security",
-    "CS/Cloud/GCP",
-    "CS/Cloud/AWS",
     "Media/Read/Reading.canvas",
     "Work/Freelancing/Board.canvas",
     "STEM/img/alexnet.png",

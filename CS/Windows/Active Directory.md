@@ -21,5 +21,12 @@ tags:
 	- Folders
 	- Printers
 	- Registry keys
-	- AD domain services objects
+	- AD domain services objectsr
 - Access control lists
+
+```powershell
+gpresult /r /SCOPE COMPUTER
+```
+```powershell
+gpupdate /force
+```

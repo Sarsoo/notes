@@ -1,0 +1,3 @@
+- IANA delegate for `.uk`
+	- `.wales`
+	- `.cymru`
