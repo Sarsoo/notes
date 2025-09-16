@@ -44,7 +44,7 @@ title: ZFS
 [ZFS write allocation in 0.7.x](https://jrs-s.net/2018/08/24/zfs-write-allocation-in-0-7-x/)
 - Don't mix rust and SSD in the same pool or vdev
 [Assessing the Potential for Data Loss](https://www.truenas.com/community/resources/assessing-the-potential-for-data-loss.227/)
-- 
+[Expanding ZFS pool on Linux VPS](https://www.tomica.net/blog/2020/02/expanding-zfs-pool-on-linux-vps/)
 
 # Install
 
