@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "068a7e38b253316b",
+        "id": "684e322c00f958d0",
         "type": "tabs",
         "children": [
           {
-            "id": "e00d10f700ea5ece",
+            "id": "2436db6f7681208f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "CS/Linux/ZFS/_index.md",
-                "staged": false
+                "file": "CS/Cloud/AWS/Control Tower.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (_index)"
+              "icon": "lucide-file",
+              "title": "Control Tower"
             }
           }
         ]
@@ -115,9 +117,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "CS/Cloud/AWS/Control Tower.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Control Tower"
             }
           },
           {
@@ -221,8 +225,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e00d10f700ea5ece",
+  "active": "2436db6f7681208f",
   "lastOpenFiles": [
+    "CS/Cloud/AWS/Athena.md",
+    "CS/Cloud/AWS/Data.md",
+    "CS/Cloud/AWS/EMR.md",
+    "CS/Cloud/AWS/Glue.md",
+    "CS/Cloud/AWS/Lake Formation.md",
+    "CS/Cloud/AWS/S3.md",
+    "CS/Cloud/AWS/SageMaker.md",
+    "CS/Networking/G.fast.md",
+    "CS/Networking/UK/Nominet.md",
+    "CS/Networking/UK/JANET.md",
+    "CS/Networking/UK/_index.md",
+    "CS/Networking/_index.md",
+    "CS/Networking/Backbone.md",
+    "CS/Networking/BGP.md",
+    "CS/Networking/Dark Fibre.md",
+    "CS/Networking/Fixed Wireless.md",
+    "CS/Cloud/AWS/Control Tower.md",
     "CS/Linux/ZFS/_index.md",
     "CS/Linux/ZFS/Boot Menu.md",
     "CS/Linux/ZFS/Dataset.md",
@@ -232,26 +253,9 @@
     "CS/Linux/ZFS/Tools.md",
     "CS/Linux/ZFS/VDEV.md",
     "CS/Linux/ZFS/ZPool.md",
-    "CS/Linux/ZFS/VM Storage.md",
-    "CS/Windows/Active Directory.md",
-    "Money/Markets/Orders/Care Orders.md",
-    "Money/Markets/Orders/_index.md",
-    "CS/Linux/ZFS/Features/Encryption.md",
-    "CS/Linux/ZFS/Features/Send+Receive.md",
-    "CS/Linux/Booting.md",
-    "CS/Linux/Packages.md",
-    "CS/Networking/Dark Fibre.md",
-    "CS/Networking/G.fast.md",
-    "CS/Networking/Backbone.md",
-    "CS/Networking/UK/JANET.md",
     "CS/Networking/Untitled",
-    "CS/Networking/UK/Nominet.md",
-    "CS/Networking/Fixed Wireless.md",
-    "CS/Networking/UK/_index.md",
     "CS/Networking/UK",
     "CS/Networking/Untitled.canvas",
-    "Money/Markets/Orders/Crosses.md",
-    "Money/Markets/Buy & Sell Side.md",
     "Money/Markets/Orders",
     "CS/Linux/Virtualisation",
     "CS/Linux/ZFS/Caching",
