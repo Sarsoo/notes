@@ -40,3 +40,24 @@ d921970 HEAD@{1}: merge phedders/rdocs: Merge made by the 'recursive' strategy.
 	- *symmetric difference*
 	- `--left-right`
 		- Gives `>` or `<` for which side it's on
+
+# Submodules
+- `git submodule init`
+- `git submodule update`
+	- run frequently-ish
+- `git clone --recurse-submodules <URL>`
+	- on superproject clone
+- `git submodule update --init`
+	- both, if you didn't clone with `recurse`
+- **`git submodule update --init --recursive`**
+	- the lot
+- `git config -f .gitmodules submodule.<MODULE>.branch <BRANCH>`
+	- change tracker of module
+- `git submodule foreach 'git <CMD>'`
+## updating submodule
+1. `cd` into module
+2. `git fetch/pull` etc
+3. `cd ..`
+4. `git commit`
+- all in one
+	- **`git submodule update --remote [<PATH>]`**

@@ -1,7 +1,7 @@
 ---
 tags:
   - k8s
-title: K8s
+title: Tools
 ---
 # HTTPs
 ## [CertManager](https://cert-manager.io)

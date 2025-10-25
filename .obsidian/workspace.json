@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "684e322c00f958d0",
+        "id": "6e821692c77119d1",
         "type": "tabs",
         "children": [
           {
-            "id": "2436db6f7681208f",
+            "id": "cfed0368a6c844cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "CS/Cloud/AWS/Control Tower.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "CS/Git.md",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Control Tower"
+              "icon": "git-pull-request",
+              "title": "Diff View (Git)"
             }
           }
         ]
@@ -55,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dmi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,11 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "CS/Cloud/AWS/Control Tower.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Control Tower"
+              "title": "File properties"
             }
           },
           {
@@ -225,8 +221,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2436db6f7681208f",
+  "active": "cfed0368a6c844cb",
   "lastOpenFiles": [
+    "CS/K8s/_index.md",
+    "CS/K8s/Tools.md",
+    "CS/K8s/RBAC.md",
+    "CS/K8s",
+    "CS/Git.md",
+    "CS/Windows/_index.md",
+    "CS/Windows/Active Directory.md",
+    "CS/Change Data Capture.md",
+    "Speech/Speech Processing/Applications.md",
+    "CS/Resources.md",
+    "workflows/pages.yml",
+    "workflows",
+    "CS/Cloud/AWS/Control Tower.md",
     "CS/Cloud/AWS/Athena.md",
     "CS/Cloud/AWS/Data.md",
     "CS/Cloud/AWS/EMR.md",
@@ -243,16 +252,6 @@
     "CS/Networking/BGP.md",
     "CS/Networking/Dark Fibre.md",
     "CS/Networking/Fixed Wireless.md",
-    "CS/Cloud/AWS/Control Tower.md",
-    "CS/Linux/ZFS/_index.md",
-    "CS/Linux/ZFS/Boot Menu.md",
-    "CS/Linux/ZFS/Dataset.md",
-    "CS/Linux/ZFS/Enterprise.md",
-    "CS/Linux/ZFS/Monitoring.md",
-    "CS/Linux/ZFS/Parameters.md",
-    "CS/Linux/ZFS/Tools.md",
-    "CS/Linux/ZFS/VDEV.md",
-    "CS/Linux/ZFS/ZPool.md",
     "CS/Networking/Untitled",
     "CS/Networking/UK",
     "CS/Networking/Untitled.canvas",
@@ -261,9 +260,6 @@
     "CS/Linux/ZFS/Caching",
     "CS/Linux/ZFS/Features",
     "CS/Linux/ZFS/Extra Devs",
-    "CS/Linux/ZFS",
-    "CS/Low-Level",
-    "CS/Linux",
     "Media/Read/Reading.canvas",
     "Work/Freelancing/Board.canvas",
     "STEM/img/alexnet.png",
