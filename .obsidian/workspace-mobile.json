@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Linux/ZFS/ZPool.md",
+                "file": "Money/To Learn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ZPool"
+              "title": "To Learn"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -191,6 +192,7 @@
   },
   "active": "c7c8ae6aa7329508",
   "lastOpenFiles": [
+    "CS/Linux/ZFS/ZPool.md",
     "CS/Cloud/AWS/Lake Formation.md",
     "CS/Cloud/AWS/Glue.md",
     "To Read About.md",
@@ -217,7 +219,6 @@
     "STEM/AI/Neural Networks/MLP/MLP.md",
     "STEM/AI/Neural Networks/MLP/Decision Boundary.md",
     "STEM/AI/Neural Networks/CNN/GAN/GAN.md",
-    "STEM/AI/Neural Networks/CNN/CNN.md",
     "STEM/img/multilayerfeedforward.png",
     "iot-event-based.png",
     "iot-thread-based.png",

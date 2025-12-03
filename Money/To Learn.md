@@ -15,3 +15,7 @@ tags:
 - [ ] Trade surveillance
 - [ ] Inverted yield curve
 - [ ] [Central bank liquidity swap](https://en.wikipedia.org/wiki/Central_bank_liquidity_swap)
+- [ ] Energy markwts
+	- [ ] Marginal clearing
+	- [ ] pay-as-you-clear
+

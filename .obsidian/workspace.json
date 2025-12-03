@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "CS/Git.md",
+                "file": "Money/To Learn.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Git)"
+              "title": "Diff View (To Learn)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dmi",
+                "query": "rebase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0496e2b93a297a8c",
@@ -223,11 +224,11 @@
   },
   "active": "cfed0368a6c844cb",
   "lastOpenFiles": [
+    "CS/Git.md",
     "CS/K8s/_index.md",
     "CS/K8s/Tools.md",
     "CS/K8s/RBAC.md",
     "CS/K8s",
-    "CS/Git.md",
     "CS/Windows/_index.md",
     "CS/Windows/Active Directory.md",
     "CS/Change Data Capture.md",
