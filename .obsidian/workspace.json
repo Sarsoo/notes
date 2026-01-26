@@ -11,13 +11,15 @@
             "id": "cfed0368a6c844cb",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Money/To Learn.md",
-                "staged": false
+                "file": "CS/DevOps/Terraform/Detecting Changes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (To Learn)"
+              "icon": "lucide-file",
+              "title": "Detecting Changes"
             }
           }
         ]
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rebase",
+                "query": "terraform",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +66,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0496e2b93a297a8c",
@@ -79,7 +80,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -116,9 +119,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "CS/Networking/Fibre.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Fibre"
             }
           },
           {
@@ -208,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,6 +230,11 @@
   },
   "active": "cfed0368a6c844cb",
   "lastOpenFiles": [
+    "CS/DevOps/Terraform/Find All Folders.md",
+    "CS/DevOps/Terraform/Detecting Changes.md",
+    "CS/Networking/Fibre.md",
+    "CS/DevOps/Terraform",
+    "CS/DevOps",
     "CS/Git.md",
     "CS/K8s/_index.md",
     "CS/K8s/Tools.md",
@@ -250,17 +261,12 @@
     "CS/Networking/UK/_index.md",
     "CS/Networking/_index.md",
     "CS/Networking/Backbone.md",
-    "CS/Networking/BGP.md",
-    "CS/Networking/Dark Fibre.md",
-    "CS/Networking/Fixed Wireless.md",
     "CS/Networking/Untitled",
     "CS/Networking/UK",
     "CS/Networking/Untitled.canvas",
     "Money/Markets/Orders",
     "CS/Linux/Virtualisation",
     "CS/Linux/ZFS/Caching",
-    "CS/Linux/ZFS/Features",
-    "CS/Linux/ZFS/Extra Devs",
     "Media/Read/Reading.canvas",
     "Work/Freelancing/Board.canvas",
     "STEM/img/alexnet.png",
