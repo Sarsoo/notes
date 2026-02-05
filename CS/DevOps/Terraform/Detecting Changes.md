@@ -1,3 +1,6 @@
+---
+title: Detecting Changes
+---
 
 ```bash
 terraform plan -out out.plan

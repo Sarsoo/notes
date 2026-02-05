@@ -1,3 +1,7 @@
+---
+date: 2026-02-04
+title: Earthing
+---
 [Earthing - IET](https://electrical.theiet.org/media/1549/earthing.pdf)
 
 Key: T = Terre (earth), N = neutral, C = combined, S = separate
