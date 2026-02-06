@@ -11,7 +11,7 @@ tags:
 - Explore with **Azure Data Explorer**
 - 
 
-# [Data Lake](../../Data/Data%20Lake.md)
+# [Data Lake](../../../CS/Data/Data%20Lake.md)
 - [Azure Event Hub Direct Capture](https://learn.microsoft.com/en-gb/azure/event-hubs/event-hubs-capture-overview?WT.mc_id=Portal-Microsoft_Azure_EventHub "https://learn.microsoft.com/en-gb/azure/event-hubs/event-hubs-capture-overview?wt.mc_id=portal-microsoft_azure_eventhub")
 	- Write Event Hub messages to [Azure Data Lake Storage](Azure%20Data%20Lake%20Storage.md) in Avro
 	- ![](https://learn.microsoft.com/en-gb/azure/event-hubs/media/event-hubs-features/capture.png)

@@ -4,7 +4,7 @@ tags:
   - data
   - cloud
 ---
-[Data Lake](../../Data/Data%20Lake.md)
+[Data Lake](../../../CS/Data/Data%20Lake.md)
 - Govern
 - Scale
 - Globally share data

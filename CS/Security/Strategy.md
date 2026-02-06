@@ -1,3 +1,6 @@
+---
+title: Strategy
+---
 
 
 # Bash History

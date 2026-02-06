@@ -4,13 +4,13 @@ tags:
   - data
   - cloud
 ---
-- [Data Lake](../../Data/Data%20Lake.md), Data Warehouse, Data Lakehouse
+- [Data Lake](../../../CS/Data/Data%20Lake.md), Data Warehouse, Data Lakehouse
 	- Cloud Storage
 	- [BigQuery](BigQuery.md)
 	- DataPlex
 - Streaming
 	- DataFlow
-		- [Apache](../../Data/Apache.md) Beam
+		- [Apache](../../../CS/Data/Apache.md) Beam
 		- Cloud Managed Kafka
 		- Pub/Sub
 - Orchestration & Integration
@@ -22,8 +22,8 @@ tags:
 		- Serverless CDC & replication service
 - Data Processing
 	- DataProc
-		- [Apache](../../Data/Apache.md) Spark
-		- [Apache](../../Data/Apache.md) Hadoop
+		- [Apache](../../../CS/Data/Apache.md) Spark
+		- [Apache](../../../CS/Data/Apache.md) Hadoop
 		- Batch processing, querying, streaming, machine learning
 		- Can be provisioned as a cluster or serverless
 - BI
