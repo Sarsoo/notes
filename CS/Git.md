@@ -61,3 +61,8 @@ d921970 HEAD@{1}: merge phedders/rdocs: Merge made by the 'recursive' strategy.
 4. `git commit`
 - all in one
 	- **`git submodule update --remote [<PATH>]`**
+
+# rebase
+```bash
+git rebase --onto master server client
+```
