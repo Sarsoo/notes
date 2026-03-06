@@ -8,17 +8,17 @@
 - [ ] launchd #mac
 - [ ] Diffusion Models #ai 
 - [ ] WireGuard #net
-- [ ] RabbitMQ #comms
+- [x] RabbitMQ #comms ✅ 2026-03-06
 - [ ] OSINT
 - [x] [K8s](https://kubernetes.io/) #cloud ✅ 2024-06-13
 - [x] [Helm](https://helm.sh/) #cloud ✅ 2024-06-13
 - [ ] LLVM #low-level 
 - [ ] TPM #low-level
 - [ ] QuickEMU
-- [ ] OpenTelemetry
+- [x] OpenTelemetry ✅ 2026-03-06
 - [ ] DAPR #net #cloud
 - [ ] GraphQL #net #comms
-- [ ] ZFS
+- [x] ZFS ✅ 2026-03-06
 - [ ] Nebula #net
 - [ ] aircrack-ng #net
 - [ ] Powertop
