@@ -1,5 +1,7 @@
 ---
 title: Detecting Changes
+tags:
+  - devops/iac/terraform
 ---
 
 ```bash

@@ -1,3 +1,5 @@
 ---
-title: 'IOT'
+title: IOT
+tags:
+  - iot
 ---

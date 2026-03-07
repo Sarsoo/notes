@@ -1,5 +1,7 @@
 ---
 title: Encryption
+tags:
+  - infra/zfs
 ---
 # Create an Encrypted Dataset
 ```bash

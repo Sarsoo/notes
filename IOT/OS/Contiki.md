@@ -1,6 +1,6 @@
 ---
 tags:
-  - linux
+  - infra/linux
   - iot
 ---
 - Linux-based

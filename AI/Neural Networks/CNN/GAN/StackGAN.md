@@ -1,8 +1,8 @@
 ---
-title: 'StackGAN'
+title: StackGAN
 tags:
   - ai
-  - media
+  - ai/media
   - art
 ---
 - Feed output from synthesis into up-res network

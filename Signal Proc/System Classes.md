@@ -1,6 +1,6 @@
 ---
 tags:
-  - signals
+  - maths/signals
 ---
 # Dynamic vs Algebraic
 - Dynamic system has "memory", output depends on present and past

@@ -1,3 +1,5 @@
 ---
-title: 'Networking'
+title: Networking
+tags:
+  - net
 ---

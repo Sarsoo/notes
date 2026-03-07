@@ -1,3 +1,5 @@
 ---
-title: 'Speech'
+title: Speech
+tags:
+  - speech
 ---

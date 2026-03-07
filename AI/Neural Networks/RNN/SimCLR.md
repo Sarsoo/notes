@@ -1,7 +1,7 @@
 ---
 tags:
   - ai
-  - media
+  - ai/media
 ---
 1. Data augmentation
 	- Crop patches from images in batch

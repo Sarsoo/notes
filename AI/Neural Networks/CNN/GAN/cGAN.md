@@ -1,8 +1,8 @@
 ---
-title: 'cGAN'
+title: cGAN
 tags:
   - ai
-  - media
+  - ai/media
   - art
 ---
 Conditional [GAN](GAN.md)

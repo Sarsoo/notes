@@ -1,3 +1,7 @@
+---
+tags:
+  - dev
+---
 # Markdown
 
 ## All links

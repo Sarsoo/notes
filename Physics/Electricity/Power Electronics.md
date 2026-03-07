@@ -1,7 +1,7 @@
 ---
 title: Power Electronics
 tags:
-  - electricity
+  - physics/electricity
 ---
 [Busbar](https://en.wikipedia.org/wiki/Busbar)
 

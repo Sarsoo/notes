@@ -1,8 +1,8 @@
 ---
-title: 'CycleGAN'
+title: CycleGAN
 tags:
   - ai
-  - media
+  - ai/media
   - art
 ---
 Cycle Consistent [GAN](GAN.md)

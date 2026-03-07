@@ -1,5 +1,7 @@
 ---
 title: ZFS
+tags:
+  - infra/zfs
 ---
 [OpenZFS](https://openzfs.org/wiki/Main_Page)
 

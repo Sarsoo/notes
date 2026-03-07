@@ -1,8 +1,8 @@
 ---
-title: 'DC-GAN'
+title: DC-GAN
 tags:
   - ai
-  - media
+  - ai/media
   - art
 ---
 Deep [Convolutional](../../../../Signal%20Proc/Convolution.md) [GAN](GAN.md)
@@ -70,7 +70,7 @@ $$J^{(G)}=-J^{(D)}$$
 		- Input random noise
 - Iteratively improves visual feasibility
 	- Different to [FCN](../FCN/FCN.md)
-- Discriminator is a task specific classifier #classification 
+- Discriminator is a task specific classifier #ai/classification 
 - Difficult to train over diverse footage
 	- Mixing concepts doesn't work
 	- Single category/class

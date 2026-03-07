@@ -1,5 +1,7 @@
 ---
 title: Parameters
+tags:
+  - infra/zfs
 ---
 [About ZFS recordsize](https://jrs-s.net/2019/04/03/on-zfs-recordsize/)
 [ZFS tuning cheat sheet](https://jrs-s.net/2018/08/17/zfs-tuning-cheat-sheet/)

@@ -1,6 +1,6 @@
 ---
 tags:
-  - linux
+  - infra/linux
 title: KDE
 ---
 # Sticky Windows

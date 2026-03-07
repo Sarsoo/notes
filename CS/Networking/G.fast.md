@@ -1,5 +1,7 @@
 ---
 title: G.fast
+tags:
+  - net
 ---
 - 2014
 - DSL protocol

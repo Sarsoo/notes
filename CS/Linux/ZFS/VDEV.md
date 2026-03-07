@@ -1,5 +1,7 @@
 ---
 title: VDEV
+tags:
+  - infra/zfs
 ---
 # Virtual Devices
 - Not physical disks

@@ -36,7 +36,7 @@ tags:
 		- PBs of data
 	- **Hydra**
 		- Single node
-		- PostgreSQL extension #sql 
+		- PostgreSQL extension #data/sql 
 		- Hundreds of GBs
 4. Streaming & Realtime 
 	- Emerging category for low-latency or operational use cases
@@ -55,7 +55,7 @@ tags:
 			- API for Google DataFlow
 5. Data Orchestration 
 	- Managing how data pipelines are defined, structured, and orchestrated.
-	- SQL Centric #sql 
+	- SQL Centric #data/sql 
 		- **dbt**
 	- All-rounder
 		- **[Apache](Apache.md) Airflow**
@@ -75,7 +75,7 @@ tags:
 		- **Lightdash**
 		- **Superset**
 	- Notebooks
-		- **Jupyter** #py
+		- **Jupyter** #dev/py
 	- End-to-end Product Analytics
 		- **PostHog**
 		- **Plausible**

@@ -1,5 +1,7 @@
 ---
 title: Enterprise
+tags:
+  - enterprise
 ---
 # HA
 - Cluster with failover

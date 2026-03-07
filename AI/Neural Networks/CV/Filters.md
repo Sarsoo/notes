@@ -1,8 +1,8 @@
 ---
-title: 'Filters'
+title: Filters
 tags:
   - ai
-  - media
+  - ai/media
 ---
 # Gabor
 ![gabor](../../../img/gabor.png)

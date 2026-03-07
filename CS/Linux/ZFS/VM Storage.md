@@ -1,5 +1,7 @@
 ---
 title: VM Storage
+tags:
+  - infra/zfs
 ---
 [ZVOL vs QCOW2 with KVM](https://jrs-s.net/2018/03/13/zvol-vs-qcow2-with-kvm/)
 

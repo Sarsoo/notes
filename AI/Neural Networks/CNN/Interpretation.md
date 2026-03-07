@@ -1,8 +1,8 @@
 ---
-title: 'Interpretation'
+title: Interpretation
 tags:
   - ai
-  - media
+  - ai/media
 ---
 # Activation Maximisation
 - Synthesise an ideal image for a class

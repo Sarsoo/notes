@@ -1,7 +1,7 @@
 ---
-title: 'Speech Processing'
+title: Speech Processing
 tags:
-  - media
+  - ai/media
   - speech
 ---
 - Speech telecommunications & Encoding

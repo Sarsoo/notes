@@ -1,5 +1,7 @@
 ---
 title: Features
+tags:
+  - infra/zfs
 ---
 # [Encryption](Encryption.md)
 

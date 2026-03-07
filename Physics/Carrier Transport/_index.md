@@ -1,8 +1,8 @@
 ---
 title: Carrier Transport
 tags:
-  - nano
-  - quantum
+  - physics/nano
+  - physics/quantum
 ---
 # Drude
 - Based on kinetic theory of gas molecules

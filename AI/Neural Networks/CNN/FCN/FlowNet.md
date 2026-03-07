@@ -1,8 +1,8 @@
 ---
-title: 'FlowNet'
+title: FlowNet
 tags:
   - ai
-  - media
+  - ai/media
 ---
 Optical Flow
 

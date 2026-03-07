@@ -1,3 +1,5 @@
 ---
-title: 'Computer Vision'
+title: Computer Vision
+tags:
+  - ai/media
 ---

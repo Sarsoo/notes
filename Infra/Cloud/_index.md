@@ -1,3 +1,5 @@
 ---
-title: 'Cloud'
+title: Cloud
+tags:
+  - cloud
 ---

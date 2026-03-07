@@ -1,3 +1,7 @@
+---
+tags:
+  - ai
+---
 # Challenges
 - Clutter
 	- Distractors

@@ -1,5 +1,7 @@
 ---
 title: Strategy
+tags:
+  - security
 ---
 
 

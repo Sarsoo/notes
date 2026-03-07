@@ -1,8 +1,8 @@
 ---
-title: 'Supervised Learning'
+title: Supervised Learning
 tags:
   - ai
-  - classification
+  - ai/classification
 ---
 
 # Gaussian Classifier

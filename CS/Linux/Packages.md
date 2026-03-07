@@ -1,3 +1,7 @@
+---
+tags:
+  - infra/linux
+---
 [YUM and DNF vs. Zypper vs. APT, RPM vs. dpkg command comparison and cheat sheet](https://www.claudiokuenzler.com/blog/354/yum-dnf-zypper-apt-rpm-dpkg-command-comparison-suse-debian)
 
 | Purpose                                             | yum (and dnf) command                                                                   | zypper command          | apt command                                                                |

@@ -1,6 +1,6 @@
 ---
 tags:
-  - signals
+  - maths/signals
 ---
 - Poles
 	- **X**

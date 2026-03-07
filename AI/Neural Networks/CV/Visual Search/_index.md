@@ -1,3 +1,5 @@
 ---
-title: 'Visual Search'
+title: Visual Search
+tags:
+  - ai/media
 ---

@@ -1,5 +1,7 @@
 ---
-title: 'Specific Energy'
+title: Specific Energy
+tags:
+  - physics
 ---
 
 - Massic energy

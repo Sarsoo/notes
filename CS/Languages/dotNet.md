@@ -1,7 +1,7 @@
 ---
 tags:
   - dev
-  - dotnet
+  - dev/dotnet
 title: .NET
 ---
 # Common Language Infrastructure

@@ -4,7 +4,7 @@ tags:
   - ai
 ---
 ![deep-digit-classification](../../img/deep-digit-classification.png)
-#classification 
+#ai/classification 
 
 OCR [Classification](../Classification/Classification.md)
 

@@ -1,3 +1,5 @@
 ---
-title: 'Azure'
+title: Azure
+tags:
+  - cloud/azure
 ---

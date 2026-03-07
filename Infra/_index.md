@@ -1,3 +1,5 @@
 ---
 title: Infra
+tags:
+  - infra
 ---

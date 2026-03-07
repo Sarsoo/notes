@@ -1,7 +1,7 @@
 ---
 tags:
   - ai
-  - media
+  - ai/media
 ---
 # [Un-Supervised](../../Learning.md#Un-Supervised)
 

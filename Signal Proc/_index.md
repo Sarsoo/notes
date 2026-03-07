@@ -1,3 +1,5 @@
 ---
-title: 'Signal Proc'
+title: Signal Proc
+tags:
+  - maths/signals
 ---

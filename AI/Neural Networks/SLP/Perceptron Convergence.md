@@ -1,7 +1,7 @@
 ---
 tags:
   - ai
-  - classification
+  - ai/classification
 ---
 Error-Correcting Perceptron Learning
 

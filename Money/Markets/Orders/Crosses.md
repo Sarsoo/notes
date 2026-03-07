@@ -1,3 +1,7 @@
+---
+tags:
+  - econ
+---
 [Investopedia](https://www.investopedia.com/terms/c/cross.asp)
 
 1. Broker pairs two orders for same instrument at same price

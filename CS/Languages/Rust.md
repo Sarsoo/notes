@@ -1,10 +1,10 @@
 ---
 tags:
-  - low-level
+  - dev/low-level
   - dev
 title: Rust
 ---
-## #web
+## #net/web
 
 # Ownership
 - Each value in Rust has a variable that’s called its owner.
@@ -16,7 +16,7 @@ title: Rust
 	-   Quick
 -   Rocket
 [Benchmarks](https://github.com/programatik29/rust-web-benchmarks)
-#### gRPC #net #comms 
+#### gRPC #net #net/comms 
 [rust gRPC](https://www.thorsten-hans.com/grpc-services-in-rust-with-tonic/)
 
 

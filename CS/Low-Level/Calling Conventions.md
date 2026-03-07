@@ -1,6 +1,6 @@
 ---
 tags:
-  - low-level
+  - dev/low-level
   - dev
 title: Calling Conventions
 ---
@@ -16,7 +16,7 @@ Subtle differences between [Compilers](Compilers.md), can be difficult to interf
 Calling conventions, type representations, and name mangling are all part of what is known as an [application binary interface](https://en.wikipedia.org/wiki/Application_binary_interface) ([ABI](ABI.md))
 
 # cdecl
-C declaration #c
+C declaration #dev/c
 
 - Originally from Microsoft's C [compiler](Compilers.md)
 	- Used by many C [compilers](Compilers.md) for x86
@@ -31,4 +31,4 @@ C declaration #c
 - Callee cleans stack
 - Params pushed onto stack right-to-left
 	- Same as _cdecl_
-- Standard for Microsoft Win32 API #windows
+- Standard for Microsoft Win32 API #infra/windows

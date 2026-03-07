@@ -1,8 +1,8 @@
 ---
-title: 'FCN'
+title: FCN
 tags:
   - ai
-  - media
+  - ai/media
 ---
 Fully [Convolution](../../../../Signal%20Proc/Convolution.md)al Network
 

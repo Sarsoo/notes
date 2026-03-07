@@ -1,5 +1,7 @@
 ---
 title: Datasets
+tags:
+  - infra/zfs
 ---
 # Dataset
 - Primary data management unit

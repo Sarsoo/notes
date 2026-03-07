@@ -1,3 +1,5 @@
 ---
-title: 'AI'
+title: AI
+tags:
+  - ai
 ---

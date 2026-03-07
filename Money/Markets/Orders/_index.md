@@ -1,3 +1,5 @@
 ---
 title: Orders
+tags:
+  - econ
 ---

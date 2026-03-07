@@ -1,5 +1,7 @@
 ---
 title: ACLs
+tags:
+  - infra/zfs
 ---
 - Standard UNIX perms
 ```bash

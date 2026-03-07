@@ -1,7 +1,7 @@
 ---
 tags:
   - ai
-  - media
+  - ai/media
 ---
 Visual Question Answering
 

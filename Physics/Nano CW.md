@@ -1,7 +1,7 @@
 ---
 title: Nano CW
 tags:
-  - nano
+  - physics/nano
   - lit
 ---
 [Applications of Graphene at Microwave Frequencies](https://www.researchgate.net/publication/283181514_Applications_of_Graphene_at_Microwave_Frequencies)

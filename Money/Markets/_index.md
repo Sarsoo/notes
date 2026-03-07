@@ -1,3 +1,5 @@
 ---
 title: Markets
+tags:
+  - econ
 ---

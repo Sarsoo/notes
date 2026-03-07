@@ -1,5 +1,7 @@
 ---
 title: SLOG
+tags:
+  - infra/zfs
 ---
 `speed up writes`
 - For synchronous writes

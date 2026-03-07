@@ -1,3 +1,5 @@
 ---
-title: 'Quantum'
+title: Quantum
+tags:
+  - physics/quantum
 ---

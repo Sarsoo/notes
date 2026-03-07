@@ -1,5 +1,7 @@
 ---
 title: Processors
+tags:
+  - infra/hardware
 ---
 ## Execution Mode
 Starts in Real Mode

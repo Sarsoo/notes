@@ -1,8 +1,8 @@
 ---
-title: 'Data Manipulations'
+title: Data Manipulations
 tags:
   - ai
-  - media
+  - ai/media
 ---
 # Augmentation
 - Mimic larger datasets

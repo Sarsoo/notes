@@ -1,6 +1,9 @@
 ---
 date: 2026-03-06
 title: Azure & AWS
+tags:
+  - cloud/aws
+  - cloud/azure
 ---
 # Peering
 [AWS Blogs - Designing private network connectivity between AWS and Microsoft Azure](https://aws.amazon.com/blogs/modernizing-with-aws/designing-private-network-connectivity-aws-azure/)

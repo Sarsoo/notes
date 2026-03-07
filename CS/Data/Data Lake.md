@@ -25,7 +25,7 @@ tags:
 	- Predictive analytics
 - Workloads
 	- Big data processing
-	- SQL queries #sql
+	- SQL queries #data/sql
 	- Text mining
 	- Streaming analytics
 	- Machine learning

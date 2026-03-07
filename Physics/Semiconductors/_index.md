@@ -1,3 +1,5 @@
 ---
-title: 'Semiconductors'
+title: Semiconductors
+tags:
+  - physics/semiconductors
 ---

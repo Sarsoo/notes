@@ -1,44 +1,45 @@
 ---
 ---
 
-- [ ] Nix #linux
+- [ ] Nix #infra/linux
 - [ ] [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
 - [ ] [Tart](https://tart.run) #infra
-- [ ] launchctl #mac
-- [ ] launchd #mac
+- [ ] launchctl #infra/mac
+- [ ] launchd #infra/mac
 - [ ] Diffusion Models #ai 
 - [ ] WireGuard #net
-- [x] RabbitMQ #comms ✅ 2026-03-06
+- [x] RabbitMQ #net/comms ✅ 2026-03-06
 - [ ] OSINT
 - [x] [K8s](https://kubernetes.io/) #cloud ✅ 2024-06-13
 - [x] [Helm](https://helm.sh/) #cloud ✅ 2024-06-13
-- [ ] LLVM #low-level 
-- [ ] TPM #low-level
+- [ ] LLVM #dev/low-level 
+- [ ] TPM #dev/low-level
 - [ ] QuickEMU
 - [x] OpenTelemetry ✅ 2026-03-06
 - [ ] DAPR #net #cloud
-- [ ] GraphQL #net #comms
+- [ ] GraphQL #net #net/comms
 - [x] ZFS ✅ 2026-03-06
 - [ ] Nebula #net
 - [ ] aircrack-ng #net
 - [ ] Powertop
 - [ ] Timeshift
 - [ ] NFS/Samba #net
-- [ ] Jitsi #comms
+- [ ] Jitsi #net/comms
 - [ ] Bicep on ARM #cloud
-- [ ] Quantum Computing #quantum 
-- [ ] PBX #comms
-- [ ] SIP #comms
-- [ ] dotnet-trace #dotnet
-	- [ ] [Speedscope](https://speedscope.app) #dotnet
+- [ ] Quantum Computing #physics/quantum 
+- [ ] PBX #net/comms
+- [ ] SIP #net/comms
+- [ ] dotnet-trace #dev/dotnet
+	- [ ] [Speedscope](https://speedscope.app) #dev/dotnet
 - [ ] Fail2Ban #net
 - [ ] SecurityHeaders
 - [ ] Open Graph
 - [ ] Privacy.com
 - [x] Zabbix ✅ 2024-03-12
-- [ ] Source Generators #dotnet 
-- [ ] [.NET Aspire](https://blog.jetbrains.com/dotnet/2024/02/19/jetbrains-rider-and-the-net-aspire-plugin/) #dotnet #dev #infra #net 
+- [x] Source Generators #dev/dotnet ✅ 2026-03-07
+- [ ] [.NET Aspire](https://blog.jetbrains.com/dotnet/2024/02/19/jetbrains-rider-and-the-net-aspire-plugin/) #dev/dotnet #dev #infra #net 
 - [ ] [Apache](CS/Data/Apache.md) [Airflow](https://airflow.apache.org)
 - [ ] [Apache Beam](https://beam.apache.org/)
-- [ ] [KEDA](https://keda.sh)
+- [x] [KEDA](https://keda.sh) ✅ 2026-03-07
 - [ ] B-Trees
+- [ ] cnpg 

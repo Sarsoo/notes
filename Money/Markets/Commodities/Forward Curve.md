@@ -1,3 +1,7 @@
+---
+tags:
+  - econ
+---
 # Contango
 - Futures price > spot price
 - Upward FC slope

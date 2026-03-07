@@ -1,6 +1,6 @@
 ---
 tags:
-  - web
+  - net/web
   - dev
 title: JavaScript
 ---

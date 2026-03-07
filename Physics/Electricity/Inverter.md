@@ -1,7 +1,7 @@
 ---
 title: Inverter
 tags:
-  - electricity
+  - physics/electricity
 ---
 DC to AC
 [Inverter Wiki](https://en.wikipedia.org/wiki/Power_inverter)

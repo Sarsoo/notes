@@ -1,8 +1,8 @@
 ---
 title: Equations
 tags:
-  - nano
-  - semiconductors
+  - physics/nano
+  - physics/semiconductors
 ---
 $$R=\frac{\rho L}{A}$$
 - $R$ = Resistance

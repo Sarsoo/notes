@@ -1,3 +1,5 @@
 ---
 title: DevOps
+tags:
+  - devops
 ---

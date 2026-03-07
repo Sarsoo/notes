@@ -1,5 +1,7 @@
 ---
 title: LME Averaging
+tags:
+  - econ
 ---
 # LME
 ## On Exchange

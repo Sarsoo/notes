@@ -1,7 +1,7 @@
 ---
 tags:
   - ai
-  - media
+  - ai/media
   - art
 ---
 - Shallow would be BOVW

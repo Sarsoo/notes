@@ -1,8 +1,8 @@
 ---
-title: 'Logistic Regression'
+title: Logistic Regression
 tags:
   - ai
-  - classification
+  - ai/classification
 ---
 “hello world”
 Related to naïve bayes

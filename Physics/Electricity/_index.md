@@ -1,5 +1,7 @@
 ---
 title: Electricity
+tags:
+  - physics/electricity
 ---
 # Required for Current
 - Free charges that can move

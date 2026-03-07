@@ -1,3 +1,7 @@
+---
+tags:
+  - net/comms
+---
 [apalrd - The ULTIMATE Guide to Fiber Optic Home Networking](https://www.apalrd.net/posts/2023/network_fiber/)
 
 # Connectors

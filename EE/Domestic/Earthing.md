@@ -1,6 +1,8 @@
 ---
 date: 2026-02-04
 title: Earthing
+tags:
+  - physics/electricity
 ---
 [Earthing - IET](https://electrical.theiet.org/media/1549/earthing.pdf)
 

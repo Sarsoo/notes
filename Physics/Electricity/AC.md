@@ -1,7 +1,7 @@
 ---
 title: Alternating Current
 tags:
-  - electricity
+  - physics/electricity
 ---
 $$P=\frac{1}{2}V_pI_pcos\theta=V_{rms}I_{rms}cos\theta$$
 ![File:Cmplxpower.svg](https://upload.wikimedia.org/wikipedia/commons/d/d8/Cmplxpower.svg)

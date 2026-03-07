@@ -1,6 +1,6 @@
 ---
 tags:
-  - quantum
+  - physics/quantum
 title: Orbitals
 ---
 [Wave Function](Wave%20Function.md)

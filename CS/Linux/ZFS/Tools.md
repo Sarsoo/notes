@@ -1,5 +1,7 @@
 ---
 title: Tools
+tags:
+  - infra/zfs
 ---
 # Sanoid/Syncoid
 [GIthub](https://github.com/jimsalterjrs/sanoid/)

@@ -1,5 +1,7 @@
 ---
 title: ZPOOL
+tags:
+  - infra/zfs
 ---
 # Storage Pool (ZPOOL)
 - One or more [VDEV](VDEV.md)

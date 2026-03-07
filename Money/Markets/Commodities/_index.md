@@ -1,3 +1,5 @@
 ---
 title: Commodities
+tags:
+  - econ
 ---

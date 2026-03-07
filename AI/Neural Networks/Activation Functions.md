@@ -67,7 +67,7 @@ Rectilinear
 ![relu](../../img/relu.png)
 
 # SoftMax
-- Output is per-class vector of likelihoods #classification 
+- Output is per-class vector of likelihoods #ai/classification 
 	- Should be normalised into probability vector
 
 ## AlexNet

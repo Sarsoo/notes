@@ -1,6 +1,6 @@
 ---
 tags:
-  - signals
+  - maths/signals
 ---
 $$Y(s)=H(s)\cdot X(s)$$
 - $H(s)=\frac{Y(s)}{X(s)}=\frac{\mathcal L\{y(t)\}}{\mathcal L\{x(t)\}}$

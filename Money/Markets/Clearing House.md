@@ -1,3 +1,7 @@
+---
+tags:
+  - econ
+---
 # Responsibilities
 - Clearing
 - Settling accounts

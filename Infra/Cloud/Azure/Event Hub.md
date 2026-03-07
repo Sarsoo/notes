@@ -2,7 +2,7 @@
 title: Event Hub
 tags:
   - cloud
-  - comms
+  - net/comms
   - infra
 ---
 - Kafka-Compatible

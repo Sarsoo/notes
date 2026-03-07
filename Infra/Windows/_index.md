@@ -1,5 +1,5 @@
 ---
 title: Windows
 tags:
-  - "#windows"
+  - "#infra/windows"
 ---

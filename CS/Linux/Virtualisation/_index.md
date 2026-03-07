@@ -1,5 +1,7 @@
 ---
 title: Virtualisation
+tags:
+  - infra/virtualisation
 ---
 
 # [libvirt](https://libvirt.org/docs.html)

@@ -1,7 +1,7 @@
 ---
 tags:
   - ai
-  - media
+  - ai/media
 ---
 - Overfitted to image
 	- Learn weights necessary to reconstruct from white noise

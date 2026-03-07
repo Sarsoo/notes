@@ -1,8 +1,8 @@
 ---
-title: 'GAN'
+title: GAN
 tags:
   - ai
-  - media
+  - ai/media
   - art
 ---
 # Fully [Convolution](../../../../Signal%20Proc/Convolution.md)al
@@ -20,7 +20,7 @@ tags:
 - Synthesise 'fake' images
 - From noise
 ## Discriminator, D
-- Discriminator is a classifier #classification 
+- Discriminator is a classifier #ai/classification 
 	- Is image fake or real
 
 ![gan-arch](../../../../img/gan-arch.png)

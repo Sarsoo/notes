@@ -88,7 +88,7 @@ tags:
 	- Number of connections becomes prohibitively large
 2. Invariance by Training
 	- Train on different views/transformations
-		- Take advantage of inherent pattern #classification abilities
+		- Take advantage of inherent pattern #ai/classification abilities
 	- Training for invariance for one object is not necessarily going to train other classes for invariance
 	- Extra load on network to do more training
 		- Exacerbated with high dimensionality

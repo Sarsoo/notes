@@ -1,6 +1,6 @@
 ---
 tags:
-  - signals
+  - maths/signals
   - maths
 ---
 $$X(\omega)=\int_{-\infty}^{\infty}x(t)e^{-j\omega t}dt$$

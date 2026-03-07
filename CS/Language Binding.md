@@ -14,14 +14,14 @@ title: Language Binding
 	- Component Object Model
 	- MS only cross-language model
 - CLI 
-	- [#dotnet](Languages/dotNet.md)
+	- [#dev/dotnet](Languages/dotNet.md)
 	- .NET Common Language Infrastructure
 - Freedesktop.org D-Bus
 	- Open cross-platform-language model
 
 ### Virtual Machines
 - CLR 
-	- [#dotnet](Languages/dotNet.md)
+	- [#dev/dotnet](Languages/dotNet.md)
 	- .NET Common Language Runtime
 - Mono
 	- CLI languages

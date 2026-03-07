@@ -1,5 +1,7 @@
 ---
 title: Monitoring
+tags:
+  - infra/zfs
 ---
 # Status
 

@@ -1,5 +1,7 @@
 ---
 title: Snapshots
+tags:
+  - infra/zfs
 ---
 [ZFS clones: Probably not what you really want](https://jrs-s.net/2017/03/15/zfs-clones-probably-not-what-you-really-want/)
 

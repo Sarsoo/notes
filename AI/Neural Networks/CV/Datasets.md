@@ -1,8 +1,8 @@
 ---
-title: 'Datasets'
+title: Datasets
 tags:
   - ai
-  - media
+  - ai/media
 ---
 # MNIST
 - 70,000 hand-drawn characters from US mail

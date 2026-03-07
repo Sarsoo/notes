@@ -1,8 +1,8 @@
 ---
-title: 'Classification'
+title: Classification
 tags:
   - ai
-  - classification
+  - ai/classification
 ---
 *Given an observation, determine one class from a set of classes that best explains the observation*
 

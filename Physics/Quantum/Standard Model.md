@@ -1,6 +1,6 @@
 ---
 tags:
-  - quantum
+  - physics/quantum
 ---
 ![model-table](../../img/model-table.png)
 - 4 fundamental forces

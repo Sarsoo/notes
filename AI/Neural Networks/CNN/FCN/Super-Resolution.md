@@ -1,8 +1,8 @@
 ---
-title: 'Super Resolution'
+title: Super Resolution
 tags:
   - ai
-  - media
+  - ai/media
 ---
 - Auto-encoders
 	- Get same image back

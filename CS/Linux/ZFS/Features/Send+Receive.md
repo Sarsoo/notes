@@ -1,5 +1,7 @@
 ---
 title: Send+Receive
+tags:
+  - infra/zfs
 ---
 # Receive from Offsite
 ```bash

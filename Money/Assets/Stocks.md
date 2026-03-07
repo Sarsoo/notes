@@ -1,7 +1,7 @@
 ---
 tags:
   - econ
-  - securities
+  - econ/securities
 ---
 # Types
 ## Value

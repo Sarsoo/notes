@@ -1,8 +1,8 @@
 ---
-title: 'SVM'
+title: SVM
 tags:
   - ai
-  - classification
+  - ai/classification
 ---
 [Towards Data Science: SVM](https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589)
 [Towards Data Science: SVM an overview](https://towardsdatascience.com/https-medium-com-pupalerushikesh-svm-f4b42800e989)

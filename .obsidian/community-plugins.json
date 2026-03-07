@@ -4,5 +4,7 @@
   "dataview",
   "calendar",
   "obsidian-tasks-plugin",
-  "obsidian-view-mode-by-frontmatter"
+  "obsidian-view-mode-by-frontmatter",
+  "templater-obsidian",
+  "notebook-navigator"
 ]

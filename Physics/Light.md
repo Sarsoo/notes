@@ -1,6 +1,6 @@
 ---
 tags:
-  - quantum
+  - physics/quantum
 ---
 $$E=hf$$
 ## Photoelectric Effect

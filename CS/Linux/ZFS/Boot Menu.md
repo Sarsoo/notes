@@ -1,3 +1,7 @@
+---
+tags:
+  - infra/zfs
+---
 [Docs](https://docs.zfsbootmenu.org)
 
 - Uses `kexec`

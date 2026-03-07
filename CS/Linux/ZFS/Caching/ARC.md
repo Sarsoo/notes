@@ -1,5 +1,7 @@
 ---
 title: ARC
+tags:
+  - infra/zfs
 ---
 `speed up reads`
 - Adaptive Replacement Cache

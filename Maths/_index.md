@@ -1,3 +1,5 @@
 ---
-title: 'Maths'
+title: Maths
+tags:
+  - maths
 ---

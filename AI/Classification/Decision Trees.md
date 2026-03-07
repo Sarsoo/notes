@@ -1,8 +1,8 @@
 ---
-title: 'Decision Trees'
+title: Decision Trees
 tags:
   - ai
-  - classification
+  - ai/classification
 ---
 - Flowchart like design
 - Iterative decision making

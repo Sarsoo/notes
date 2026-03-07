@@ -1,3 +1,7 @@
+---
+tags:
+  - infra/linux
+---
 # `/boot`
 - Everything needed to boot except config
 - `/boot/map`

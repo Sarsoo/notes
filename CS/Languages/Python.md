@@ -1,7 +1,7 @@
 ---
 tags:
   - dev
-  - py
+  - dev/py
 title: Python
 ---
 ```bash

@@ -1,5 +1,7 @@
 ---
 title: L2ARC
+tags:
+  - infra/zfs
 ---
 `speed up reads`
 - Second layer of read caching
