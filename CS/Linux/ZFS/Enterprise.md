@@ -2,12 +2,13 @@
 title: Enterprise
 tags:
   - enterprise
+  - infra/zfs
 ---
 # HA
 - Cluster with failover
 - Multiple nodes connected to same storage
 	- iSCSI
-	- Fibre
+	- Fibre #net/fibre
 	- NAS over NFS
 - Pacemaker/Corosync
 

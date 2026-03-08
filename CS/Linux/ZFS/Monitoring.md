@@ -2,6 +2,7 @@
 title: Monitoring
 tags:
   - infra/zfs
+  - devops/observability
 ---
 # Status
 

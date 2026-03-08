@@ -2,6 +2,7 @@
 title: Send+Receive
 tags:
   - infra/zfs
+  - net
 ---
 # Receive from Offsite
 ```bash

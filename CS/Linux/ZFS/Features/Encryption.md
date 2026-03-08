@@ -2,6 +2,7 @@
 title: Encryption
 tags:
   - infra/zfs
+  - security
 ---
 # Create an Encrypted Dataset
 ```bash
