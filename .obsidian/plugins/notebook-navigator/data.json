@@ -497,7 +497,8 @@
     "Infra/Linux": "simple-icons:linux",
     "Infra/Linux/Virtualisation": "simple-icons:proxmox",
     "Infra/Linux/ZFS": "simple-icons:openzfs",
-    "Infra/Observability": "simple-icons:grafana"
+    "Infra/Observability": "simple-icons:grafana",
+    "CS/Security/PKI": "phosphor:certificate"
   },
   "folderColors": {},
   "folderBackgroundColors": {},
