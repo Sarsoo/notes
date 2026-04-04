@@ -20,3 +20,4 @@ title: Tools
 - [Compose](https://seacrew.github.io/helm-compose/latest/)
 - [Keel](https://keel.sh/)
 	- Auto update (watchtower style)
+- [kube-ops-view](https://codeberg.org/hjacobs/kube-ops-view)
