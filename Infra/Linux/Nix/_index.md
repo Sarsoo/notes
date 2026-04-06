@@ -9,6 +9,7 @@ title: Nix
 
 
 [nix-darwin](https://github.com/nix-darwin) / **[nix-darwin](https://github.com/nix-darwin/nix-darwin)**
+https://nixos-and-flakes.thiscute.world/
 
 https://xyno.space/posts/nix-darwin-introduction/
 https://davi.sh/til/nix/nix-macos-setup/
