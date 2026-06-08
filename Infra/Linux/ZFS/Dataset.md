@@ -44,3 +44,11 @@ food/fruit/apples  custom:color  red           local```
 - Block device
 	- Virtual machines
 	- Databases
+```
+
+
+## Create
+```bash
+zfs create -o property=value \
+	-p # create parent hierarchy 
+```
