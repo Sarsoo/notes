@@ -53,7 +53,7 @@ SELECT '{"product": "PostgreSQL", "version": 9.4, "jsonb": true}'::jsonb @> '{"v
 SELECT '[1, 2, [1, 3]]'::jsonb @> '[1, 3]'::jsonb;  -- yields false
 
 -- But with a layer of nesting, it is contained:
-SELECT '[1, 2, [1, 3]]'::jsonb @> '[[1, 3]]'::jsonb;
+SELECT '[1, 2, [1, 3]]'::jsonb @> '[ [1, 3] ]'::jsonb;
 
 -- Similarly, containment is not reported here:
 SELECT '{"foo": {"bar": "baz"}}'::jsonb @> '{"bar": "baz"}'::jsonb;  -- yields false
