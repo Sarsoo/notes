@@ -519,7 +519,8 @@
     "Infra/Linux/ZFS": "simple-icons:openzfs",
     "Infra/Observability": "simple-icons:grafana",
     "CS/Security/PKI": "phosphor:certificate",
-    "Infra/Linux/Nix": "simple-icons:nixos"
+    "Infra/Linux/Nix": "simple-icons:nixos",
+    "CS/Data/Postgres": "simple-icons:postgresql"
   },
   "folderColors": {},
   "folderBackgroundColors": {},
