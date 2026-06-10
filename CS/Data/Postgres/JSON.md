@@ -108,11 +108,11 @@ SELECT * FROM table_name WHERE jsonb_field['key'] = '"value"';
 
 # `jsonpath`
   
-|Variable|Description|
-|---|---|
-|`$`|A variable representing the JSON value being queried (the _context item_).|
-|`$varname`|A named variable. Its value can be set by the parameter _`vars`_ of several JSON processing functions; see [Table 9.51](https://www.postgresql.org/docs/current/functions-json.html#FUNCTIONS-JSON-PROCESSING-TABLE "Table 9.51. JSON Processing Functions") for details.|
-|`@`|A variable representing the result of path evaluation in filter expressions.|
+| Variable   | Description                                                                                           |
+| ---------- | ----------------------------------------------------------------------------------------------------- |
+| `$`        | A variable representing the JSON value being queried (the _context item_).                            |
+| `$varname` | A named variable. Its value can be set by the parameter _`vars`_ of several JSON processing functions |
+| `@`        | A variable representing the result of path evaluation in filter expressions.                          |
 
 | Accessor Operator                                                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
