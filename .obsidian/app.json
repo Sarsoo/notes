@@ -38,5 +38,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 62
-  }
+  },
+  "readableLineLength": false
 }
