@@ -85,6 +85,9 @@
     "useFloatingToolbars": "synced",
     "dualPane": "synced",
     "dualPaneOrientation": "synced",
+    "narrowSidebarLayout": "synced",
+    "narrowSidebarTriggerMode": "synced",
+    "narrowSidebarCustomWidth": "synced",
     "paneTransitionDuration": "synced",
     "toolbarVisibility": "synced",
     "pinNavigationBanner": "synced",
@@ -120,6 +123,9 @@
   },
   "dualPane": true,
   "dualPaneOrientation": "horizontal",
+  "narrowSidebarLayout": "singlePane",
+  "narrowSidebarTriggerMode": "fitPanes",
+  "narrowSidebarCustomWidth": 350,
   "showTooltips": false,
   "showTooltipPath": true,
   "showTooltipWordCount": false,
@@ -139,6 +145,7 @@
     "list": {
       "back": true,
       "search": true,
+      "reveal": false,
       "descendants": true,
       "sort": true,
       "appearance": true,
@@ -173,8 +180,10 @@
   "navItemHeightScaleText": true,
   "collapseBehavior": "all",
   "smartCollapse": true,
+  "excludeVaultRootFromCollapse": false,
+  "collapseOtherBranchesOnExpand": true,
   "autoSelectFirstFileOnFocusChange": false,
-  "autoExpandNavItems": false,
+  "autoExpandNavItems": true,
   "springLoadedFolders": true,
   "springLoadedFoldersInitialDelay": 0.5,
   "springLoadedFoldersSubsequentDelay": 0.5,
@@ -208,7 +217,7 @@
   "tagSortOrder": "alpha-asc",
   "inheritTagColors": true,
   "keepEmptyTagsProperty": false,
-  "showProperties": true,
+  "showProperties": false,
   "showPropertyIcons": true,
   "inheritPropertyColors": true,
   "propertySortOrder": "alpha-asc",
@@ -257,6 +266,7 @@
   "fileNameIconMap": {},
   "showCategoryIcons": false,
   "fileTypeIconMap": {},
+  "fileTypeIconPreset": "none",
   "fileNameRows": 1,
   "useFolderColorForTitles": false,
   "showFilePreview": true,
@@ -361,6 +371,12 @@
         "modifiers": []
       }
     ],
+    "pane:rename": [
+      {
+        "key": "Enter",
+        "modifiers": []
+      }
+    ],
     "navigation:collapse-or-parent": [
       {
         "key": "ArrowLeft",
@@ -432,6 +448,22 @@
         "key": "ArrowDown",
         "modifiers": [
           "Shift"
+        ]
+      }
+    ],
+    "list:manual-sort-up": [
+      {
+        "key": "ArrowUp",
+        "modifiers": [
+          "Mod"
+        ]
+      }
+    ],
+    "list:manual-sort-down": [
+      {
+        "key": "ArrowDown",
+        "modifiers": [
+          "Mod"
         ]
       }
     ],
@@ -564,7 +596,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "3.1.2",
+  "lastShownVersion": "3.2.2",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": []
