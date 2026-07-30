@@ -42,4 +42,5 @@
 - [ ] [Apache Beam](https://beam.apache.org/)
 - [x] [KEDA](https://keda.sh) ✅ 2026-03-07
 - [ ] B-Trees
-- [ ] cnpg 
+- [ ] cnpg
+- [ ] [Tirith](https://github.com/sheeki03/tirith)

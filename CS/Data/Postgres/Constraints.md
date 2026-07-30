@@ -1,6 +1,8 @@
 ---
 date: 2026-06-10
 title: Constraints
+tags:
+  - data/sql/pg
 ---
 # Check
 ## Column Constraint

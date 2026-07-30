@@ -1,6 +1,8 @@
 ---
 date: 2026-06-10
 title: Functions
+tags:
+  - data/sql/pg
 ---
 ```sql
 CREATE FUNCTION concat_lower_or_upper(a text, b text, uppercase boolean DEFAULT false)

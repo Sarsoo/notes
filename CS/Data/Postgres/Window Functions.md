@@ -1,6 +1,8 @@
 ---
 date: 2026-06-10
 title: Window Functions
+tags:
+  - data/sql/pg
 ---
 ```sql
 SELECT depname, empno, salary, avg(salary) OVER (PARTITION BY depname) FROM empsalary;

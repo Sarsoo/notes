@@ -1,6 +1,8 @@
 ---
 date: 2026-04-05
 title: Nix
+tags:
+  - infra/linux
 ---
 [dustinlyons](https://github.com/dustinlyons) / **[nixos-config](https://github.com/dustinlyons/nixos-config)**
 

@@ -70,7 +70,8 @@
           "transitionStyle": "hue",
           "scope": "root"
         }
-      }
+      },
+      "descendantExcludedFolders": []
     }
   ],
   "vaultProfile": "default",
@@ -199,10 +200,10 @@
   "showRootFolder": true,
   "inheritFolderColors": false,
   "folderSortOrder": "alpha-asc",
-  "enableFolderNotes": false,
+  "enableFolderNotes": true,
   "folderNoteType": "markdown",
   "folderNoteName": "",
-  "folderNoteNamePattern": "",
+  "folderNoteNamePattern": "_index",
   "folderNoteTemplate": null,
   "enableFolderNoteLinks": true,
   "hideFolderNoteInList": true,
@@ -224,7 +225,7 @@
   "showAllPropertiesFolder": true,
   "scopePropertiesToCurrentContext": false,
   "defaultListMode": "standard",
-  "includeDescendantNotes": true,
+  "includeDescendantNotes": false,
   "defaultFolderSort": "modified-desc",
   "propertySortKey": "",
   "propertySortSecondary": "title",
@@ -238,6 +239,7 @@
   "showSelectedNavigationPills": false,
   "stickyGroupHeaders": true,
   "showFolderGroupPaths": true,
+  "showGroupHeaderItemCounts": false,
   "showCurrentFolderFilesAtBottom": false,
   "filterPinnedByFolder": false,
   "compactItemHeight": 28,
@@ -316,6 +318,7 @@
   "calendarMonthHeadingFormat": "full",
   "calendarHighlightToday": true,
   "calendarShowFeatureImage": true,
+  "calendarShowTasks": true,
   "calendarMonthHighlights": {},
   "calendarShowWeekNumber": false,
   "calendarShowQuarter": false,
@@ -596,7 +599,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "3.2.2",
+  "lastShownVersion": "3.2.4",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": []

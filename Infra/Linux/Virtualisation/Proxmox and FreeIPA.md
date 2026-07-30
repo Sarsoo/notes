@@ -1,6 +1,9 @@
 ---
 date: 2026-06-13
 title: Proxmox and FreeIPA
+tags:
+  - infra/linux
+  - infra/virtualisation
 ---
 `- FreeIPA picks massive IDs
 - Default `/etc/subuid`/`/etc/subgid` doesn't include these ranges

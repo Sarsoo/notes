@@ -1,6 +1,8 @@
 ---
 date: 2026-06-10
 title: Postgres
+tags:
+  - data/sql/pg
 ---
 # Quotes
 - `"`

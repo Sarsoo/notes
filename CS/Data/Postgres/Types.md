@@ -1,6 +1,8 @@
 ---
 date: 2026-06-10
 title: Types
+tags:
+  - data/sql/pg
 ---
 _`type`_ '_`string`_'
 - Type specification

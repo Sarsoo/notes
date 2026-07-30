@@ -1,6 +1,8 @@
 ---
 date: 2026-06-10
 title: JSON
+tags:
+  - data/sql/pg
 ---
 - Syntax checking
 - `json`

@@ -1,8 +1,10 @@
 ---
 date: 2026-06-10
 title: Transactions
+tags:
+  - data/sql/pg
 ---
-```sql
+- [ ] ```sql
 BEGIN;
 -- transaction content
 COMMIT;

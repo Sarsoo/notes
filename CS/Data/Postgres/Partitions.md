@@ -1,6 +1,8 @@
 ---
 date: 2026-06-10
 title: Partitions
+tags:
+  - data/sql/pg
 ---
 ```sql
 CREATE TABLE measurement (

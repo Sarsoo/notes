@@ -1,6 +1,8 @@
 ---
 date: 2026-06-10
 title: Keys
+tags:
+  - data/sql/pg
 ---
 # Primary
 ```sql
