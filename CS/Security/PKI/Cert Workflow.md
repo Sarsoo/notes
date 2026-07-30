@@ -1,6 +1,8 @@
 ---
 date: 2026-04-04
 title: Cert Workflow
+tags:
+  - security/pki
 ---
 # Generate RSA Private Key
 ```bash

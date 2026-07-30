@@ -2,7 +2,7 @@
 date: 2026-06-27
 title: Bash
 tags:
-  - scripting
+  - dev/scripting
 ---
 # Join Array
 ## By Comma

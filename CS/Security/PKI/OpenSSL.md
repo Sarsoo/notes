@@ -1,6 +1,8 @@
 ---
 date: 2026-04-04
 title: OpenSSL
+tags:
+  - security/pki
 ---
 - CSR
 	- Common name

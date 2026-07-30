@@ -1,6 +1,8 @@
 ---
 date: 2026-04-04
 title: Encryption Workflow
+tags:
+  - security/pki
 ---
 [OpenSSL Tutorial](https://www.cs.toronto.edu/~arnold/427/19s/427_19S/tool/ssl/notes.pdf)
 # Encrypt with opposing Pub

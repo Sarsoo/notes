@@ -1,6 +1,8 @@
 ---
 date: 2026-04-04
 title: Platform
+tags:
+  - k8s
 ---
 - [Shell Operator](https://github.com/flant/shell-operator)
 - [Agones](https://github.com/agones-dev/agones)

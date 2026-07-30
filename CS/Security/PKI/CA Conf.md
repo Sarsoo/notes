@@ -1,6 +1,8 @@
 ---
 date: 2026-04-04
-title: Untitled
+title: CA Conf
+tags:
+  - security/pki
 ---
 [OpenSSL CA tutorial – A full-featured openssl PKI](https://grimoire.carcano.ch/blog/openssl-ca-tutorial-a-full-featured-openssl-pki/)
 

@@ -1,6 +1,8 @@
 ---
 date: 2026-04-04
 title: CA Workflow
+tags:
+  - security/pki
 ---
 # Root Private Key
 ```bash
