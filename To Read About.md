@@ -1,5 +1,3 @@
----
----
 - [ ] SD-WAN #net 
 - [ ] Nix #infra/linux
 - [ ] [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
@@ -9,20 +7,20 @@
 - [ ] Diffusion Models #ai 
 - [ ] WireGuard #net
 - [x] RabbitMQ #net/comms ✅ 2026-03-06
-- [ ] OSINT
+- [ ] OSINT #security 
 - [x] [K8s](https://kubernetes.io/) #cloud ✅ 2024-06-13
 - [x] [Helm](https://helm.sh/) #cloud ✅ 2024-06-13
-- [ ] LLVM #dev/low-level 
+- [ ] LLVM #dev/low-level
 - [ ] TPM #dev/low-level
-- [ ] QuickEMU
+- [ ] QuickEMU #infra/virtualisation 
 - [x] OpenTelemetry ✅ 2026-03-06
 - [ ] DAPR #net #cloud
 - [ ] GraphQL #net #net/comms
 - [x] ZFS ✅ 2026-03-06
 - [ ] Nebula #net
 - [ ] aircrack-ng #net
-- [ ] Powertop
-- [ ] Timeshift
+- [ ] Powertop #infra/linux 
+- [ ] Timeshift #infra/linux 
 - [ ] NFS/Samba #net
 - [ ] Jitsi #net/comms
 - [ ] Bicep on ARM #cloud
@@ -38,9 +36,12 @@
 - [x] Zabbix ✅ 2024-03-12
 - [x] Source Generators #dev/dotnet ✅ 2026-03-07
 - [ ] [.NET Aspire](https://blog.jetbrains.com/dotnet/2024/02/19/jetbrains-rider-and-the-net-aspire-plugin/) #dev/dotnet #dev #infra #net 
-- [ ] [Apache](CS/Data/Apache.md) [Airflow](https://airflow.apache.org)
-- [ ] [Apache Beam](https://beam.apache.org/)
+- [ ] [Apache](CS/Data/Apache.md) [Airflow](https://airflow.apache.org) #data 
+- [ ] [Apache Beam](https://beam.apache.org/) #data 
 - [x] [KEDA](https://keda.sh) ✅ 2026-03-07
-- [ ] B-Trees
-- [ ] cnpg
-- [ ] [Tirith](https://github.com/sheeki03/tirith)
+- [ ] B-Trees #data/sql 
+- [ ] cnpg #data/sql/pg 
+- [ ] [Tirith](https://github.com/sheeki03/tirith) #bash
+- [ ] [MassTransit](https://masstransit.massient.com) #dev/dotnet 
+- [ ] [Firecrawl](https://github.com/firecrawl/firecrawl) #ai 
+- [ ] Jenkins JCasC #devops/iac #devops/ci

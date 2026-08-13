@@ -3,5 +3,8 @@
   "baseFontSize": 16,
   "theme": "system",
   "translucency": false,
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Fraunces,Palatino,Times",
+  "textFontFamily": "Fraunces,Palatino,Times",
+  "monospaceFontFamily": "JetBrains Mono,Andale Mono,PT Mono"
 }
