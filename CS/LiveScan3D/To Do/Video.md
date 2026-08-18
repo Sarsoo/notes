@@ -1,0 +1,40 @@
+---
+onenote-id: 0-268cf970d12af821bad79eda3ada921d!1-D084F068F621FF9!3717
+---
+- Holoportation
+- Environment layout
+	- Client-server
+	- 3 node types
+	- Roles
+- Livescan
+	- Authors
+- Client-server
+	- Client
+	- Server
+		- .Net 5.0
+		- Library
+		- Console
+		- Forms
+		- ICP
+	- Player
+- Network protocol
+	- Bespoke
+- Multi view
+- Multi source
+- FPS limiting
+- Unity app
+	- Hololens
+	- ARCore
+	- Arfoundation
+	- Graphics pipeline
+- Run through frame flow chart
+- Cameras   
+- Server-client
+	- Logging
+	- Re-git
+	- Documentation
+	- .NET 5
+- Mobile
+	- Documentation
+	- New render pipeline
+	- ARFoundation

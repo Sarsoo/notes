@@ -23,5 +23,5 @@ A finite [feedforward](../Architectures.md) MLP with 1 hidden layer can in theor
 -   TLU is hard limiter
 ![tlu](../../../img/tlu.png)
 - $o_1$ to $o_4$ must all be one to overcome -3.5 bias and force output to 1
-![mlp-non-linear-decision](../../../img/mlp-non-linear-decision.png)
+![3 Complex decision boundary 01 1 1 02 1 ifX1 2 03 ...](../../../img/OneNote/MLP%20-%20DONE%20image%20b0b8e73b19e6caa4.png)
 - Can generate a non-linear [decision boundary](Decision%20Boundary.md)

@@ -60,3 +60,30 @@ $$p(X|x_1=i,M)=(a_{ii})^{\tau-1}(1-a_{ii})$$
 - Given, $a_{33}=0.8$
 - $\times0.8$ repeatedly
 	- Stay in state
+
+# Hidden
+![Exported image](../../../img/OneNote/Markov%20image%20b07490ac5f77f316.png)
+
+# Discrete
+$$b_i(o_t)=P(o_t=k|x_t=1)$$
+- $b$ = output
+# Continuous
+$$b_i(o_t)=p(o_t|x_t=1)$$
+Subscript indicates state outputting from
+![al I a44 an an a34 114 b Ioi b03 b9 b 102 bQD gene...](../../../img/OneNote/Markov%20image%20a2b603a1af888eb2.png)
+$$P(O,X|\lambda)=P(X|\lambda)P(O|X,\lambda)$$
+- Probability of state sequence and observations
+	- States given model times observations given states
+- Either two sequences
+	- States given model
+	- Observations given states
+- Or as a whole
+	- State transition
+	- Observation given state
+	- Iterate
+![0.8 0.6 1.0 0.2 0.4 2 01 02 03](../../../img/OneNote/Markov%20image%20992b1ebfc126c0f4.png)
+![1 0.8 0.2 0.6 R 0.5 0.4 G 0.2 0.9 0.3 0.1](../../../img/OneNote/Markov%20image%205b7fd49b5b8e1903.png)
+$X = \left(1 , 2 , 2\right)$ 
+$$P \left(O , X \left|\right. \lambda\right) = \left(\prod_{t = 1}^{T} a_{x_{t - 1} x_{t}} b_{x_{t}} \left(o_{t}\right)\right) 𝜂_{x_{T}}$$ 
+$$=\pi_1b_1(o_1)a_{12}b_2(o_2)a_{22}b_2(o_3)\eta_2$$
+$= 1 \times 0 . 5 \times 0 . 2 \times 0 . 9 \times 0 . 6 \times 0 . 9 \times 0 . 4$

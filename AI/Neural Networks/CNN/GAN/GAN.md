@@ -22,9 +22,9 @@ tags:
 ## Discriminator, D
 - Discriminator is a classifier #ai/classification 
 	- Is image fake or real
+![Real world images o Generator O Sample Sample Real...](../../../../img/OneNote/GAN%20-%20DONE%20image%20809d1fd973860926.png)
 
-![gan-arch](../../../../img/gan-arch.png)
-![gan-arch2](../../../../img/gan-arch2.png)
+![sigmoid function Discriminator Network Z pzz prior...](../../../../img/OneNote/GAN%20-%20DONE%20image%2093178f46926955f1.png)
 
 ![gan-results](../../../../img/gan-results.png)]
 

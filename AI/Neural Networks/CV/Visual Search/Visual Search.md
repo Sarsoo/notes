@@ -8,9 +8,8 @@ tags:
 - Use metric space over feature space
 	- Get ranked list
 
-![](../../../../img/visual-search-arch.png)
+![Encoder Query Q Search Embedding](../../../../img/OneNote/Visual%20Search%20image%2053a342dde3033156.png)
 # Crude Method
 - Doesn't enforce metric relationship
 - Sample prior to final softmax
 ![](../../../../img/visual-search-crude.png)
-

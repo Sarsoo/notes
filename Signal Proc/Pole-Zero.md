@@ -63,4 +63,4 @@ Sinusoidal when complex pair
 Exponential when on the axis
 - Decays, no $i$ in the exponent
 
-![](../img/transfer-stable-unstable.png)
+![x stable region 36 x unstable region](../../../img/OneNote/Pole-Zero%20-%20DONE%20image%207b0659451ec88649.png)

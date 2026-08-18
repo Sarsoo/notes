@@ -4,7 +4,8 @@ tags:
   - net
   - iot
 ---
-![](../../img/iot-network-types.png)
+
+![Data Rate LAN O Bluetooth GAVE These are short ran...](../../../../../img/OneNote/Network%20-%20DONE%20image%2071d16f2cb50a26a9.png)  ![Local Area Solutions Data rate Range Battery life ...](../../../../../img/OneNote/Network%20-%20DONE%20image%20772a759457fea90c.png) ![Scalability eSigfox eNB10T Sigfox LORa offer simil...](../../../../../img/OneNote/Network%20-%20DONE%20image%201e4b357c22c19da2.png)
 
 # Gateway
 - Connects IoT devices to internet
@@ -23,8 +24,6 @@ tags:
 	- Encrypting, filtering, consolidating
 - Boundary between networks
 	- Security
-
-![](../../img/iot-network-radar.png)
 
 # Network Module
 - 802.15.4 only a channel
@@ -74,8 +73,8 @@ tags:
 - Bottleneck
 	- One node relaying lots of data
 	- Bad placement of gateway
+![Cloud server Internet 10T Gateway 10T Network Gate...](../../../../../img/OneNote/Network%20-%20DONE%20image%20aa98ab14689a0756.png)
 
-![](../../img/iot-network-types%201.png)
 ![](../../img/iot-mesh-network.png)
 - Low power devices
 - Multi-hop

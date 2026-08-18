@@ -73,6 +73,7 @@ $$\delta_j(n)=
 
 ## Weight Correction
 $$\text{weight correction = learning rate $\cdot$ local gradient $\cdot$ input signal of neuron $j$}$$
+ $\begin{bmatrix} W e i g h t \\ c o r r e c t i o n \\ \Delta w_{j i} \left(n\right) \end{bmatrix} = \begin{bmatrix} l e a r n i n g - \\ r a t e  p a r a m e t e r \\ 𝜂 \end{bmatrix} \cdot \begin{bmatrix} l o c a l \\ g r a d i e n t \\ \delta_{j} \left(n\right) \end{bmatrix} \cdot \begin{bmatrix} i n p u t  s i g n a l \\ o f  n e u r o n  j \\ y_{i} \left(n\right) \end{bmatrix}$  
 $$\Delta w_{ji}(n)=\eta\cdot\delta_j(n)\cdot y_i(n)$$
 
 -   Looking for partial derivative of error with respect to each weight

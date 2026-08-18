@@ -9,5 +9,6 @@
   "anuppuccin-theme-settings@@anp-table-toggle": true,
   "anuppuccin-theme-settings@@anp-file-icons": true,
   "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-alternate-tab-toggle",
-  "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout"
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
+  "anuppuccin-theme-settings@@anp-latex-block-font-size": 150
 }

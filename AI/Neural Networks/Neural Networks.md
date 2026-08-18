@@ -21,21 +21,11 @@ A neural network is a directed graph consisting of nodes with interconnecting sy
 3. The weighted sum of the input signals defines the induced local field of the neuron in question
 4. The activation link squashes the induced local field of the neuron to produce an output
 
-# Knowledge
-
-*Knowledge refers to stored information or models used by a person or machine to interpret, predict, and appropriately respond to the outside world*
-
-Made up of:
-1. The known world state
-	- Represented by facts about what is and what has been known
-	- Prior information
-2. Observations of the world
-	- Usually inherently noisy
-	- Measurement error
-	- Pool of information used to train
-
-- Can be labelled or not
-	- (Un-)Supervised
-
-*Knowledge representation of the surrounding environment is defined by the values taken on by the free parameters of the network*
-- Synaptic weights and biases
+# Why Extract Classical Rules from Neural Nets
+- Allows understandable external validation by users
+- Improve generalisation performance
+	- Identifying input space where training data not represented
+	- Identifying times when net may fail to generalise
+- Discover salient features for exploration
+- Interface bittern connectionist and symbolic approaches to development
+- Validation for safety requirements

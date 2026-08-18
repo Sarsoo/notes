@@ -6,7 +6,7 @@ tags:
 Pattern Recogniser***
 Allows timescale variations in sequences for same class
 
-![](../../img/dtw-graph.png)
+![dt,i frames in test utterance](../../../img/OneNote/Dynamic%20Time%20Warping%20-%20DONE%20image%2037699769cd8609f1.png)
 
 $$D(T,N)=\min_{t,i}\sum_{\substack{t\in1..T \\ i\in1..N}}d(t,i)$$
 - $d(t,i)$ is distance between features from $t$-th frame of test to $i$-th frame of template

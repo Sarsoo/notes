@@ -7,5 +7,8 @@
   "obsidian-view-mode-by-frontmatter",
   "templater-obsidian",
   "notebook-navigator",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-importer",
+  "smart-connections",
+  "find-unlinked-files"
 ]

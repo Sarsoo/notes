@@ -1,0 +1,20 @@
+- Stationary environment
+	- Essential statistics can be learned
+	- Model can then be frozen
+- Nonstationary environment
+	- Not equipped to track statistical variations
+	- Adaptive system
+- Linear adaptive filter
+	- Linear combiner
+		- Single neuron operating in linear mode
+	- Mature applications
+	- Nonlinear adaptive filters
+		- Less mature
+- Environments typically considered pseudo-stationary
+	- Speech stationary over short windows
+- Retrain network at regular intervals to account for fluctuations
+	- E.g. stock market
+- Train network on short time window
+	- Add new data and pop old
+		- Slide window
+	- Retrain network

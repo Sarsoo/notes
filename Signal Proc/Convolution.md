@@ -3,7 +3,7 @@ tags:
   - maths/signals
   - maths
 ---
-Integral operator
+# Integral operator
 -   Satisfies mathematical properties of integral operator
 -   Product of two after one has been reversed and shifted
 
@@ -42,3 +42,33 @@ $$x(t)=x_1(t)\circledast x_2(t)=\int_{-\infty}^\infty x_1(t-\tau)\cdot x_2(\tau)
 # Discrete
 $$G[i,j]=H[u,v]\circledast F[i,j]$$
 $$G[i,j]=\sum^k_{u=-k}\sum^k_{v=-k} H[u,v]F[i-u,j-v]$$
+
+# Polynomial Multiplication
+- Convolving coefficients of two poly gives coefficients of product
+
+# Correlation
+$$c\left[m\right]=\frac{1}{N}\sum\limits_{n=0}^{N-1}s\left[n\right]t\left[n+m\right]$$
+- Statistical measure of similarity
+- One shifted across the other
+	- Basically convolution
+		- No time reversal
+
+# Autocorrelation
+$$R\left[m\right]=\frac{1}{N}\sum\limits_{n=0}^{N-1}s\left[n\right]s\left[n+m\right]$$
+- X-Correlation with itself
+- Largest value at zero-lag
+	- Average power of signal
+$$R\left[0\right]=\frac{1}{N}\sum\limits_{n=0}^{N-1}s\left[n\right]^2$$
+- Generally decreases over time ($m$ increases)
+- Peaks indicate periodicity
+	- Minimise amplitude difference
+$$E[\tau]=\frac{1}{N}\sum_{n=0}^{N-1}\left(s[n]-\beta s[n+\tau]\right)^2$$
+	- Maximise normalised auto-correlation
+$$R[\tau]=\frac{1}{N}\frac
+{\sum_{n=0}^{N-1}s[n]s[n+\tau]}
+{\sqrt{\sum_{n=0}^{N-1}s\left[n+\tau\right]^2}}$$
+	- Only need to check certain range of lags for speech
+		- m = sample freq / fundamental freq
+		- Sample = 60 Hz for male, 600 Hz for children
+- PSD of speech is DFT of autocorrelation
+$$DFT\{R[m]\}=P[k]=DFT\{s[n]\}DFT^*\{s[n]\}/N$$

@@ -35,6 +35,7 @@ Compilation
 Data preprocess
 - Reshape input frame into linear array
 - Categorically encode labels
+
 Fit
 Predict
 Evaluate

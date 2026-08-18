@@ -20,8 +20,8 @@ tags:
 
 # Pattern Recognition
 - Received pattern/signal is assigned to one of a prescribed number of classes
-![](../../../img/nn-tasks-pattern.png)
 
+![Input pattern Unsupervised network for extraction ...](../../../../img/OneNote/Tasks%20-%20DONE%20image%201e64f103f84375f6.png)
 # Function Approximation
 - System Identification
 ![](../../../img/nn-tasks-function-approx.png)

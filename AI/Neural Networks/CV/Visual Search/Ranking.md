@@ -1,0 +1,11 @@
+- Maximise average precision
+	- Not differentiable
+		- Not a loss function
+- Use surrogate losses to approximate
+	- Pointwise loss
+		- Regression
+	- Pairwise loss
+		- Contrastive
+		- Triplet
+		- Quadruplet
+	- Listwise loss

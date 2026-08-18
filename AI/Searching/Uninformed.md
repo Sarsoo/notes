@@ -17,6 +17,11 @@ tags:
 
 ![](../../img/search-breadth-first.png)
 
+# Uniform Cost
+- Modifies breadth first
+- Some nodes 'cost' less to expand
+ ![State space Home Search 10 11 15 15 10 Destination...](../../../img/OneNote/Uninformed%20-%20DONE%20image%20b1d4522b35ae28b0.png)
+
 # Depth First
 - Between $(1+d)$ and $(\frac{b^{d+1}-1}{b-1})$  
 	- If at left hand side or right hand side
