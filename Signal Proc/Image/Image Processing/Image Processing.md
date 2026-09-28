@@ -1,5 +1,6 @@
 ---
 onenote-id: 0-96fb900ce3ec4a34936840345bec0074!1-D084F068F621FF9!3708
+title: Image Processing
 ---
 Blur
  

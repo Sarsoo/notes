@@ -2,6 +2,7 @@
 tags:
   - linguistics
   - speech
+title: Consonants
 ---
 - Complete or partial closure of vocal tract
 - Voiced/Unvoiced
